@@ -14,9 +14,9 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="umitribe/law-xml" commit="a22e09e0f3f52b75c7574f99d7c01b4fb86d91ed"/>
+        <repository name="umitribe/law-xml" commit="57bdf6167bcae226557b0a5626d57c4030517e05"/>
       </repositories>
-      <platform version="2.13.1" reproducible="false"/>
+      <platform version="2.13.2" reproducible="false"/>
       <build-date>2024-01-30</build-date>
       <codified-date>2023-10-28</codified-date>
     </build>
