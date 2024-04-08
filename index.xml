@@ -12,18 +12,20 @@
       <static-assets>https://github.com/umitribe/law-static-assets</static-assets>
       <html/>
     </canonical-urls>
+    <history-start>2023-07-21</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="umitribe/law-xml" commit="57bdf6167bcae226557b0a5626d57c4030517e05"/>
+        <repository name="umitribe/law-xml" commit="e7a71fa14252837f082c223eb4ec46da734697ad"/>
       </repositories>
-      <platform version="2.13.2" reproducible="false"/>
-      <build-date>2024-01-30</build-date>
-      <codified-date>2023-10-28</codified-date>
+      <platform version="2.14.0" reproducible="false"/>
+      <build-date>2024-04-08</build-date>
+      <codified-date>2024-03-29</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/umitribe/council/constitution/index.xml"/>
   <collection name="us/nsn/umitribe/council/resolutions">
     <heading>Resolutions</heading>
+    <xi:include href="./us/nsn/umitribe/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/umitribe/council/resolutions/2023/index.xml"/>
   </collection>
 </library>
