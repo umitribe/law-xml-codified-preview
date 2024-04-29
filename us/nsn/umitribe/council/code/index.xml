@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Indian Tribal Code">
+  <heading>Upper Mattaponi Indian Tribal Code</heading>
+  <meta>
+    <effective>0001-01-01</effective>
+  </meta>
+  <xi:include href="./Contracting_Authority_Act.xml"/>
+  <xi:include href="./Election_Law.xml"/>
+  <xi:include href="./Employment_Contracts_Authorization_Act.xml"/>
+  <xi:include href="./Enabling_Act.xml"/>
+  <xi:include href="./Fiscal_Procedures_Act.xml"/>
+  <xi:include href="./Procurement_Policy_Authorization_Act.xml"/>
+  <xi:include href="./Self-Determination_638-Contracts_Authorization_Act.xml"/>
+</document>

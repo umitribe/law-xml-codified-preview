@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Indian Tribal Code">
+  <container containing-doc="Upper Mattaponi Indian Tribal Code">
+    <prefix>TITLE</prefix>
+    <num>5</num>
+    <heading>DEPARTMENT OF HEALTH PROCUREMENT POLICY AUTHORIZATION ACT OF 2023</heading>
+    <section>
+      <num>101</num>
+      <heading>Short Title.</heading>
+      <text>This enactment shall be known as the Department of Health Procurement Policy Authorization Act ("Act").</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>102</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of the Act is to authorize and establish a Procurement Policy for the Department of Health.</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>103</num>
+      <heading>Findings.</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>In accordance with the authority under the Constitution, the Council established a Department of Health to operate and administer various health care programs and services for the Tribe; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Department of Health and programs operating within the Department of Health have grown significantly in a short period of time, and the Tribe's procurement policies can no longer efficiently accommodate the unique needs of the Department of Health to obtain and administer large programs and budgets, including the need to purchase expensive medical equipment; and,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>based on the success of the Tribe's existing health care programs and services, the Council finds the need to authorize a separate procurement policy for the Department of Health, subject to modification by the Chief as authorized by law.</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>104</num>
+      <heading>Procurement Policy.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Chief shall have the authority to establish and modify a written procurement policy for the Department of Health and/or its subdivisions. Any modification to an existing procurement policy for the Department of Health shall be provided to the Council within thirty days of approval by the Chief.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any procurement policy for the Department of Health approved by the Chief shall include the following provisions:</text>
+        <para>
+          <num>(A)</num>
+          <text>Notwithstanding any other procurement policy or resolution adopted by the Tribe, the Department of Health is authorized to negotiate, execute and otherwise conclude, and administer contracts and agreements in accordance with appropriated funds as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text><u>Operational Contracts</u>: for goods and services, including those with state and federal agencies ("intergovernmental agreements"), that are necessary to maintain operations, services, and to comply with Centers for Medicare and Medicaid Services ("CMS") conditions of participation (collectively, "Operational Contracts"); and,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><u>Revenue Contracts</u>: with insurance providers, third-party administrators, and other similar type of patient benefit providers that are necessary for the Department of Health to submit claims and receive payment for services (collectively, "Revenue Contracts").</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Tribe's liability for an Operational Contract or Revenue Contract entered pursuant to this Act shall not exceed, and sovereign immunity is not waived for, an amount greater than the Tribe's applicable insurance coverage or the total value of the contract, whichever is lower; provided, that the Department of Health shall provide the Council and Chief with an annual written report detailing the number of contracts entered into that included a waiver of sovereign immunity including the purposes and terms of each waiver.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>On a semi-annual basis, the Department of Health shall provide a summary of all current Operational and Revenue Contracts, which shall include a description of the type of services provided under the contract, the total and annual amount of the contract, the duration of the contract, and a current revenue and expenditure report, to the Chief and Council.</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+  </container>
+</document>
