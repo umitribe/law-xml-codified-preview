@@ -15,14 +15,15 @@
     <history-start>2023-07-21</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="umitribe/law-xml" commit="42e419784c0503ab658578cce22dd1f8381962b9"/>
+        <repository name="umitribe/law-xml" commit="4e94c70cf1ebeed5f4a8252fe6f0702cb3adaa0d"/>
       </repositories>
       <platform version="2.14.0" reproducible="false"/>
-      <build-date>2024-07-09</build-date>
+      <build-date>2024-07-29</build-date>
       <codified-date>2024-06-25</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/umitribe/council/constitution/index.xml"/>
+  <xi:include href="./us/nsn/umitribe/council/code/index.xml"/>
   <collection name="us/nsn/umitribe/council/resolutions">
     <heading>Resolutions</heading>
     <xi:include href="./us/nsn/umitribe/council/resolutions/2024/index.xml"/>
