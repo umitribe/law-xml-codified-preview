@@ -1,15 +1,346 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2024-013">
-  <num>2024-013</num>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2024-13">
+  <num>2024-13</num>
   <heading>Tribal Water Pollution Prohibition Act of 2024</heading>
   <meta>
-    <stub/>
     <effective>2024-06-25</effective>
     <history>
       <adopted>2024-06-22</adopted>
     </history>
     <citations>
-      <citation type="res" url="./adopted/2024-013.pdf">2024-013</citation>
+      <citation type="res" url="./adopted/2024-13.pdf">Upper Mattaponi Tribe Res. No. 2024-13</citation>
     </citations>
   </meta>
+  <text class="center">An Act of the Council of the Upper Mattaponi Tribe relating to the Environment and Natural Resources; prohibiting the discharge of pollutants into Tribal Waters; providing short title; citing legislative authority; making findings and declarations; providing definitions; assigning enforcement responsibilities; providing penalties; providing for clean-up and abatement; establishing cause of action and prescribing remedies; providing for emergency enforcement; and declaring an emergency.</text>
+  <preamble>At a duly called Regular Meeting of the Council held this 22 day of June, 2024, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>BE IT ENACTED BY THE COUNCIL OF THE UPPER MATTAPONI TRIBE:</conjunction>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>Short Title</heading>
+    <text>This Act shall be known and may be cited as the "Tribal Water Pollution Prohibition Act of 2024."</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Legislative Authority</heading>
+    <text>The Council of the Upper Mattaponi Tribe is vested with the authority to enact laws governing the conduct of all persons subject to the Upper Mattaponi Tribe's jurisdiction to provide for the safety, health and welfare of the Tribe, including laws pertaining to the use and development of Tribal lands and resources and regulating the environment, natural resources and water rights, pursuant to Article VII, Section 4(c) of the Constitution of the Upper Mattaponi Tribe.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>New Law</heading>
+    <text>A new chapter of law of the Upper Mattaponi Tribe, not to be codified, reads as follows:</text>
+    <include>
+      <container>
+        <heading>Upper Mattaponi Tribe Tribal Water Pollution Prohibition Act of 2024</heading>
+        <section>
+          <num>100</num>
+          <heading>Definitions</heading>
+          <text>As used in this Act, and where referenced elsewhere in law, the following terms have the following definitions:</text>
+          <para>
+            <num>A.</num>
+            <text>"Act" means the Tribal Water Pollution Prohibition Act of 2024.</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>"Chief" means the Chief of the Upper Mattaponi Tribe.</text>
+          </para>
+          <para>
+            <num>C.</num>
+            <text>"Council" shall mean the Upper Mattaponi Tribal Council.</text>
+          </para>
+          <para>
+            <num>D.</num>
+            <text>"Office" means the Tribal Environmental and Cultural Protection Office.</text>
+          </para>
+          <para>
+            <num>E.</num>
+            <text>"Person" shall mean any individual, corporation, firm, partnership, joint venture, association, social club, estate, trust, the United States, Tribe, State, County, City, District, or other political subdivision of any state or any other group or combination acting as a unit.</text>
+          </para>
+          <para>
+            <num>F.</num>
+            <text>"Pollutant" means any substance that will alter the quality of Tribal Waters.</text>
+          </para>
+          <para>
+            <num>G.</num>
+            <text>"Quality of Tribal Waters" means any chemical, physical, biological, bacteriological, radiological and other properties and characteristics of water which affects its use.</text>
+          </para>
+          <para>
+            <num>H.</num>
+            <text>"Tribal land" means all land, air, and water held in trust by the United States for the benefit of the Upper Mattaponi Tribe.</text>
+          </para>
+          <para>
+            <num>I.</num>
+            <text>"Tribal Water or Waters" means any water, surface or underground located on or running through the Tribal land.</text>
+          </para>
+        </section>
+        <section>
+          <num>101</num>
+          <heading>Findings, Legislative Purpose, and Authority</heading>
+          <text>The Council of the Upper Mattaponi Tribe hereby finds and declares as follows:</text>
+          <para>
+            <num>A.</num>
+            <text>The Council deems it necessary to eliminate all discharges of pollutants into Tribal waters for the health, safety, and wellbeing of the Tribe.</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>Elimination of all discharges of pollutants into Tribal waters is necessary at this time in order to maintain water quality for consumption, ecosystem health, recreation, and other domestic purposes.</text>
+          </para>
+          <para>
+            <num>C.</num>
+            <text>This Act is enacted at this time as an emergency measure to maintain the quality of the Tribal waters until such time as the Upper Mattaponi Tribe can enact new law comprehensively regulating water quality and discharge of pollutants on Tribal lands.</text>
+          </para>
+          <para>
+            <num>D.</num>
+            <text>This Act is enacted so that the Tribe may qualify for treatment as a state under Section 504 of the federal Clean Water Act and the related rules of the Environmental Protection Agency, 54 Fed. Reg. 14358 (Interim Revision of 40 C.F.R. §35.260(b)), by exercising emergency powers comparable to those of the Administrator of the Environmental Protection Agency and having adequate contingency plans to implement such authority.</text>
+          </para>
+          <para>
+            <num>E.</num>
+            <text>All Tribal lands subject to regulation under this Act are lands held in trust by the United States for the benefit of the Upper Mattaponi Tribe, and as such the Tribe may exercise civil regulatory authority and authority as the beneficial owners of the land and resources at issue.</text>
+          </para>
+        </section>
+        <section>
+          <num>102</num>
+          <heading>Enforcement</heading>
+          <text>The Tribal Environmental and Cultural Protection Office shall be responsible for implementing and enforcing this Act.</text>
+        </section>
+        <section>
+          <num>103</num>
+          <heading>Prohibited Discharges</heading>
+          <text>No person shall discharge any pollutant into Tribal waters.</text>
+        </section>
+        <section>
+          <num>104</num>
+          <heading>Administrative Penalty</heading>
+          <text>Any person discharging any pollutant into Tribal waters may be assessed an administrative fine in an amount not to exceed one thousand dollars ($1,000.00) for each day in which the violation occurs. The administrative fine required by this section shall be assessed in the discretion of the Tribal Environmental and Cultural Protection Office after notice and an opportunity to be heard is provided to a person alleged to have discharged a pollutant into Tribal waters.  The administrative fine may be assessed in addition to any other penalties provided for by law.</text>
+        </section>
+        <section>
+          <num>105</num>
+          <heading>Clean Up and Abatement</heading>
+          <text>Any person that discharges any pollutant into the Tribal waters shall immediately, but in any case, not less than twenty-four (24) hours from the time of the discharge, notify the Tribal Environmental and Cultural Protection Office of said discharge and shall fully disclose to the Office any and all information regarding the discharge, including but not limited to the type of pollutant discharged and any other information required by the Office. Any person who discharges any pollutant into Tribal water shall be liable for, in addition to the fines provided for in Section 504, any and all costs associated with or necessary to clean up, abate, or remove any pollutants from the Tribal waters and restore the quality of the Tribal waters to their condition as they existed immediately prior to the discharge, and for any damages resulting from said discharge.</text>
+        </section>
+        <section>
+          <num>106</num>
+          <heading>Court Action and Injunctions</heading>
+          <text>Upon the failure of any person to comply with any of the provisions of this Act, the Chief or designee may petition a court of a competent jurisdiction for the issuance of an injunction requiring such a person to comply therewith.  In any such suit, the court shall have jurisdiction to grant a prohibitory or mandatory injunction, either preliminary or permanent.</text>
+        </section>
+        <section>
+          <num>107</num>
+          <heading>Emergency Enforcement</heading>
+          <text>Notwithstanding any other provisions of this Act, the Chief or designee, upon receipt of evidence that a pollution source or combination of sources is presenting an imminent and substantial endangerment to the health of persons or to the welfare of persons where such endangerment is to the livelihood of such persons, shall bring suit on behalf of the Tribe in any court of competent jurisdiction to immediately restrain any person causing or contributing to the alleged pollution to stop the discharge of pollutants causing or contribution to such pollution or to take such other action as may be necessary.</text>
+        </section>
+        <section>
+          <num>108</num>
+          <heading>Rulemaking Authority</heading>
+          <text>The Office is hereby authorized and directed to promulgate such rules and regulations as are reasonably necessary for the implementation of this Act subject to approval and/or modification by the Council.</text>
+        </section>
+        <section>
+          <num>109</num>
+          <heading>Forum Selection</heading>
+          <text>The Chief or designee shall select a judicial forum for the prosecution of actions relating to this Act according to the following priorities:</text>
+          <para>
+            <num>A.</num>
+            <text>The forum's jurisdiction over all of the necessary parties to the action is certain;</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>A clear and definite mechanism is available to enforce the court's orders; and</text>
+          </para>
+          <para>
+            <num>C.</num>
+            <text>Tribal law will be applied.</text>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Effective Date</heading>
+    <text>It being immediately necessary for the preservation of the peace, health, and safety of the Tribe, an emergency is hereby declared to exist, by reason whereof this Act shall take effect and be in full force from and after its passage and approval.</text>
+  </section>
+  <text class="center">
+    <strong>CERTIFICATION</strong>
+  </text>
+  <text>The foregoing Bill was duly voted upon by the Council on the June 22, 2024, 2024, at a Regular Meeting with a vote of 5 in favor and 0 opposed, 0 abstaining, and 2 absent, pursuant to the authority vested in the Council by the Constitution of the Tribe.</text>
+  <text>__________________________________</text>
+  <text>
+    <em>Wilma Hicks</em>
+  </text>
+  <text>
+    <em>Secretary of the Council or Designee</em>
+  </text>
+  <text>UPPER MATTAPONI TRIBE COUNCIL BILL NO. 2024-13</text>
+  <text><strong>SPONSOR: </strong>R. Adams, Speaker</text>
+  <text>
+    <strong>CO-SPONSORS:</strong>
+  </text>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th>COUNCILMEMBERS</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Rob Adams</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Ken Adams</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Wilma Hicks</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td>X</td>
+        </tr>
+        <tr>
+          <td>Sonny Knighton</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Desirée Dyer</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Owen Adams</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Beth Gondos</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td>X</td>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <text><strong>ASSISTANT CHIEF</strong> (Authorized to break tie votes only):</text>
+  <text>
+    <strong>DELIVERY OF THE RESOLUTION AND LAW TO THE CHIEF</strong>
+  </text>
+  <text>Bill No. 2024-13 was presented to the Chief of the Upper Mattaponi Tribe on the 25<sup>th</sup> day of June, 2024, pursuant to Article VII, Section 5(f) of the Constitution of the Upper Mattaponi Tribe, and will become effective after signature by the Chief or veto override by the Council.</text>
+  <text>__________________________________</text>
+  <text>
+    <em>Wilma Hicks</em>
+  </text>
+  <text>
+    <em>Secretary of the Council or Designee</em>
+  </text>
+  <text><strong>CHIEF'S ACTIONS</strong>:</text>
+  <text>[X] Approved</text>
+  <text>[ ] Veto – Returned to Council with Explanation</text>
+  <text>______________________________________________________________________________</text>
+  <text>______________________________________________________________________________</text>
+  <text>______________________________________________________________________________</text>
+  <text>______________________________________________________________________________</text>
+  <text>______________________________________________________________________________</text>
+  <text>On this 25<sup>th</sup> day of June, 2024.</text>
+  <text>_____________________________</text>
+  <text>
+    <em>Chief</em>
+  </text>
+  <text>Presented to Chief and Council on the _______ day of ______________, 2024.</text>
+  <text><strong>COUNCIL'S ACTIONS</strong>:</text>
+  <text>Override of the Chief's Veto –</text>
+  <text>[ ] Yes</text>
+  <text>[ ] No</text>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th>COUNCILMEMBERS</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Rob Adams</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Ken Adams</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Wilma Hicks</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Sonny Knighton</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Desirée Dyer</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Owen Adams</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Beth Gondos</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <text class="center">
+    <strong>CERTIFICATION</strong>
+  </text>
+  <text>The foregoing Bill was duly voted upon by the Council on _______ day of ______________, 2024, at a Regular Meeting with a vote of ________ in favor and ________ opposed, ________ abstaining, and ________ absent, pursuant to the authority vested in the Council by the Constitution of the Upper Mattaponi Tribe.</text>
+  <text>__________________________________</text>
+  <text>
+    <em>Secretary of the Council or Designee</em>
+  </text>
 </document>
