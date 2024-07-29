@@ -1,15 +1,239 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2024-011">
-  <num>2024-011</num>
-  <heading>Authorization and Approval of UMIT Services, LLC</heading>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2024-11">
+  <num>2024-11</num>
+  <heading>Authorization and Approval of Umit Services, LLC</heading>
   <meta>
-    <stub/>
-    <effective>2024-05-03</effective>
+    <effective>2024-05-05</effective>
     <history>
       <adopted>2024-05-02</adopted>
     </history>
     <citations>
-      <citation type="res" url="./adopted/2024-011.pdf">2024-011</citation>
+      <citation type="res" url="./adopted/2024-11.pdf">Upper Mattaponi Tribe Res. No. 2024-11</citation>
     </citations>
   </meta>
+  <preamble>At a duly called Regular Meeting of the Council held this 2<sup>nd</sup> day of May, 2024, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to Article VI, Section 4(a) of the Constitution of the Upper Mattaponi Tribe ("Constitution"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Upper Mattaponi Indian Tribe Limited Liability Company Code ("Code") requires that all limited liability companies wholly owned by the Tribe, with the Tribe as the sole owner, be created by a duly adopted resolution of the Council; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Code requires an organizer of a limited liability company to file executed Articles of Organization with the Administrator together with fees and any accompanying documents required by law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Code provides that the Administrator is the Upper Mattaponi Indian Tribe Council or their designated representative; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Code provides that the existence of a limited liability company begins on the effective date of the Articles of Organization; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Code provides that filing is conclusive evidence that all conditions precedent required to performed under the Code are fulfilled and that a limited liability company is formed under the Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>UMIT Services, LLC has submitted to the Council its Articles of Organization and Operating Agreement; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>pursuant to the submitted Articles of Organization and Operating Agreement, UMIT Services, LLC is wholly owned by the Tribe with the Tribe as the sole owner; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>pursuant to the submitted Articles of Organization, the effective date of UMIT Services, LLC shall be on the date the Council enacts a resolution authorizing and approving the Articles of Organization; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Council finds it in the best interests of the Tribe to create UMIT Services, LLC.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby authorizes the formation of UMIT Services, LLC, approves the attached "Articles of Organization of UMIT Services, LLC", and reapproves the attached "Operating Agreement of UMIT Services, LLC".</text>
+    </recital>
+  </recitals>
+  <text class="center">
+    <strong>CERTIFICATION</strong>
+  </text>
+  <text>The foregoing resolution was duly voted upon by the Council on May 2, 2024, at a Regular Meeting with a vote of 6 in favor and 0 opposed, 0 abstaining, and 0 vacant, pursuant to the authority vested in the Council by the Constitution of the Tribe.</text>
+  <text>______________________________<br/>Wilma Hicks</text>
+  <text>Speaker of the Council</text>
+  <text>UPPER MATTAPONI TRIBAL COUNCIL RESOLUTION NO. 2024-11</text>
+  <text><strong>SPONSOR:</strong> O. Adams</text>
+  <text>
+    <strong>CO-SPONSORS:</strong>
+  </text>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th>COUNCILMEMBERS</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Rob Adams</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Ken Adams</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Wilma Hicks</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Sonny Knighton</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Desirée Dyer</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Owen Adams</td>
+          <td>X</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>
+            <em>Vacant</em>
+          </td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <text><strong>ASSISTANT CHIEF</strong> (Authorized to break tie votes only):</text>
+  <text>
+    <strong>DELIVERY OF THE RESOLUTION AND LAW TO THE CHIEF</strong>
+  </text>
+  <text>Resolution No. 2024-11 was presented to the Chief of the Upper Mattaponi Tribe on the 3<sup>rd</sup> day of May, 2024, pursuant to Article VII, Section 5(f) of the Constitution of the Upper Mattaponi Tribe, and will become effective after signature by the Chief or veto override by the Council.</text>
+  <text>__________________________________</text>
+  <text>
+    <em>Wilma Hicks</em>
+  </text>
+  <text>
+    <em>Speaker of the Council or Designee</em>
+  </text>
+  <text><strong>CHIEF'S ACTIONS</strong>:</text>
+  <text>[X] Approved</text>
+  <text>[ ] Veto – Returned to Council with Explanation</text>
+  <text>_____________________________________________________________________________________</text>
+  <text>_____________________________________________________________________________________</text>
+  <text>_____________________________________________________________________________________</text>
+  <text>_____________________________________________________________________________________</text>
+  <text>_____________________________________________________________________________________</text>
+  <text>On this 5<sup>th</sup> day of May, 2024</text>
+  <text>______________________</text>
+  <text>
+    <em>Frank Adams</em>
+  </text>
+  <text>
+    <em>Chief</em>
+  </text>
+  <text>Presented to Chief and Council on the 3<sup>rd</sup> day of May, 2024.</text>
+  <text><strong>COUNCIL'S ACTIONS</strong>:</text>
+  <text>Override of the Chief's Veto</text>
+  <text>[ ] Yes</text>
+  <text>[ ] No</text>
+  <text>
+    <table>
+      <thead>
+        <tr>
+          <th>REPRESENTATIVES</th>
+          <th>YES</th>
+          <th>NO</th>
+          <th>ABSTAIN</th>
+          <th>ABSENT</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Rob Adams</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Ken Adams</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Wilma Hicks</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Sonny Knighton</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Desiree Dyer</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Owen Adams</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+        <tr>
+          <td>Vacant</td>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+          <td proof="needed"/>
+        </tr>
+      </tbody>
+    </table>
+  </text>
+  <text class="center">
+    <strong>CERTIFICATION</strong>
+  </text>
+  <text>The foregoing resolution was duly voted upon by the Council on _______________, 2024, at a Regular Meeting with a vote of ____ in favor and ____ opposed, ____ abstaining, and ____ absent, pursuant to the authority vested in the Council by the Constitution of the Upper Mattaponi Tribe.</text>
 </document>
