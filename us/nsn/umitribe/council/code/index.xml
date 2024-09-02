@@ -4,11 +4,4 @@
   <meta>
     <effective>0001-01-01</effective>
   </meta>
-  <xi:include href="./Contracting_Authority_Act.xml"/>
-  <xi:include href="./Election_Law.xml"/>
-  <xi:include href="./Employment_Contracts_Authorization_Act.xml"/>
-  <xi:include href="./Enabling_Act.xml"/>
-  <xi:include href="./Fiscal_Procedures_Act.xml"/>
-  <xi:include href="./Procurement_Policy_Authorization_Act.xml"/>
-  <xi:include href="./Self-Determination_638-Contracts_Authorization_Act.xml"/>
 </document>
