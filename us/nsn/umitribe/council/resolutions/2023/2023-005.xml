@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2023-005">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2023-005" codify:doc="Upper Mattaponi Tribal Code of Law" codify:path="48|1">
   <num>2023-005</num>
   <heading>First Election Law of 2023</heading>
   <meta>
@@ -51,12 +51,14 @@
     <text>Speaker of the Council</text>
   </procedural-data>
   <section>
-    <num>1.1</num>
+    <codify:insert/>
+    <num codify:value="101">1.1</num>
     <heading>Short Title</heading>
     <text>This enactment shall be known as, the "FIRST ELECTION LAW OF 2023" ("First Election Law").</text>
   </section>
   <section>
-    <num>1.2</num>
+    <codify:insert/>
+    <num codify:value="102">1.2</num>
     <heading>Definitions</heading>
     <para>
       <num>(a)</num>
@@ -76,12 +78,14 @@
     </para>
   </section>
   <section name="1.2~1">
-    <num>1.2</num>
+    <codify:insert/>
+    <num codify:value="103">1.10</num>
     <heading>Purpose</heading>
     <text>The purpose of this First Election Law is to provide guidance under the law for the Election Commission to call and conduct the First Election in October 2023 in accordance with the requirements of the Constitution of the Tribe.</text>
   </section>
   <section>
-    <num>1.3</num>
+    <codify:insert/>
+    <num codify:value="104">1.3</num>
     <heading>Findings</heading>
     <text>The Council hereby finds and declares that:</text>
     <para>
@@ -106,7 +110,8 @@
     </para>
   </section>
   <section>
-    <num>1.4</num>
+    <codify:insert/>
+    <num codify:value="105">1.4</num>
     <heading>First Election</heading>
     <para>
       <num>(a)</num>
@@ -125,7 +130,8 @@
     </para>
   </section>
   <section>
-    <num>1.5</num>
+    <codify:insert/>
+    <num codify:value="106">1.5</num>
     <heading>Election Commission</heading>
     <para>
       <num>(a)</num>
@@ -156,7 +162,8 @@
     </para>
   </section>
   <section>
-    <num>1.6</num>
+    <codify:insert/>
+    <num codify:value="107">1.6</num>
     <heading>Voters</heading>
     <para>
       <num>(a)</num>
@@ -175,7 +182,8 @@
     </para>
   </section>
   <section>
-    <num>1.7</num>
+    <codify:insert/>
+    <num codify:value="108">1.7</num>
     <heading>Candidates for Elective Office</heading>
     <para>
       <num>(a)</num>
@@ -202,7 +210,8 @@
     </para>
   </section>
   <section>
-    <num>1.8</num>
+    <codify:insert/>
+    <num codify:value="109">1.8</num>
     <heading>Terms of Office in the First Election</heading>
     <text>The terms of office for the newly elected Chief, Assistant Chief, and Representatives in the First Election shall be set in accordance with the Constitution [Const., Art. X, Sec. 6] as follows in pertinent part:</text>
     <text>
@@ -210,7 +219,8 @@
     </text>
   </section>
   <section>
-    <num>1.9</num>
+    <codify:insert/>
+    <num codify:value="110">1.9</num>
     <heading>Qualifications of the Candidates</heading>
     <para>
       <num>(a)</num>
@@ -240,7 +250,8 @@
     </para>
   </section>
   <section>
-    <num>2.0</num>
+    <codify:insert/>
+    <num codify:value="111">2.0</num>
     <heading>Ballots</heading>
     <para>
       <num>(a)</num>
@@ -272,17 +283,20 @@
     </para>
   </section>
   <section>
-    <num>2.1</num>
+    <codify:insert/>
+    <num codify:value="112">2.1</num>
     <heading>Polling Place</heading>
     <text>The polling place for the First Election shall be the Sharon Indian School.</text>
   </section>
   <section>
-    <num>2.2</num>
+    <codify:insert/>
+    <num codify:value="113">2.2</num>
     <heading>Hours of Voting</heading>
     <text>The polling place shall be open from 10:00 am to 2:00 pm. Voters in-line at the polling place but unable to cast their ballots before 2:00 pm shall be permitted to finish voting.</text>
   </section>
   <section>
-    <num>2.3</num>
+    <codify:insert/>
+    <num codify:value="114">2.3</num>
     <heading>Method of Voting</heading>
     <para>
       <num>(a)</num>
@@ -294,7 +308,8 @@
     </para>
   </section>
   <section>
-    <num>2.4</num>
+    <codify:insert/>
+    <num codify:value="115">2.4</num>
     <heading>Counting the Ballots</heading>
     <para>
       <num>(a)</num>
@@ -321,17 +336,20 @@
     </para>
   </section>
   <section>
-    <num>2.5</num>
+    <codify:insert/>
+    <num codify:value="116">2.5</num>
     <heading>Tie Votes</heading>
     <text>Tie votes in the First Election shall be decided by a game of chance.</text>
   </section>
   <section>
-    <num>2.6</num>
+    <codify:insert/>
+    <num codify:value="117">2.6</num>
     <heading>Challenges to the Election Results</heading>
     <text>Any citizen of the Tribe may file a written challenge to the results of the First Election by providing the grounds for the challenge accompanied by substantiating evidence to the Election Commission. The Election Commission shall provide the challenger with an opportunity to present testimony and other evidence to support the challenge, and the Election Commission shall hear and decide election challenges in a timely manner; provided, that the Election Commission shall not overturn the results of the First Election unless the citizen or citizens challenging the election results proves by clear and convincing evidence the any irregularities forming the basis of the challenge would have changed the outcome of the election.</text>
   </section>
   <section>
-    <num>2.7</num>
+    <codify:insert/>
+    <num codify:value="118">2.7</num>
     <heading>Oath of Office</heading>
     <para>
       <num>(a)</num>
@@ -349,7 +367,8 @@
     </para>
   </section>
   <section>
-    <num>2.8</num>
+    <codify:insert/>
+    <num codify:value="119">2.8</num>
     <heading>Other Election Matters</heading>
     <text>Any other election matters not specifically addressed in this First Election Law shall be decided by the Election Commission. The decision of the Election Commission shall be final.</text>
   </section>
