@@ -15,10 +15,10 @@
     <history-start>2023-07-21</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="umitribe/law-xml" commit="a56d4a0bf3f06f4630886d738914d5417bfb94ed"/>
+        <repository name="umitribe/law-xml" commit="02a514b9ec308f72eb1b71b6e427afbea6544bf8"/>
       </repositories>
       <platform version="2.14.0" reproducible="false"/>
-      <build-date>2024-09-17</build-date>
+      <build-date>2024-09-30</build-date>
       <codified-date>2024-06-25</codified-date>
     </build>
   </meta>
