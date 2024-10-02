@@ -22,7 +22,7 @@
       <codified-date>2024-09-13</codified-date>
     </build>
   </meta>
-  <xi:include href="./us/nsn/umitribe/council/constitution/index.xml"/>
+  <xi:include href="./us/nsn/umitribe/council/constitution.xml"/>
   <xi:include href="./us/nsn/umitribe/council/code/index.xml"/>
   <collection name="us/nsn/umitribe/council/resolutions">
     <heading>Resolutions</heading>
