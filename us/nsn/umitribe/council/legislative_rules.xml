@@ -16,7 +16,7 @@
       <prefix>Rule</prefix>
       <num>1-1</num>
       <heading>Authority</heading>
-      <text>The Council of the Upper Mattaponi Tribe enacts these Rules to govern its internal administrative and operational matters, <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4">to employ staff</cite>, to <cite doc="Constitution of the Upper Mattaponi Tribe">contract for goods and services</cite>, and to establish its legislative procedures pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII">Article VII, Sections 4(h)</cite> and 6 of the Constitution of the Upper Mattaponi Tribe.</text>
+      <text>The Council of the Upper Mattaponi Tribe enacts these Rules to govern its internal administrative and operational matters, to employ staff, to contract for goods and services, and to establish its legislative procedures pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(h)">Article VII, Sections 4(h)</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|6">6</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
     </container>
     <container>
       <prefix>Rule</prefix>
@@ -73,7 +73,7 @@
       <prefix>Rule</prefix>
       <num>2-1</num>
       <heading>Members</heading>
-      <text>For the purposes of these Rules, a member of the Council shall be any individual duly elected as a Representative pursuant to the Constitution of the Upper Mattaponi Tribe, including the Speaker, and the Assistant Chief when casting a tie-breaking vote pursuant to Article VII, Section 4(e) of the Constitution of the Upper Mattaponi Tribe.  Members shall have all of the privileges enumerated herein at all times during meetings of the Council.</text>
+      <text>For the purposes of these Rules, a member of the Council shall be any individual duly elected as a Representative pursuant to the Constitution of the Upper Mattaponi Tribe, including the Speaker, and the Assistant Chief when casting a tie-breaking vote pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(e)">Article VII, Section 4(e)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.  Members shall have all of the privileges enumerated herein at all times during meetings of the Council.</text>
     </container>
     <container>
       <prefix>Rule</prefix>
@@ -109,7 +109,7 @@
       <prefix>Rule</prefix>
       <num>2-7</num>
       <heading>Proxies</heading>
-      <text>Pursuant to Article VII, Section 4(e) of the Constitution of the Upper Mattaponi Tribe, proxy voting is strictly prohibited.</text>
+      <text>Pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(e)">Article VII, Section 4(e)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, proxy voting is strictly prohibited.</text>
     </container>
     <container>
       <prefix>Rule</prefix>
@@ -174,7 +174,7 @@
       <prefix>Rule</prefix>
       <num>3-3</num>
       <heading>Terms</heading>
-      <text>The Speaker and Speaker Pro Tempore shall serve the length of their elected term, commencing on the second day of January after each general election pursuant to Article X, Section 5 of the Constitution.  The Speaker and Speaker Pro Tempore shall continue to hold office until their removal by a majority vote of the Council or until such time as their successors are duly qualified, elected, and sworn.  All other officers, including the Secretary, shall serve at the pleasure of the Speaker.</text>
+      <text>The Speaker and Speaker Pro Tempore shall serve the length of their elected term, commencing on the second day of January after each general election pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="X|5">Article X, Section 5</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>.  The Speaker and Speaker Pro Tempore shall continue to hold office until their removal by a majority vote of the Council or until such time as their successors are duly qualified, elected, and sworn.  All other officers, including the Secretary, shall serve at the pleasure of the Speaker.</text>
     </container>
     <container>
       <prefix>Rule</prefix>
@@ -187,7 +187,11 @@
       <num>3-5</num>
       <heading>Vacancies</heading>
       <text>Should a vacancy occur among the Members, the remaining members shall publish on the tribal website notice of the vacancy to the citizens of the tribe within five (5) calendar days of the vacancy occurring, and shall permit any citizen of the tribe to express, in writing, their intent to fill the vacancy.  The published notice of vacancy shall permit at least ten (10) calendar days for citizens to submit a written intent to fill the vacancy.  After the passage of ten (10) calendar days after notice of the vacancy is published, the remaining members shall meet and select a replacement member to fill the unexpired term of the vacancy.  Such vote shall be taken in a closed session to permit the most candor in discussion and consideration.  The result of the vote shall be transmitted immediately to the Chief, and shall be reported to the citizens by the next Council meeting (regular or special), at which time the person filling the vacancy shall be given the oath of office in accordance with the Constitution.</text>
-      <text>RULE 3-6.  CONTRACTING</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>3-6</num>
+      <heading>Contracting</heading>
       <text>In conformity with the requirements of the Constitution, the Council shall use the following process to procure goods and services for the operation and administration of the Council:</text>
       <para>
         <num>1.</num>
@@ -374,7 +378,7 @@
       <prefix>Rule</prefix>
       <num>6-2</num>
       <heading>Introduction</heading>
-      <text>Legislation must be introduced at least seven (7) calendar days prior to the meeting at which the legislation is to be considered by the Council so that the Speaker may ensure that the legislation is properly published for five (5) calendar days as required by Article VII, Section 5(b).</text>
+      <text>Legislation must be introduced at least seven (7) calendar days prior to the meeting at which the legislation is to be considered by the Council so that the Speaker may ensure that the legislation is properly published for five (5) calendar days as required by <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|5|(b)">Article VII, Section 5(b)</cite>.</text>
     </container>
     <container>
       <prefix>Rule</prefix>
@@ -521,7 +525,7 @@
       <prefix>Rule</prefix>
       <num>6-8</num>
       <heading>Consent Calendar</heading>
-      <text>The Speaker may place any Bill or Resolution on a Consent Calendar for quick consideration.  Bills or Resolutions on the Consent Calendar shall not be subject to Rule 6-5.  The following procedures shall apply for the Consent Calendar:</text>
+      <text>The Speaker may place any Bill or Resolution on a Consent Calendar for quick consideration.  Bills or Resolutions on the Consent Calendar shall not be subject to <cite path="6|6-5">Rule 6-5</cite>.  The following procedures shall apply for the Consent Calendar:</text>
       <para>
         <num>1.</num>
         <text>The Speaker shall give notice to all members of which Bills and Resolutions are on the Consent Calendar at least two (2) calendar days prior to the meeting at which the Consent Calendar is to be considered.</text>
@@ -536,7 +540,7 @@
       </para>
       <para>
         <num>4.</num>
-        <text>If objection is heard, the Bill or Resolution shall be removed from the Consent Calendar and considered according to Rule 6-5.</text>
+        <text>If objection is heard, the Bill or Resolution shall be removed from the Consent Calendar and considered according to <cite path="6|6-5">Rule 6-5</cite>.</text>
       </para>
       <para>
         <num>5.</num>
