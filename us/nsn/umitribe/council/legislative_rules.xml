@@ -1,0 +1,617 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Legislative Rules of the Upper Mattaponi Tribe">
+  <heading>Legislative Rules of the Upper Mattaponi Tribe</heading>
+  <meta>
+    <effective>2024-06-20</effective>
+    <citations>
+      <citation type="bb" url="./legislative_rules.pdf"/>
+    </citations>
+  </meta>
+  <preamble>Being the Standing Rules for Conducting the Business of the Council of the Upper Mattaponi Tribe</preamble>
+  <container>
+    <prefix>Rule</prefix>
+    <num>1</num>
+    <heading>Authority, Application, Purpose, Interpretation, Amendment, and Suspension</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>1-1</num>
+      <heading>Authority</heading>
+      <text>The Council of the Upper Mattaponi Tribe enacts these Rules to govern its internal administrative and operational matters, to employ staff, to contract for goods and services, and to establish its legislative procedures pursuant to Article VII, Sections 4(h) and 6 of the Constitution of the Upper Mattaponi Tribe.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>1-2</num>
+      <heading>Application</heading>
+      <text>From the time of their adoption by a majority of the members of the Council of the Upper Mattaponi Tribe, these Rules shall be the Rules for the conduct of business by the Council, except wherein these Rules are found to conflict with the Constitution of the Upper Mattaponi Tribe, in which case they shall not be valid, Council approval notwithstanding.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>1-3</num>
+      <heading>Purpose</heading>
+      <text>The purpose of these Rules is to accomplish the following:</text>
+      <para>
+        <num>A.</num>
+        <text>To provide the members of the Council uniform, easily understood procedures for the conduct of the business of the Council; and</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>To balance the need to expedite business through acquiescence to the will of the majority with the right of the minority to be heard.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>1-4</num>
+      <heading>Interpretation</heading>
+      <text>These Rules shall be interpreted consistently with the purpose stated herein.  Interpretation shall be made by the Presiding Officer, when the Council is in regular session; by the Chairperson, or in their absence the Vice-Chairperson, of a committee, when a committee is meeting; and at all times by the Speaker of the Council.  Such interpretations shall be final unless an appeal of the ruling is successfully made in the following manner:</text>
+      <para>
+        <num>A.</num>
+        <text>Following the ruling, but before other business is transacted, a member of the Council or committee may appeal the ruling by offering a substitute ruling.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Once a motion to adopt a substitute ruling is made, no other business shall be transacted until the motion is disposed of by the Council or committee.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>1-5</num>
+      <heading>Amendment</heading>
+      <text>These Rules may be amended upon a two-thirds (2/3) vote of the members of the Council present and voting.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>1-6</num>
+      <heading>Suspension</heading>
+      <text>These Rules may be suspended upon a two-thirds (2/3) vote of the members of the Council present and voting.</text>
+    </container>
+  </container>
+  <container>
+    <prefix>Rule</prefix>
+    <num>2</num>
+    <heading>Members, Privileges, Revocation, Proxies, and Expulsion</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>2-1</num>
+      <heading>Members</heading>
+      <text>For the purposes of these Rules, a member of the Council shall be any individual duly elected as a Representative pursuant to the Constitution of the Upper Mattaponi Tribe, including the Speaker, and the Assistant Chief when casting a tie-breaking vote pursuant to Article VII, Section 4(e) of the Constitution of the Upper Mattaponi Tribe.  Members shall have all of the privileges enumerated herein at all times during meetings of the Council.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>2-2</num>
+      <heading>Floor Privileges</heading>
+      <text>Floor privileges are hereby defined as the right of a member to make motions, both main and incidental, and to speak in debate as to the merit of motions, legislation, etc.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>2-3</num>
+      <heading>Chamber Privileges</heading>
+      <text>Chamber privileges are hereby defined as the right of a member or guest to enter the Council chamber.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>2-4</num>
+      <heading>Speaking Privileges</heading>
+      <text>Speaking privileges are hereby defined as the right of a member or guest to address the Council for any reason deemed appropriate by the Presiding Officer or Speaker.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>2-5</num>
+      <heading>Granting Privileges</heading>
+      <text>Any member may make a motion to grant privileges to any person, and upon a two-thirds (2/3) vote of the members present and voting, such person shall be accorded such privileges for the remainder of the legislative day unless some other time is specified.  The Presiding Officer or Speaker may unilaterally grant Chamber and/or Speaking Privileges to any person.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>2-6</num>
+      <heading>Revoking Privileges</heading>
+      <text>Privileges previously granted to a guest of the Council may be revoked at any time by the Speaker, or in the Speaker's absence the Presiding Officer, or upon a two-thirds (2/3) vote of the members of the council present and voting.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>2-7</num>
+      <heading>Proxies</heading>
+      <text>Pursuant to Article VII, Section 4(e) of the Constitution of the Upper Mattaponi Tribe, proxy voting is strictly prohibited.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>2-8</num>
+      <heading>Expulsion</heading>
+      <text>Following an investigation and report by the Speaker, or by any three (3) members of the Council, the Council may, upon a two-thirds (2/3) vote of the members present and voting, expel any member for a definite or indefinite period of time.  Following the time specified in the motion, or a reasonable time if no time was specified, an expelled member may petition the Speaker for reinstatement.</text>
+    </container>
+  </container>
+  <container>
+    <prefix>Rule</prefix>
+    <num>3</num>
+    <heading>Officers and Duties, Elections and Appointments, Terms, and Succession</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>3-1</num>
+      <heading>Officers and Duties</heading>
+      <text>The officers of the Council shall be as follows:</text>
+      <para>
+        <num>A.</num>
+        <text><u>The Speaker.</u>   The Speaker shall be the Chief Officer of the Council and shall generally prescribe all policies and procedures not otherwise provided for by these Rules or by law.  The Speaker shall have the following powers and duties, as well as any other powers and duties specified elsewhere in these Rules or by law:</text>
+        <para>
+          <num>1.</num>
+          <text>The Speaker shall serve as Presiding Officer over the sessions of the Council and may designate another member of the Council to serve as Presiding Officer at such times as they shall deem appropriate.  Wherever the term "Presiding Officer" appears in these rules, it shall mean the Speaker or a member of the Council designated by the Speaker to serve as the Presiding Officer.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Speaker shall call meetings of the Council and be responsible for the legislative calendar.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Speaker shall have the power to establish Select and Special Committees, designate the purposes thereof, and dissolve them when their purposes are fulfilled.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><u>The Speaker Pro Tempore.</u>   The Speaker Pro Tempore shall execute the duties of the office of Speaker during the absence or disability of the Speaker.  The Speaker Pro Tempore shall exercise such other powers and fulfill such other duties as the Speaker may prescribe for them consistent with these Rules and law.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text><u>The Secretary.</u>     The Secretary shall keep and maintain the records of the Council, including the Journal of the Council.  The Secretary shall exercise such other powers and fulfill such other duties as the Speaker may prescribe for them consistent with these Rules and law.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text><u>Other Officers.</u>    The Speaker shall have the power to appoint such other and further officers for the Council as the Speaker may deem appropriate and to prescribe the powers and duties thereof consistent with these Rules and law.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>3-2</num>
+      <heading>Election and Appointment of Officers</heading>
+      <text>The officers of the Council shall be elected or appointed in the following manners:</text>
+      <para>
+        <num>A.</num>
+        <text><u>The Speaker and Speaker Pro Tempore.</u>   The Speaker and Speaker Pro Tempore shall be elected by a majority vote of the Council at the first regular meeting of the Council following the certification of each general election.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><u>All Other Officers.</u>    All other officers of the Council shall be appointed by the Speaker upon the Speaker's accession to the office of Speaker.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>3-3</num>
+      <heading>Terms</heading>
+      <text>The Speaker and Speaker Pro Tempore shall serve the length of their elected term, commencing on the second day of January after each general election pursuant to Article X, Section 5 of the Constitution.  The Speaker and Speaker Pro Tempore shall continue to hold office until their removal by a majority vote of the Council or until such time as their successors are duly qualified, elected, and sworn.  All other officers, including the Secretary, shall serve at the pleasure of the Speaker.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>3-4</num>
+      <heading>Succession</heading>
+      <text>Upon the death, resignation, removal, or permanent incapacity of the Speaker, the Speaker Pro Tempore shall succeed to the office of Speaker and the Council shall elect a new Speaker Pro Tempore at the next regular meeting or at a special meeting called for that purpose.  In the event that the offices of Speaker and Speaker Pro Tempore are concurrently vacated, the Acting Speaker will be elected by a majority vote of Council.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>3-5</num>
+      <heading>Vacancies</heading>
+      <text>Should a vacancy occur among the Members, the remaining members shall publish on the tribal website notice of the vacancy to the citizens of the tribe within five (5) calendar days of the vacancy occurring, and shall permit any citizen of the tribe to express, in writing, their intent to fill the vacancy.  The published notice of vacancy shall permit at least ten (10) calendar days for citizens to submit a written intent to fill the vacancy.  After the passage of ten (10) calendar days after notice of the vacancy is published, the remaining members shall meet and select a replacement member to fill the unexpired term of the vacancy.  Such vote shall be taken in a closed session to permit the most candor in discussion and consideration.  The result of the vote shall be transmitted immediately to the Chief, and shall be reported to the citizens by the next Council meeting (regular or special), at which time the person filling the vacancy shall be given the oath of office in accordance with the Constitution.</text>
+      <text>RULE 3-6.  CONTRACTING</text>
+      <text>In conformity with the requirements of the Constitution, the Council shall use the following process to procure goods and services for the operation and administration of the Council:</text>
+      <para>
+        <num>1.</num>
+        <text><u>Purpose</u>: The Speaker or any Representative of the Council may identify the need for goods and services that are necessary for the Council to fulfill its duties including, but not limited to, consultants, attorneys, and other professional advisors ("Vendor" or "Vendors");</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><u>Vendor</u>: The Speaker or any Representative of the Council may identify a proposed Vendor to provided needed goods and services required by the Council.  Depending on the size and scope of the goods and/or services, the Council shall utilize the appropriate procurement process to solicit and select a Vendor;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><u>Draft Contract</u>: The Speaker or any Representative of the Council may solicit or prepare a draft contract with the proposed Vendor; provided, that any draft contract with a proposed Vendor shall be reviewed by an attorney for the Council unless the Council has determined that no legal review is necessary;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><u>Approval</u>: Every contract with a proposed Vendor shall be subject to approval by the Council.  The Council may approve a contract at any time upon majority vote of the Council, and a record of the decision by the Council shall be maintained by the Speaker or a designee.  Upon approval by the Council, the contract shall be signed and implemented by the Speaker.  The Speaker shall maintain a file of the transaction including a copy of the final contract.</text>
+      </para>
+    </container>
+  </container>
+  <container>
+    <prefix>Rule</prefix>
+    <num>4</num>
+    <heading>Records and Open Records Requirement</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>4-1</num>
+      <heading>Records Generally</heading>
+      <para>
+        <num>A.</num>
+        <text>The Secretary shall be the custodian of records for the Council and shall maintain the Journal of the Council and all other records necessary for the orderly administration of the Council.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Prior to leaving office, the Secretary shall relinquish all records to the Speaker, who shall keep and maintain them until such time as they may be transmitted to the next Secretary.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Secretary or Legislative Clerk shall transmit a copy of each Bill or Resolution acted upon by the Council and the roll call vote thereon to the Department of Records Management within a reasonable time after said action by the Council.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>4-2</num>
+      <heading>Journal of the Council</heading>
+      <text>There shall be a Journal of the Council, which shall consist of the following components:</text>
+      <para>
+        <num>A.</num>
+        <text>The history of each Council Bill or Resolution, including committee actions, amendments, and final Council action;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Proceedings involving confirmation of appointments made by the Chief;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Records of roll call votes;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Copies of all reports of all committees;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Attendance of all members of the Council; and</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Where policies and procedures have been established pursuant to these Rules by officers of the Council, a copy of the same.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>4-3</num>
+      <heading>Other Specific Records to Be Kept</heading>
+      <text>The Secretary shall, at all times, keep and maintain the following for use by the Council:</text>
+      <para>
+        <num>A.</num>
+        <text>A copy of the Constitution of the Upper Mattaponi Tribe certified as correct by the Department of Records Management;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A copy of these Rules;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A copy of any amendments to these Rules;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A copy of the parliamentary authority incorporated by these Rules; and</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any other documents specified by the Speaker.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>4-4</num>
+      <heading>Open Records Requirement</heading>
+      <text>All official records of the proceedings of the Council and its committees shall be open for inspection by tribal citizens at reasonable times, with the exception of proceedings rendered closed as permitted by law.  At no time shall testimony, interviews, or final votes be held during a closed session except as authorized by law.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>4-5</num>
+      <heading>Delegation of Responsibilities</heading>
+      <text>The Speaker and Secretary are authorized to delegate responsibilities and duties as necessary for the efficient operation of legislative proceedings and records management, ensuring tasks are assigned to competent individuals or committees.</text>
+    </container>
+  </container>
+  <container>
+    <prefix>Rule</prefix>
+    <num>5</num>
+    <heading>Time and Place of Meetings, Attendance, Calling for the Yeas and Nays, Call to the Council, Motion for Cloture, Decorum, Personal Privilege, and Sealing Chambers</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>5-1</num>
+      <heading>Time and Place of Meetings</heading>
+      <text>The Speaker shall determine the time and place of meetings of the Council and give five (5) calendar days public notice thereof.  Meetings shall occur at least once per month, and as often as necessary to address the needs of the Tribe.  In addition to the Speaker, any three (3) members of the Council shall have the power to call for a special meeting of the Council.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>5-2</num>
+      <heading>Attendance</heading>
+      <text>No member shall be permitted to vote on any question unless said member is physically or electronically present at the time the vote is taken.  The Speaker may grant exceptions to this rule on a case-by-case basis at the time that the member casts their vote.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>5-3</num>
+      <heading>Call to Council</heading>
+      <text>The Council may, by majority vote of the members present and voting, operate under a Call to Council, in which case the Presiding Officer shall be empowered to compel the attendance of all members of the Council and to confine the members to the meeting place.  In such case, any member who fails to attend without being unanimously excused by the other members shall be recorded as voting nay on the final vote of all questions submitted during the Call.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>5-4</num>
+      <heading>Motion for Cloture</heading>
+      <text>The Council may, by a vote of sixty percent (60%) of the members present and voting, immediately end debate in order to stop a filibuster.  This motion shall be privileged, require a second, be debated, and interrupt a speaker.  For purposes of this rule, a filibuster shall be an action such as prolonged speech that obstructs the progress of the Council while not technically contravening any rule or procedure.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>5-5</num>
+      <heading>Decorum</heading>
+      <text>Members shall abide by the following rules of decorum in conducting the business of the Council:</text>
+      <para>
+        <num>A.</num>
+        <text>Members shall not speak unless recognized by the Presiding Officer.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Members shall not use profanity.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Members shall exhibit courtesy and respect for colleagues and guests and shall refrain from derisive, derogatory, or slanderous speech.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Members shall address all statements and questions to the Presiding Officer.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>5-6</num>
+      <heading>Personal Privilege</heading>
+      <text>Personal privilege will be granted to a member of the Council only to permit such a member to respond to a public attack on rights, integrity, or reputation of a member of the Council or upon the Council collectively.  Remarks made by a member who is granted personal privilege shall be confined to such a response.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>5-7</num>
+      <heading>Sealing Chambers</heading>
+      <text>The Council may, upon a majority vote, seal the chambers within which it is meeting.  At such time, the Speaker shall direct a Seargeant-at-Arms to bar the doors and not to allow any person to pass until such time as the Council votes to unseal the chambers.</text>
+    </container>
+  </container>
+  <container>
+    <prefix>Rule</prefix>
+    <num>6</num>
+    <heading>Legislation, Introduction, Form, Consideration, Voting, and Copies</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>6-1</num>
+      <heading>Legislation</heading>
+      <text>Legislation to be considered by the Council shall be limited to Bills and Resolutions.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>6-2</num>
+      <heading>Introduction</heading>
+      <text>Legislation must be introduced at least seven (7) calendar days prior to the meeting at which the legislation is to be considered by the Council so that the Speaker may ensure that the legislation is properly published for five (5) calendar days as required by Article VII, Section 5(b).</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>6-3</num>
+      <heading>Form</heading>
+      <text>No legislation shall be introduced to the Council that does not contain a Title and an Enacting or Resolving Clause.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>6-4</num>
+      <heading>Restrictions on Legislation</heading>
+      <para>
+        <num>A.</num>
+        <text><u>Resolutions.</u>   Resolutions are restricted to the following purposes:</text>
+        <para>
+          <num>1.</num>
+          <text>Establishing annually the budget of the Tribe;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Memorializing or communicating with the United States, or a state of the United States, or a political subdivision of either, or another Indian tribe, or an agent or instrumentality of any of the foregoing;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Communicating with another branch or subdivision of another Branch of the Tribe;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Expressing legislative intent;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Expressing policies of the Council; and</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Such other purposes specifically approved by the Speaker.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><u>Bills.</u> All legislation intended to create law of the Tribe shall be in the form of Bills.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>6-5</num>
+      <heading>Legislative Procedure</heading>
+      <para>
+        <num>A.</num>
+        <text><u>First Reading and Committee Referral.</u>      A Bill or Resolution shall be regarded as on First Reading after its introduction.  The Speaker may refer the Bill or Resolution to a committee of members.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><u>Second Reading and Committee Consideration.</u>    If referred to a committee, a Bill or Resolution shall be on Second Reading.  The committee shall consider the Bill or Resolution, make such amendments as it deems proper, and issue a report and recommendation to the Council as a whole.  Recommendations shall be limited to Do Pass, Do Pass as Amended, Do Not Pass, Do Fail, or No Recommendation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text><u>General Order.</u>     If the Speaker declines to refer a Bill or Resolution to a committee, or once a committee has issued a report and recommendation on a Bill or Resolution, the Bill or Resolution shall be placed on the agenda for a meeting of the Council for consideration on General Order.  The Speaker shall determine the order in which legislation is considered by the Council.  On General Order, the following procedures shall occur:</text>
+        <para>
+          <num>1.</num>
+          <text>Explanation of the Bill or Resolution by the author;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Questions to the author;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Consideration of amendments; and</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Advancement to Engrossment and Third Reading.</text>
+          <text>The Presiding Officer shall determine the time allotted for author's explanation, questions, and consideration of amendments.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text><u>Amendments.</u>        Amendments to Bills or Resolutions shall be made in writing.  No amendment shall be considered that is not germane to the purpose of the Bill or Resolution.  Amendments shall be considered in the order in which they are submitted.  The author of an amendment shall be given an option to explain the amendment, followed by a time for questions to the author of the amendment.  If an amendment's author is not present at the time it is to be considered, it shall be regarded as tabled.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text><u>Advancement.</u>       A member may make a motion to advance a Bill or Resolution at any time during its consideration on General Order.  Once advanced, a Bill or Resolution shall be considered engrossed and on Third Reading.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text><u>Third Reading.</u> Upon Third Reading, the Council shall not consider amendments, but shall be in line for debate upon final passage of the Bill or Resolution.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text><u>Debate.</u>    Any member may call for debate on Third Reading.  Those members wishing to debate shall identify themselves as in favor or opposed to passage.  The Presiding Officer shall allocate equal amounts of time to the proponents and opponents, and the proponents and opponents shall sub-allocate their total time among individual members wishing to debate.  The following rules shall apply in debate:</text>
+        <para>
+          <num>1.</num>
+          <text>No member shall interrupt another member in debate without the speaking member's consent.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>No member shall speak more than once upon any question in debate.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The author of the Bill or Resolution shall always speak last in debate unless the author waives their right to do so.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>No member shall, directly or indirectly, by any form of words impute to any other member any conduct or motive unworthy or unbecoming of a member.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>No member shall use any media, prop, or other materials during debate.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>No references shall be made to any guest in attendance during debate.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>No member shall delegate their time in debate to any other person.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>The Presiding Officer shall have the duty and power to confine members to the question under debate, and to call a member to order and end their speech in debate if the member transgresses any of these rules.</text>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text><u>Fourth Reading.</u>    After debate, or if no debate is called, a Bill or Resolution shall be on Fourth Reading and shall be in line for a vote of final passage.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>6-6</num>
+      <heading>Voting</heading>
+      <text>All votes shall be by voice vote, show of hands, or roll call vote.  All votes on final passage of legislation shall be by roll call vote.  No member shall be permitted to change their vote after the Presiding Officer has announced the result.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>6-7</num>
+      <heading>Copies</heading>
+      <text>No legislation shall be considered unless each member has been provided with a copy of the same.  The Speaker may make such exceptions to this rule as they may deem necessary.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>6-8</num>
+      <heading>Consent Calendar</heading>
+      <text>The Speaker may place any Bill or Resolution on a Consent Calendar for quick consideration.  Bills or Resolutions on the Consent Calendar shall not be subject to Rule 6-5.  The following procedures shall apply for the Consent Calendar:</text>
+      <para>
+        <num>1.</num>
+        <text>The Speaker shall give notice to all members of which Bills and Resolutions are on the Consent Calendar at least two (2) calendar days prior to the meeting at which the Consent Calendar is to be considered.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When the Consent Calendar is called, the Secretary shall read the short title, any committee action, and the author's name for each Bill or Resolution to the Council.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>After said reading, the Speaker shall ask whether there be an objection to the Bill or Resolution.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If objection is heard, the Bill or Resolution shall be removed from the Consent Calendar and considered according to Rule 6-5.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>If there be no objection, the Bill or Resolution shall be regarded as finally passed.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>6-9</num>
+      <heading>Veto Overrides</heading>
+      <text>A motion to override a veto of the Chief shall be in order at any time and shall pass upon such motion receiving a vote of the Council in accordance with the Constitution.</text>
+    </container>
+  </container>
+  <container>
+    <prefix>Rule</prefix>
+    <num>7</num>
+    <heading>Committees, Membership, Duties, Authority, and Procedures</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>7-1</num>
+      <heading>Committees</heading>
+      <text>There shall be three (3) types of Committees, to wit: Standing Committees, Select Committees, and Special Committees.  Standing Committees shall be created by these Rules.  Select and Special Committees may be created by these Rules or by the Speaker.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>7-2</num>
+      <heading>Membership</heading>
+      <para>
+        <num>A.</num>
+        <text>The Speaker and Speaker Pro Tempore shall be ex officio voting members of all committees, except wherein those committees are considering the status of the Speaker or Speaker Pro Tempore.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Speaker shall appoint all members of all committees and designate the officers thereof.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>7-3</num>
+      <heading>Authority of Committees</heading>
+      <text>Committees of the Council shall be authorized to issue process and compel the attendance of witnesses, and to administer oaths to any person appearing before any said committee.  Any Committee which considers legislation shall be empowered to consolidate measures, to amend legislation, and to develop a Committee Bill or Resolution irrespective of any other legislation.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>7-4</num>
+      <heading>Meetings</heading>
+      <text>Committees shall meet at the call of their Chair or at the direction of the Speaker.  A quorum of a Committee shall be required to transact business.</text>
+    </container>
+  </container>
+  <container>
+    <prefix>Rule</prefix>
+    <num>8</num>
+    <heading>Order of Business</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>8-1</num>
+      <heading>Order of Business</heading>
+      <text>The Order of Business for each meeting of the Council shall be determined by the Speaker.  The Order of Business may be altered by a majority vote of the members of the Council.</text>
+    </container>
+  </container>
+  <container>
+    <prefix>Rule</prefix>
+    <num>9</num>
+    <heading>Parliamentary Authority</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>9-1</num>
+      <heading>Parliamentary Authority</heading>
+      <text>Robert's Rules of Order, Newly Revised (12th ed.) is hereby adopted as the parliamentary authority of the Council.  Questions as to motions shall be answered by this authority.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>9-2</num>
+      <heading>Parliamentarian</heading>
+      <text>The Speaker shall designate a Parliamentarian who shall assist the Presiding Officer in making parliamentary decisions.  The Parliamentarian may be a member or nonmember.  When adopted by the Presiding Officer, the ruling of the Parliamentarian shall be final.</text>
+    </container>
+  </container>
+</document>
