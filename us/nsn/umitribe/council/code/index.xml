@@ -3,10 +3,11 @@
   <heading>Upper Mattaponi Tribal Code of Law</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2023-10-26">
-      <doc id="Upper Mattaponi Tribe Res. No. 2023-012" type="resolution"/>
+    <recency through="2023-10-28">
+      <doc id="Upper Mattaponi Tribe Res. No. 2023-013" type="resolution"/>
     </recency>
   </meta>
+  <xi:include href="./14.xml"/>
   <xi:include href="./45.xml"/>
   <xi:include href="./46.xml"/>
   <xi:include href="./47.xml"/>

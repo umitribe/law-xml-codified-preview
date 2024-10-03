@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Upper Mattaponi Tribal Code of Law">
+  <prefix>Title</prefix>
+  <num>14</num>
+  <heading>Civil Procedures</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>Civil Procedures Act</heading>
+    <section>
+      <num>101</num>
+      <heading>Short Title.</heading>
+      <text><cite path="14|1">This chapter</cite> shall be known as the Civil Procedure Act ("Act").</text>
+      <annotations>
+        <annotation app="2023-10-28" doc="Upper Mattaponi Tribe Res. No. 2023-013" eff="2023-10-28" path="attachments|law|101" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>102</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="14|1">this chapter</cite> is to establish baseline civil procedures to ensure the orderly administration of civil justice and the provision of due process to every person.</text>
+      <annotations>
+        <annotation app="2023-10-28" doc="Upper Mattaponi Tribe Res. No. 2023-013" eff="2023-10-28" path="attachments|law|102" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>103</num>
+      <heading>Findings.</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>establishing civil procedures will fulfill the constitutional requirement to provide due process; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>establishing rules of civil procedure will enable any person to vindicate their rights under the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+      </para>
+      <annotations>
+        <annotation app="2023-10-28" doc="Upper Mattaponi Tribe Res. No. 2023-013" eff="2023-10-28" path="attachments|law|103" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>104</num>
+      <heading>Rules of Civil Procedure and Rules of Evidence.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Federal Rules of Civil Procedure and Evidence shall apply to all civil (non- criminal) matters brought before the Trial Court; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Federal Rules of Appellate Procedure shall apply to all matters before the High Court.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In matters where a party appears <em>pro se</em>, the Judge may in his or her discretion relax the requirements of procedure to ensure the equitable administration of justice.</text>
+      </para>
+      <annotations>
+        <annotation app="2023-10-28" doc="Upper Mattaponi Tribe Res. No. 2023-013" eff="2023-10-28" path="attachments|law|104" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>105</num>
+      <heading>Applicable Law.</heading>
+      <text>In the absence of a binding contract to the contrary, the following shall be the choice of laws for all civil matters brought before the Trial Court in order of priority:</text>
+      <para>
+        <num>(a)</num>
+        <text>Prior decisions of the High Court;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Laws enacted by the Council of the Tribe;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Treaties and Agreements between the Tribe and any other government recognized by the Tribe;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Prior Decisions of the Trial Court;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>In the absence of such legal authority as provided above, then the Trial Court and the High Court shall, in their discretion, look for persuasive legal authority from any of: the laws, judicial decisions, rules, or administrative decisions of the United States of America, the laws of any other tribe, any of the fifty states, or of any foreign nation.</text>
+      </para>
+      <annotations>
+        <annotation app="2023-10-28" doc="Upper Mattaponi Tribe Res. No. 2023-013" eff="2023-10-28" path="attachments|law|105" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>106</num>
+      <heading>Challenges to the Final Decisions of the Election Commission.</heading>
+      <text>Only final decisions of the Election Commission including the certification of the results of an election may be appealed by the filing of a Complaint with the Trial Court within ten (10) days of the publication of the decision by the Election Commission. Publication by the Election Commission shall occur when its decision is posted on the inside of the front window of the Sharon Indian School such that it can be read from outside. In counting days for the timeliness of an appeal, the first day shall be the day immediately after posting in the window of the Sharon Indian School has occurred.</text>
+      <text>In an election challenge the Trial Court shall uphold the Final Decision of the Election Commission, unless the appellant can establish by clear and convincing evidence that the irregularities forming the basis of the challenge would have changed the outcome of the election.</text>
+      <text>In any other challenge to a Final Decision of the Election Commission, the Trial Court shall review the matter <em>de novo</em> as to both the law and the facts.</text>
+      <annotations>
+        <annotation app="2023-10-28" doc="Upper Mattaponi Tribe Res. No. 2023-013" eff="2023-10-28" path="attachments|law|106" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>107</num>
+      <heading>Pro tempore Judicial Appointments.</heading>
+      <text>Any person meeting the substantive requirements to serve as a Trial Judge may be appointed by the Chief Justice of the High Court to serve in a temporary capacity as a judge <em>pro tem</em> to hear any challenges to Final Decisions of the Election Commission relating to the First Election. <em>Pro tem</em> Judicial appointments shall be renumerated with a stipend of $2,000 per day of service. A day of service shall include travel, where necessary. All costs and expenses of a <em>pro tem</em> judge shall be reimbursed at the costs incurred.</text>
+      <annotations>
+        <annotation app="2023-10-28" doc="Upper Mattaponi Tribe Res. No. 2023-013" eff="2023-10-28" path="attachments|law|107" type="History"/>
+      </annotations>
+    </section>
+  </container>
+</container>
