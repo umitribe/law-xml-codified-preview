@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2023-010">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2023-010" codify:doc="Upper Mattaponi Tribal Code of Law">
   <num>2023-010</num>
   <heading>Self-Determination 638-Contracts Authorization Act of 2023</heading>
   <meta>
@@ -41,13 +41,12 @@
     <text>The foregoing resolution was duly voted upon by the Council on <u>September 20</u>, 2023, at a Regular Meeting with a vote of <u>5</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="45|3"/>
+    <section><codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§301"/>&gt;
+      <num codify:value="301">1.1</num><heading>Short Title</heading><text><code-cite doc="Upper Mattaponi Tribe Res. No. 2023-010" path="|attachments|law">This enactment</code-cite> shall be known as, the "SELF-DETERMINATION 638-CONTRACTS AUTHORIZATION ACT OF 2023" ("Act").</text></section>
     <section>
-      <num>1.1</num>
-      <heading>Short Title</heading>
-      <text>This enactment shall be known as, the "SELF-DETERMINATION 638-CONTRACTS AUTHORIZATION ACT OF 2023" ("Act").</text>
-    </section>
-    <section>
-      <num>1.2</num>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§302"/>
+      <num codify:value="302">1.2</num>
       <heading>Findings</heading>
       <para>
         <num>(a)</num>
@@ -67,14 +66,16 @@
       </para>
     </section>
     <section>
-      <num>1.3</num>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§303"/>
+      <num codify:value="303">1.3</num>
       <heading>Purpose</heading>
-      <text>The purpose of this Act is to authorize the Chief of the Tribe to negotiate and execute Self-Determination 638-Contracts with the federal government and BIA to receive federal funds to operate critical programs for the delivery of services to members of the Tribe.</text>
+      <text>The purpose of <code-cite doc="Upper Mattaponi Tribe Res. No. 2023-010" path="|attachments|law">this Act</code-cite> is to authorize the Chief of the Tribe to negotiate and execute Self-Determination 638-Contracts with the federal government and BIA to receive federal funds to operate critical programs for the delivery of services to members of the Tribe.</text>
     </section>
     <section>
-      <num>1.4</num>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§304"/>
+      <num codify:value="304">1.4</num>
       <heading>Authorization to Enter Into 638-Contracts</heading>
-      <text>The Council hereby authorizes and directs the Chief to negotiate and execute 638- Contracts with the federal government and the BIA on behalf of the Tribe. The Chairman shall be authorized to execute all necessary documents necessary to effectuate the intent of this Act.</text>
+      <text>The Council hereby authorizes and directs the Chief to negotiate and execute 638- Contracts with the federal government and the BIA on behalf of the Tribe. The Chairman shall be authorized to execute all necessary documents necessary to effectuate the intent of <code-cite doc="Upper Mattaponi Tribe Res. No. 2023-010" path="|attachments|law">this Act</code-cite>.</text>
     </section>
   </attachment>
 </document>
