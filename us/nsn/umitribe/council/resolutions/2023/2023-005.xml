@@ -75,15 +75,15 @@
       <text>"Tribe" means the Upper Mattaponi Tribe.</text>
     </para>
   </section>
-  <section name="1.2(1)">
-    <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1.2(1)"/>
-    <num codify:value="103">1.2</num>
+  <section>
+    <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§103"/>
+    <num codify:value="103">1.3</num>
     <heading>Purpose</heading>
     <text>The purpose of this First Election Law is to provide guidance under the law for the Election Commission to call and conduct the First Election in October 2023 in accordance with the requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> of the Tribe.</text>
   </section>
   <section>
     <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§104"/>
-    <num codify:value="104">1.3</num>
+    <num codify:value="104">1.4</num>
     <heading>Findings</heading>
     <text>The Council hereby finds and declares that:</text>
     <para>
@@ -109,7 +109,7 @@
   </section>
   <section>
     <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§105"/>
-    <num codify:value="105">1.4</num>
+    <num codify:value="105">1.5</num>
     <heading>First Election</heading>
     <para>
       <num>(a)</num>
@@ -129,7 +129,7 @@
   </section>
   <section>
     <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§106"/>
-    <num codify:value="106">1.5</num>
+    <num codify:value="106">1.6</num>
     <heading>Election Commission</heading>
     <para>
       <num>(a)</num>
@@ -161,7 +161,7 @@
   </section>
   <section>
     <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§107"/>
-    <num codify:value="107">1.6</num>
+    <num codify:value="107">1.7</num>
     <heading>Voters</heading>
     <para>
       <num>(a)</num>
@@ -181,7 +181,7 @@
   </section>
   <section>
     <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§108"/>
-    <num codify:value="108">1.7</num>
+    <num codify:value="108">1.8</num>
     <heading>Candidates for Elective Office</heading>
     <para>
       <num>(a)</num>
@@ -209,7 +209,7 @@
   </section>
   <section>
     <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§109"/>
-    <num codify:value="109">1.8</num>
+    <num codify:value="109">1.9</num>
     <heading>Terms of Office in the First Election</heading>
     <text>The terms of office for the newly elected Chief, Assistant Chief, and Representatives in the First Election shall be set in accordance with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> [<cite doc="Constitution of the Upper Mattaponi Tribe" path="X|6">Const., Art. X, Sec. 6</cite>] as follows in pertinent part:</text>
     <text>
@@ -218,7 +218,7 @@
   </section>
   <section>
     <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§110"/>
-    <num codify:value="110">1.9</num>
+    <num codify:value="110">1.10</num>
     <heading>Qualifications of the Candidates</heading>
     <para>
       <num>(a)</num>
