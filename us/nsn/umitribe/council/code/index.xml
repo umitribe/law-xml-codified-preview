@@ -7,6 +7,7 @@
       <doc id="Upper Mattaponi Tribe Res. No. 2023-006" type="resolution"/>
     </recency>
   </meta>
+  <xi:include href="./25.xml"/>
   <xi:include href="./45.xml"/>
   <xi:include href="./48.xml"/>
 </document>
