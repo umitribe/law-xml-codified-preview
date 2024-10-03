@@ -15,11 +15,11 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to Article VI, Section 4(a) of the Constitution of the Upper Mattaponi Tribe ("Constitution"); and,</text>
+      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VI|4|(a)">Article VI, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("Constitution"); and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text>in accordance with the authority under the Constitution, the Council established a Department of Health to operate and administer various health care programs and services for the Tribe; and,</text>
+      <text>in accordance with the authority under the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, the Council established a Department of Health to operate and administer various health care programs and services for the Tribe; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
@@ -38,7 +38,7 @@
     <text class="center">
       <strong>CERTIFICATION</strong>
     </text>
-    <text>The foregoing resolution was duly voted upon by the Council on September 20, 2023, at a Regular Meeting with a vote of <u>4</u> in favor and <u>Ø</u> opposed, <u>1</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the Constitution of the Tribe.</text>
+    <text>The foregoing resolution was duly voted upon by the Council on September 20, 2023, at a Regular Meeting with a vote of <u>4</u> in favor and <u>Ø</u> opposed, <u>1</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
     <text>____________________________________</text>
     <text>Speaker of the Council</text>
   </procedural-data>
@@ -59,7 +59,7 @@
       <text>The Council hereby finds and declares that:</text>
       <para>
         <num>(a)</num>
-        <text>In accordance with the authority under the Constitution, the Council established a Department of Health to operate and administer various health care programs and services for the Tribe; and,</text>
+        <text>In accordance with the authority under the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, the Council established a Department of Health to operate and administer various health care programs and services for the Tribe; and,</text>
       </para>
       <para>
         <num>(b)</num>

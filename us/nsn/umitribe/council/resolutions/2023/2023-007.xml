@@ -15,11 +15,11 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to Article VI, Section 4(a) of the Constitution of the Upper Mattaponi Tribe ("Constitution"); and,</text>
+      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VI|(4)|(a)">Article VI, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("Constitution"); and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text>the Constitution establishes two Departments under the Executive Branch of government and allows the Council to establish other Departments by law; and,</text>
+      <text>the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> establishes two Departments under the Executive Branch of government and allows the Council to establish other Departments by law; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
@@ -34,7 +34,7 @@
     <text class="center">
       <strong>CERTIFICATION</strong>
     </text>
-    <text>The foregoing resolution was duly voted upon by the Council on September 20, 2023, at a Regular Meeting with a vote of <u>4</u> in favor and <u>0</u> opposed, <u>1</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the Constitution of the Tribe.</text>
+    <text>The foregoing resolution was duly voted upon by the Council on September 20, 2023, at a Regular Meeting with a vote of <u>4</u> in favor and <u>0</u> opposed, <u>1</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
     <text>____________________________________</text>
     <text>Speaker of the Council</text>
   </procedural-data>
@@ -55,7 +55,7 @@
       <text>The Council hereby finds and declares that:</text>
       <para>
         <num>(a)</num>
-        <text>reorganizing the structure of governmental departments and programs in accordance with the Constitution will promote efficiency within the Tribe; and,</text>
+        <text>reorganizing the structure of governmental departments and programs in accordance with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> will promote efficiency within the Tribe; and,</text>
       </para>
       <para>
         <num>(b)</num>
