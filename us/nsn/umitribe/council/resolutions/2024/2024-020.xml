@@ -16,7 +16,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Council is vested with the authority to pass Resolution and Law pursuant to Article VII, Section 4 and Section 5 of the Constitution of the Upper Mattaponi Tribe ("Tribe"); and,</text>
+      <text>the Council is vested with the authority to pass Resolution and Law pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4">Article VII, Section 4</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|5">Section 5</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("Tribe"); and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -47,15 +47,15 @@
     <text>The Council hereby finds and declares that:</text>
     <para>
       <num>(a)</num>
-      <text>On July 22, 2023, the voters of the Tribe approved a new constitution ("New Constitution");</text>
+      <text>On July 22, 2023, the voters of the Tribe approved a new constitution ("<cite doc="Constitution of the Upper Mattaponi Tribe">New Constitution</cite>");</text>
     </para>
     <para>
       <num>(b)</num>
-      <text>The New Constitution calls for the Council to pass laws and resolutions to establish clear financial practices that the must be followed to provide accountability of the Tribe' funds and assets;</text>
+      <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">New Constitution</cite> calls for the Council to pass laws and resolutions to establish clear financial practices that the must be followed to provide accountability of the Tribe' funds and assets;</text>
     </para>
     <para>
       <num>(c)</num>
-      <text>The Bill of Rights in the Constitution requires that the Tribe to provide equal treatment to all Citizens of the Tribe when it administers programs and services.</text>
+      <text>The Bill of Rights in the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> requires that the Tribe to provide equal treatment to all Citizens of the Tribe when it administers programs and services.</text>
     </para>
   </section>
   <section>
@@ -88,6 +88,6 @@
     <text class="center">
       <strong>CERTIFICATION</strong>
     </text>
-    <text>The foregoing Act was duly voted upon by the Council on the 12 day of September, 2024, at a Special Session with a vote of <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the Constitution of the Tribe.</text>
+    <text>The foregoing Act was duly voted upon by the Council on the 12 day of September, 2024, at a Special Session with a vote of <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
   </procedural-data>
 </document>

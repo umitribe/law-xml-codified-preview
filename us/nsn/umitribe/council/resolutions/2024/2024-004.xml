@@ -15,7 +15,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to Article VI, Section 4(a) of the Constitution of the Upper Mattaponi Tribe ("Constitution"); and,</text>
+      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>"); and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
@@ -33,9 +33,7 @@
   <text class="center">
     <strong>CERTIFICATION</strong>
   </text>
-  <text>The foregoing resolution was duly voted upon by the Council on April 27, 2024, at a Regular Meeting with a vote of <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0 (vacant)</u> absent, pursuant to the authority vested in the Council by the Constitution of the Tribe.</text>
-  <text>______________________________</text>
-  <text>Secretary of the Council</text>
+  <text>The foregoing resolution was duly voted upon by the Council on April 27, 2024, at a Regular Meeting with a vote of <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0 (vacant)</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
   <attachment id="law">
     <section>
       <num>1</num>
@@ -45,7 +43,7 @@
     <section>
       <num>2</num>
       <heading>Authority</heading>
-      <text>This Code is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe (also referred to herein as "Tribe") and pursuant to the Constitution of the Upper Mattaponi Tribe, which confers all Legislative power of the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe.</text>
+      <text>This Code is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe (also referred to herein as "Tribe") and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all Legislative power of the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe.</text>
     </section>
     <section>
       <num>3</num>
