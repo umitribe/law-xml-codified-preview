@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2023-015">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2023-015" codify:doc="Upper Mattaponi Tribal Code of Law">
   <num>2023-015</num>
   <heading>Departmental Organization Act</heading>
   <meta>
@@ -51,37 +51,39 @@
     <text>The purpose of this Act is to create the Departments of the Executive Branch included in the following pages.</text>
   </section>
   <attachment id="law">
+    <codified:at path="4"/>
     <container>
-      <prefix>CHAPTER</prefix>
-      <num>I</num>
-      <heading>GENERAL PROVISIONS</heading>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§101"/>
+      <prefix codify:value="Chapter">CHAPTER</prefix>
+      <num codify:value="1">I</num>
+      <heading codify:value="General Provisions">GENERAL PROVISIONS</heading>
       <section>
-        <num>1-1</num>
+        <num codify:value="101">1-1</num>
         <heading>Title</heading>
         <text>This Code shall be known as the "Departmental Organization Act."</text>
       </section>
       <section>
-        <num>1-2</num>
+        <num codify:value="102">1-2</num>
         <heading>Authority</heading>
         <text>This Code is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe (also referred to herein as "Tribe") and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all  Legislative power of the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe, and expressly empowers the Council to "to create departments, boards, and commissions located in the Executive branch of government by law" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII, §4(d)</cite>); and with "authority to confirm a nominee presented to the Council by the Chief, subject to final installation of the nominee into office by the Chief" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">Article VII, § 4(i)</cite>).</text>
       </section>
       <section>
-        <num>1-3</num>
+        <num codify:value="103">1-3</num>
         <heading>Purpose</heading>
         <text>This Code is enacted to establish various departments in the Executive Branch of the Upper Mattaponi Tribe, in order to appropriately administer Tribal programs and laws.</text>
       </section>
       <section>
-        <num>1-4</num>
+        <num codify:value="104">1-4</num>
         <heading>Effective Date</heading>
         <text>The provisions of this code shall be effective upon the date signed by the Chief of the Upper Mattaponi Tribe, or upon the date of a veto override by the Council.</text>
       </section>
       <section>
-        <num>1-5</num>
+        <num codify:value="105">1-5</num>
         <heading>Interpretation</heading>
         <text>The provisions of this Code shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of this Code, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court shall construe it consistently with applicable textual tribal law. In the absence of applicable tribal customary law or textual tribal law, the Court shall construe it consistently with applicable law of other jurisdictions.</text>
       </section>
       <section>
-        <num>1-7</num>
+        <num codify:value="106">1-7</num>
         <heading>Severability and Non-Liability</heading>
         <text>If any section, provision, or portion of this Code is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Code shall not be affected thereby.</text>
       </section>
