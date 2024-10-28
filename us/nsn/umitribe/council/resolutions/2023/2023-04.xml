@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Resolution No. 2023-04" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2023-04</num>
+  <heading>Department of Health Procurement Policy Authorization Act of 2023</heading>
+  <meta>
+    <effective>2023-09-21</effective>
+    <history>
+      <adopted>2023-09-20</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2023-04.pdf">Res. No. 2023-04</citation>
+    </citations>
+  </meta>
+  <preamble>At a duly called Regular Meeting of the Council held this 20th day of September, 2023, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VI|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("Constitution"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>in accordance with the authority under the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, the Council established a Department of Health to operate and administer various health care programs and services for the Tribe; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Department of Health and programs operating within the Department of Health have grown significantly in a short period of time, and the Tribe's procurement policies can no longer efficiently accommodate the unique needs of the Department of Health to obtain and administer large programs and budgets, including the need to purchase expensive medical equipment; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>based on the success of the Tribe's existing health care programs and services, the Council finds the need to authorize a separate procurement policy for the Department of Health, subject to modification by the Chief as authorized by law.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE IT BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "DEPARTMENT OF HEALTH PROCUREMENT POLICY AUTHORIZATION ACT OF 2023".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on September 20, 2023, at a Regular Meeting with a vote of <u>4</u> in favor and <u>Ø</u> opposed, <u>1</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="4|11"/>
+    <section>
+      <num>101</num>
+      <heading>Short Title</heading>
+      <text><code-cite path="|attachments|law">This enactment</code-cite> shall be known as the Department of Health Procurement Policy Authorization Act ("Act").</text>
+    </section>
+    <section>
+      <num>102</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <code-cite path="|attachments|law">the Act</code-cite> is to authorize and establish a Procurement Policy for the Department of Health.</text>
+    </section>
+    <section>
+      <num>103</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>In accordance with the authority under the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, the Council established a Department of Health to operate and administer various health care programs and services for the Tribe; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Department of Health and programs operating within the Department of Health have grown significantly in a short period of time, and the Tribe's procurement policies can no longer efficiently accommodate the unique needs of the Department of Health to obtain and administer large programs and budgets, including the need to purchase expensive medical equipment; and,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>based on the success of the Tribe's existing health care programs and services, the Council finds the need to authorize a separate procurement policy for the Department of Health, subject to modification by the Chief as authorized by law.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1106"/>
+      <num codify:value="1106">104</num>
+      <heading>Procurement Policy</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Chief shall have the authority to establish and modify a written procurement policy for the Department of Health and/or its subdivisions. Any modification to an existing procurement policy for the Department of Health shall be provided to the Council within thirty days of approval by the Chief.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any procurement policy for the Department of Health approved by the Chief shall include the following provisions:</text>
+        <para>
+          <num>(A)</num>
+          <text>Notwithstanding any other procurement policy or resolution adopted by the Tribe, the Department of Health is authorized to negotiate, execute and otherwise conclude, and administer contracts and agreements in accordance with appropriated funds as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text><u>Operational Contracts</u>: for goods and services, including those with state and federal agencies ("intergovernmental agreements"), that are necessary to maintain operations, services, and to comply with Centers for Medicare and Medicaid Services ("CMS") conditions of participation (collectively, "Operational Contracts"); and,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text><u>Revenue Contracts</u>: with insurance providers, third-party administrators, and other similar type of patient benefit providers that are necessary for the Department of Health to submit claims and receive payment for services (collectively, "Revenue Contracts").</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Tribe's liability for an Operational Contract or Revenue Contract entered pursuant to this Act shall not exceed, and sovereign immunity is not waived for, an amount greater than the Tribe's applicable insurance coverage or the total value of the contract, whichever is lower; provided, that the Department of Health shall provide the Council and Chief with an annual written report detailing the number of contracts entered into that included a waiver of sovereign immunity including the purposes and terms of each waiver.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>On a semi-annual basis, the Department of Health shall provide a summary of all current Operational and Revenue Contracts, which shall include a description of the type of services provided under the contract, the total and annual amount of the contract, the duration of the contract, and a current revenue and expenditure report, to the Chief and Council.</text>
+        </para>
+      </para>
+    </section>
+  </attachment>
+</document>

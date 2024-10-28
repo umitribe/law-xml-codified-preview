@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Resolution No. 2023-03" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2023-03</num>
+  <heading>Department of Health Enabling Act of 2023</heading>
+  <meta>
+    <effective>2023-09-21</effective>
+    <history>
+      <adopted>2023-09-20</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2023-03.pdf">Res. No. 2023-03</citation>
+    </citations>
+  </meta>
+  <preamble>At a duly called Regular Meeting of the Council held this 20th day of September, 2023, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VI|(4)|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("Constitution"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> establishes two Departments under the Executive Branch of government and allows the Council to establish other Departments by law; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Council finds that establishing a Department of Health will assist the Tribe in assessing and implementing various health care programs in a well-coordinated and collaborative manner that will enhance educational awareness, disease prevention, and healthy behavioral change.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE IT BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "DEPARTMENT OF HEALTH ENABLING ACT OF 2023".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on September 20, 2023, at a Regular Meeting with a vote of <u>4</u> in favor and <u>0</u> opposed, <u>1</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="4|11"/>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1100"/>
+      <num codify:value="1100">101</num>
+      <heading>Short Title</heading>
+      <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-03">This enactment</code-cite> shall be known as the Department of Health Enabling Act ("Act").</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1101"/>
+      <num codify:value="1101">102</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-03">the Act</code-cite> is to establish the Department of Health.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1102"/>
+      <num codify:value="1102">103</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>reorganizing the structure of governmental departments and programs in accordance with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> will promote efficiency within the Tribe; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>establishing a Department of Health within the executive branch of government will assist the Tribe in managing, administering, and evaluating various health care programs for the benefit of citizens of the Tribe.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1103"/>
+      <num codify:value="1103">104</num>
+      <heading>Organization of the Department of Health</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Chief shall have the authority to organize and operate the Department of Health in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Department of Health from time to time.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Department of Health may include the following programs, services, and activities:</text>
+        <para>
+          <num>(1)</num>
+          <text>
+            <em>Primary Care Medical Services</em>
+          </text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>
+            <em>Dental Services</em>
+          </text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>
+            <em>Behavioral and Mental Health Services</em>
+          </text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>
+            <em>Public Health Nursing and Other Services</em>
+          </text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>
+            <em>Administration</em>
+          </text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>
+            <em>Any other program or service established by the Chief, subject to ratification by the Council.</em>
+          </text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1104"/>
+      <num codify:value="1104">105</num>
+      <heading>Department of Health Goals and Objectives</heading>
+      <text>The mission of the Department of Health is to assess and implement various health care programs of the Tribe in a well-coordinated and collaborative manner that will enhance educational awareness, disease prevention, and healthy behavioral changes. The primary goal of the Department of Health is to provide comprehensive health care awareness that will target multiple dimensions of health such as physical, mental, emotional, and social needs of citizens of the Tribe of all ages.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1105"/>
+      <num codify:value="1105">106</num>
+      <heading>Authority to Operate and Administer the Department of Health</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Chief, and any person(s) designated by the Chief and working at the direction of the Chief, shall have the authority to operate and manage the Department of Health and/or any portion or component of the Department of Health.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Chief, and any person(s) designated by the Chief and working at the direction of the Chief, shall have the authority to administer the authorized funds appropriated for the Department of Health or its subdivisions,</text>
+      </para>
+      <text>
+        <strong>NOTES:</strong>
+      </text>
+      <text>
+        <strong>Primary Care Medical Services</strong>
+      </text>
+      <text>The Upper Mattaponi Tribe Comprehensive Health Program provides a comprehensive range of primary healthcare services, appropriate for a local medical center to prevent and treat disease and injury and to promote improvements in health status and outcomes. All medical services, treatments, and laboratory services provided to pediatric and adult patients include the coordination of referrals to outside services not available at the clinic. Primary Care Medical Services include:</text>
+      <para>
+        <num>1.</num>
+        <text>Family Health Services</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Diabetes Treatment and Prevention services</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Laboratory Services</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Pharmaceutical Services</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Telemedicine Services 6. Eldercare Services</text>
+      </para>
+      <text>
+        <strong>Dental Services</strong>
+      </text>
+      <text>The Upper Mattaponi Tribe Comprehensive Health Program provides a comprehensive range of dental services, appropriate for a local dental center to prevent and treat disease and promote improvements in dental health. All dental services, treatment, and laboratory services provided to pediatric and adult patients include the coordination of referrals to outside service not available at the dental clinic. Dental Services include:</text>
+      <para>
+        <num>1.</num>
+        <text>Preventive Care - Checkups, Cleaning and Deep Cleaning</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Restorative Services - Fillings, Crowns and Bridges</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Dentures</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Pediatric</text>
+      </para>
+      <text>
+        <strong>Behavioral Health and Mental Health Services</strong>
+      </text>
+      <text>The Upper Mattaponi Tribe Comprehensive Health Program provides a comprehensive range of behavioral and mental health services, appropriate for our citizens, local school systems, and community at-large. All services and treatments provided to pediatric and adult patients include the coordination of referrals to outside services not available through the Tribe. Behavioral and Mental Health Services include:</text>
+      <para>
+        <num>1.</num>
+        <text>Individual and Family Support Services</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Mental Health Services</text>
+      </para>
+      <text>
+        <strong>Public Health Nursing and Other Services</strong>
+      </text>
+      <text>The Upper Mattaponi Tribe Comprehensive Health Program provides a comprehensive range of home and community-based services, appropriate for ensuring the health and well-being of our citizens and community at-large. Public Health Nursing and Other Services include:</text>
+      <para>
+        <num>1.</num>
+        <text>Health, Education, Health Promotion, and Disease Prevention</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Public Health Nursing</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Physical Therapy 4. Occupational Therapy</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Nutrition and Dietetics</text>
+      </para>
+      <text>
+        <strong>Administration</strong>
+      </text>
+      <text>The Upper Mattaponi Tribe Comprehensive Health Program provides a comprehensive range of administrative services, appropriate for the operation of the Health program. All administrative services not provided by Tribal employees will be contracted with outside vendors where appropriate. Administrative services include:</text>
+      <para>
+        <num>1.</num>
+        <text>General Administrative Services</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Business Office</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Housekeeping Services</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Human Resources</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Infection Control Services</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Information Technology</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Medical Records</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Medical Services Administration</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Patient Registration</text>
+      </para>
+    </section>
+  </attachment>
+</document>

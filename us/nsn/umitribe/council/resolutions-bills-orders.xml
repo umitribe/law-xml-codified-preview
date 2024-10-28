@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="Resolutions/Bills/Orders">
+  <heading>Resolutions/Bills/Orders</heading>
+  <collection name="./resolutions">
+    <heading>Resolutions</heading>
+    <xi:include href="./resolutions/2024/index.xml"/>
+    <xi:include href="./resolutions/2023/index.xml"/>
+  </collection>
+  <collection name="./budget-resolutions">
+    <heading>Budget Resolutions</heading>
+    <xi:include href="./budget-resolutions/2024/index.xml"/>
+  </collection>
+  <collection name="./bills">
+    <heading>Bills</heading>
+    <xi:include href="./bills/2024/index.xml"/>
+  </collection>
+  <collection name="./orders">
+    <heading>Orders</heading>
+    <xi:include href="./orders/2024/index.xml"/>
+  </collection>
+</collection>

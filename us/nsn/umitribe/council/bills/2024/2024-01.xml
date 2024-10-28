@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Bill No. 2024-01" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2024-01</num>
+  <heading>Land Financing Act of the Upper Mattaponi Tribe</heading>
+  <meta>
+    <effective>2024-02-07</effective>
+    <history>
+      <adopted>2024-02-06</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2024-01.pdf">Bill No. 2024-01</citation>
+    </citations>
+  </meta>
+  <preamble>At a duly called Special Meeting of the Council held this 6<sup>th</sup> day of February 2024, the following Bill was adopted as Law.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>On July 22, 2023, the citizens of the Upper Mattaponi Tribe ("Tribe") overwhelmingly voted to adopt a new constitution ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>") to assert the Tribe's sovereign authority as an Indian Tribe, and to confirm and reorganize the Tribe to exercise its full governmental authority in a fair and equitable manner; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Council recognizes that one of the objectives of the Tribe is to increase its land base through the acquisition of land from third parties; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Council wishes that the Chief of the Tribe or his designee has the authority and the ability to acquire land; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>to facilitate the Chief's ability to purchase land, the Council authorizes the Chief to obtain a line of credit as set forth herein up to $500,000.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(b)">(b)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached bill into law, entitled "Land Financing Act of the Upper Mattaponi Tribe".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on February 6, 2024, at a Specially called Session with a vote of <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="42|2"/>
+    <container>
+      <prefix>CHAPTER</prefix>
+      <num>I</num>
+      <heading>General Provisions</heading>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§200"/>
+        <num codify:value="200">1-1</num>
+        <heading>Title</heading>
+        <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Bill No. 2024-01">This Code</code-cite> shall be known as the "Land Financing Act of the Upper Mattaponi Tribe."</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§201"/>
+        <num codify:value="201">1-2</num>
+        <heading>Authority</heading>
+        <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Bill No. 2024-01">This Code</code-cite> is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe (also referred to herein as "Tribe") and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all Legislative power of the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§202"/>
+        <num codify:value="202">1-3</num>
+        <heading>Purpose</heading>
+        <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Bill No. 2024-01">This Code</code-cite> is enacted to authorize the Chief or his designee to obtain financing for the purchase of land.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§203"/>
+        <num codify:value="203">1-4</num>
+        <heading>Effective Date</heading>
+        <text>The provisions of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Bill No. 2024-01">this code</code-cite> shall be effective upon the date signed by the Chief of the Upper Mattaponi Tribe, or upon the date of a veto override by the Council.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§204"/>
+        <num codify:value="204">1-5</num>
+        <heading>Interpretation</heading>
+        <text>The provisions of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Bill No. 2024-01">this Code</code-cite> shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Bill No. 2024-01">this Code</code-cite>, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court shall construe it consistently with applicable textual tribal law. In the absence of applicable tribal customary law or textual tribal law, the Court shall construe it consistently with applicable law of other jurisdictions.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§205"/>
+        <num codify:value="205">1-7</num>
+        <heading>Severability and non-liability</heading>
+        <text>If any section, provision, or portion of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Bill No. 2024-01">this Code</code-cite> is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Bill No. 2024-01">this Code</code-cite> shall not be affected thereby.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>CHAPTER</prefix>
+      <num>II</num>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§206"/>
+        <num codify:value="206">2-1</num>
+        <heading>Authority</heading>
+        <para>
+          <num>A.</num>
+          <text>Purchase of Land. Within budgetary constraints, the Chief is hereby authorized to purchase land within five miles of the current tribal headquarters in King William.</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>Line of Credit. The Chief or his designee is authorized to obtain a line of credit which may be used to finance the acquisition of land.</text>
+        </para>
+        <para>
+          <num>C.</num>
+          <text>Waiver of Immunity. If necessary, the Chief is authorized to pledge as collateral for securing such line of credit, and the Chief is authorized to waive the sovereign immunity of the Tribe up to the amount of the line of credit and as it relates to the collateral specified above, for solely the purpose of ensuring the repayment of the line of credit.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§207"/>
+        <num codify:value="207">2-2</num>
+        <heading>Reporting</heading>
+        <text>The Chief shall report each month to the Council on the amount drawn or repaid under the line of credit, and what land, if any has been purchased since the last report.</text>
+      </section>
+    </container>
+  </attachment>
+</document>

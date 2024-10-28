@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2023">
   <heading>2023 Resolutions</heading>
-  <xi:include href="./2023-015.xml"/>
-  <xi:include href="./2023-014.xml"/>
-  <xi:include href="./2023-013.xml"/>
-  <xi:include href="./2023-012.xml"/>
-  <xi:include href="./2023-011.xml"/>
-  <xi:include href="./2023-010.xml"/>
-  <xi:include href="./2023-009.xml"/>
-  <xi:include href="./2023-008.xml"/>
-  <xi:include href="./2023-007.xml"/>
-  <xi:include href="./2023-006.xml"/>
-  <xi:include href="./2023-005.xml"/>
+  <xi:include href="./2023-11.xml"/>
+  <xi:include href="./2023-10.xml"/>
+  <xi:include href="./2023-09.xml"/>
+  <xi:include href="./2023-08.xml"/>
+  <xi:include href="./2023-07.xml"/>
+  <xi:include href="./2023-06.xml"/>
+  <xi:include href="./2023-05.xml"/>
+  <xi:include href="./2023-04.xml"/>
+  <xi:include href="./2023-03.xml"/>
+  <xi:include href="./2023-02.xml"/>
+  <xi:include href="./2023-01.xml"/>
 </collection>

@@ -3,14 +3,15 @@
   <heading>Upper Mattaponi Tribal Code of Law</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2024-01-02">
-      <doc id="Upper Mattaponi Tribe Res. No. 2023-015" type="resolution"/>
+    <recency through="2024-06-25">
+      <doc id="Upper Mattaponi Tribe Bill No. 2024-04" type="resolution"/>
     </recency>
   </meta>
+  <xi:include href="./1.xml"/>
   <xi:include href="./4.xml"/>
-  <xi:include href="./14.xml"/>
+  <xi:include href="./13.xml"/>
+  <xi:include href="./18.xml"/>
+  <xi:include href="./42.xml"/>
+  <xi:include href="./44.xml"/>
   <xi:include href="./45.xml"/>
-  <xi:include href="./46.xml"/>
-  <xi:include href="./47.xml"/>
-  <xi:include href="./48.xml"/>
 </document>

@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Resolution No. 2023-08" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2023-08</num>
+  <heading>Fiscal Procedures Act of 2023</heading>
+  <meta>
+    <effective>2023-10-26</effective>
+    <history>
+      <adopted>2023-10-19</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2023-08.pdf">Res. No. 2023-08</citation>
+    </citations>
+  </meta>
+  <preamble>At a duly called Regular Meeting of the Council held this <u>19</u><sup><u>th</u></sup> day of <u>October</u>, 2023 the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> establishes strict requirements on the Council to authorize expenditures, enact an Annual Budget and appropriate funds, as well as strict requirements on the Chief for making expenditures pursuant to an Annual Budget;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> also sets requirements for fiscal transparency and accountability;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> requires updated, comprehensive fiscal procedures and policies to implement the new fiscal requirements;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>Establishing financial procedures for expenditures and accounting represents a fundamental step to implement the new <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution's</cite> fiscal requirements;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> contemplates a three-step fiscal process to ensure transparency and accountability: Authorization, budgeting, and Appropriation; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>The Council recognizes that, as the Tribe continues to grow, the Finance and Accounting Policies and Procedures Manual used by the Executive branch may need to be updated and revised from time to time, and that the Chief should be authorized to modify the Manual to meet the needs of the Tribe, to adhere to the fiscal requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, and to establish best practices for the finance and accounting activities of the Tribe.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE IT BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "FISCAL PROCEDURES ACT OF 2023".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>October 19</u><sup><u>th</u></sup>, 2023, at a Regular Meeting with a vote of <u>5</u> in favor and <u>Ø</u> opposed, <u>Ø</u> abstaining, and <u>2</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="44|1"/>
+    <section><codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§100"/>&gt;
+      <num codify:value="100">1.1</num><heading>Short Title</heading><text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">This enactment</code-cite> shall be known as the Fiscal Procedures Act of 2023.</text></section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§101"/>
+      <num codify:value="101">1.2</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Act" means the Fiscal Procedures Act of 2023.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Annual Budget" means the constitutionally required Annual Budget which has been enacted by the Council and signed by the Chief or vetoed by the Chief and over-ridden by the Council.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Appropriation" refers to a Budget Resolution passed by the Council, which has been signed by the Chief or vetoed by the Chief and over-ridden by the Council, prioritizing and allocating funds for spending on an item or items that have been previously authorized by law.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Authorization" refers to the act by the Council authorizing an item for expenditure in a substantive Bill enacted into law by the Council pursuant to the Legislative Process.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Budget Modification" refers to a change to the Budget approved pursuant to the Legislative Process.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Budget Resolution" means the legislative document introduced by a Council Representative(s), which may or may not include the Chief's Presented Budget in whole or in part, and used by the Council to deliberate, prioritize, and allocate funds for spending upon and passage of the Annual Budget.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>" means the new constitution approved by the voters on July 22, 2023.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Finance and Accounting Policies and Procedures Manual" means the Finance and Accounting Policies and Procedures Manual which shall include <cite doc="Constitution of the Upper Mattaponi Tribe" path="VIII|5">Article VIII, Section 5</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, all procedures required by <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> as may be amended from time to time, and all applicable administrative procedures adopted in compliance with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> and <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite>.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Presented Budget" means the proposed Annual Budget developed by the Chief and presented to the Council.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Revenues" means all monies collected by or accrued to the Tribe from whatever sources, including but not limited to revenue generated from taxes, fees, investments, dividends, interest, sales, leases, rents, Tribal operations, and tribally-owned businesses, regardless of the value or amount.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§102"/>
+      <num codify:value="102">1.3</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> is to establish and authorize administrative finance and accounting policies and procedures for revenue and accounting practices in order to foster and achieve fiscal responsibility, transparency, and accountability as required by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§103"/>
+      <num codify:value="103">1.4</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> establishes strict requirements on the Council to authorize expenditures, enact an Annual Budget and appropriate funds, as well as strict requirements on the Chief for making expenditures pursuant to an Annual Budget;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> also sets requirements for fiscal transparency and accountability;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> requires updated, comprehensive fiscal procedures and policies to implement the new fiscal requirements;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Establishing financial procedures for expenditures and accounting represents a fundamental step to implement the new <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution's</cite> fiscal requirements;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> contemplates a three-step fiscal process to ensure transparency and accountability: Authorization, budgeting, and Appropriation; and,</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Council recognizes that, as the Tribe continues to grow, the Finance and Accounting Policies and Procedures Manual used by the Executive branch may need to be updated and revised from time to time, and that the Chief should be authorized to modify the Manual to meet the needs of the Tribe, to adhere to the fiscal requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, and to establish best practices for the finance and accounting activities of the Tribe.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§104"/>
+      <num codify:value="104">1.5</num>
+      <heading>Budget Process Requirements of the Executive Branch</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Chief shall prepare and compile a proposed budget for presentment to the Council, which shall be called the "Presented Budget," and which shall include, both separately and incorporated into the proposed budget, all projected Revenues from all sources and all proposed expenditures.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Presented Budget shall not include any item which has not been previously authorized by law by one of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>By the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>By enacted Law or Resolution;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Previously and separately authorized contract between the Tribe and the Federal, State, or local government;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>By the terms of a previously authorized grant from which funding was obtained and must be spent.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Executive Branch shall administer and spend funds in strict accordance with Budget and Appropriation laws of the Tribe in effect or as specifically required by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>. An Authorization for an expenditure to be included within a budget may be general and need not specify each item within the budget. The Executive may expend funds in accordance with the requirements in the Authorization, Budget, and Appropriation. The Council's approval of a grant or contract shall be deemed to have authorized any expenditure required by the terms of the grant.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>No expenditure shall be made unless included in the Annual Budget.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Each Executive branch Department, Program, and Business Enterprise, the Chief Justice of the High Court, and the Speaker of the Council, shall prepare and present to the Chief a proposed annual budget, including all anticipated revenues and proposed expenditures, including any contribution that the Tribe may be required to make for any grant, grant proposal, or start up contribution.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Chief shall prepare and present a comprehensive Annual Budget for the Tribe to the Council. The Chief shall present the proposed Annual Budget to the Council with sufficient time for the Council to review and take action.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Chief, the appropriate Department, Program, Business Enterprise representative, or a designee shall appear in public legislative hearings on all proposed annual budgets. A regular meeting of the Council or a Council Committee meeting may constitute a public hearing for purposes of this subsection, however, a Committee hearing does not prevent the Council from holding specific public hearings on budget proposals.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Council shall have the authority to pass a Budget Resolution to approve an Annual Budget or Budget Modification subject to the authority of the Chief.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Chief may veto a Budget Resolution in whole and not in part.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Upon signature of the Budget Resolution by the Chief, or veto by the Chief and veto-override by the Council, the Annual Budget or Budget Modification shall be deemed approved and effective.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>If the Annual Budget is not approved by the beginning of the effective fiscal year, then the most recently approved Annual Budget shall remain in effect until a new Annual Budget is enacted into law.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§105"/>
+      <num codify:value="105">1.6</num>
+      <heading>Budget Requirements of the Judicial Branch</heading>
+      <text>In accordance with the status of the courts established in the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> as a coordinate branch of government, the Council hereby recognizes the inherent power of the Courts and Judicial branch officials to exercise the powers vested in them by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, including managerial, administrative, and personnel authority necessary to effectively fulfill their judicial duties and responsibilities. In administering appropriated funds for the Judicial branch, the Chief Justice shall have the authority to reassign and/or transfer funds appropriated for the Judicial branch for expenditure to any other function or purpose necessary for the operation of the Courts in accordance with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> and the laws of the Tribe.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§106"/>
+      <num codify:value="106">1.7</num>
+      <heading>Budget Requirements of the Legislative Branch</heading>
+      <text>In accordance with the status of the Council established in the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> as a coordinate branch of government, the Council hereby recognizes the inherent power of the Council and Legislative branch officials to exercise the powers vested in them by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, including managerial, administrative, and personnel authority necessary to effectively fulfill their legislative duties and responsibilities. In administering appropriated funds for the Legislative branch, the Speaker shall have the authority to reassign and/or transfer funds appropriated for the Legislative branch for expenditure to any other function or purpose necessary for the operation of the Council, subject to the prior approval of the Council.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§107"/>
+      <num codify:value="107">1.8</num>
+      <heading>Expenditure Requests of the Judicial Branch and Legislative Branch</heading>
+      <text>The role of the Chief and Finance Department in administering and processing expenditure requests from the Judicial and Legislative branches of government shall be to determine if the Courts or Council, as the case may be, have funds available from an Appropriation in an approved budget, and if such funds are available, then the Chief and Finance Department shall ensure that such requests are completed in a timely manner, which shall be deemed to fulfill the Chief's obligations under the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§108"/>
+      <num codify:value="108">1.9</num>
+      <heading>Budget Modification</heading>
+      <text>The Chief may request a Budget Modification at any time. In order to become effective, a Budget Modification shall follow the same process for approval and enactment as the Annual Budget pursuant to the Legislative Process.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§109"/>
+      <num codify:value="109">1.10</num>
+      <heading>Fund Transfers</heading>
+      <para>
+        <num>(a)</num>
+        <text>In order to handle unexpected shortfalls and expenses or emergency expenditures, the Chief is hereby authorized to make transfers of appropriated funds as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Within a Department or Program of up to fifty percent (50%) of the Department's or Program's total Effective Budget;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Between two or more Departments' or Programs' of up to ten percent (10%) of the recipient Departments' or Programs' Effective Budget.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Fund transfers must be approved by the Chief and must not violate any funding limitations imposed as a condition of receiving grant funds or other restrictions on the use of such funds (i.e., Medicare and Medicaid funds).</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Transfer of contingency funds as described in <code-cite path="|attachments|law|1.11" doc="Upper Mattaponi Tribe Resolution No. 2023-08">Section 1.11</code-cite> below are not subject to the limits described in (a)(1) and (a)(2) above.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Fund transfers under this Section shall not be considered Budget Modifications.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§110"/>
+      <num codify:value="110">1.11</num>
+      <heading>Contingency Funds</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Chief is hereby authorized to include within the Presented Budget a Contingency Fund which may be used to address:</text>
+        <para>
+          <num>(1)</num>
+          <text>Emergencies or unforeseen situations that require quick and immediate response to protect the health, safety and well-being of citizens of the Tribe and property.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Unforeseeable Department or Program issues.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Contingency Fund budget categories shall include:</text>
+        <para>
+          <num>(1)</num>
+          <text>Natural disasters and public emergencies;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Departmental/Programmatic issues;</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To the extent feasible, and if funds are available or become available, the pertinent Department or Program shall reimburse the Chief's contingency fund.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Contingency Fund transfers to other Departments or Programs are not limited to the maximum fund transfer limit described in <code-cite path="|attachments|law|1.7" doc="Upper Mattaponi Tribe Resolution No. 2023-08">Section 1.7</code-cite> above.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Chief shall inform the Council at the earliest practicable time when a transfer of Contingency Funds has occurred.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§111"/>
+      <num codify:value="111">1.12</num>
+      <heading>Finance and Accounting Policies and Procedures</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Executive Branch shall develop comprehensive finance and accounting policies and procedures that are consistent with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> and <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> including the requirement for an annual financial audit of the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Chief is hereby directed to develop finance and accounting policies and procedures supplemental to <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> within one hundred-eighty (180) days of the Effective Date of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite>. The accounting policies and procedures shall include an organizational system for auditing revenues and expenditures, and to account for all revenues and expenditures, including receipts, purchase orders, requisition forms, invoices, packing slips, payroll actions, personnel action forms, and checks drawn upon the Treasury of the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The finance and accounting policies and procedures may be amended by the Chief from time to time as needed; Provided, that the Chief shall notify the Council of any such amendments in a timely manner.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§112"/>
+      <num codify:value="112">1.13</num>
+      <heading>Current Accounting Policy and Procedures Manual</heading>
+      <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">This Act</code-cite> shall supersede and repeal any prior Accounting Policy and Procedures Manuals, policies, procedures, or practices but only to the extent that such prior Manuals, policies, procedures, or practices conflict with <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite>.</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§113"/>
+      <num codify:value="113">1.14</num>
+      <heading>Severability</heading>
+      <text>If the courts of the Tribe find any provision of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> to be invalid or unconstitutional, such provision shall be severed from <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> and the remainder of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> shall remain in full force and effect.</text>
+    </section>
+  </attachment>
+</document>
