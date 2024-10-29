@@ -58,37 +58,37 @@
       <num>I</num>
       <heading>GENERAL PROVISIONS</heading>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§100"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§100"/>
         <num codify:value="100">1-1</num>
         <heading>Title</heading>
         <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">This Code</code-cite> shall be known as the "Departmental Organization Act."</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§101"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§101"/>
         <num codify:value="101">1-2</num>
         <heading>Authority</heading>
         <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">This Code</code-cite> is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe (also referred to herein as "Tribe") and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all  Legislative power of the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe, and expressly empowers the Council to "to create departments, boards, and commissions located in the Executive branch of government by law" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII, §4(d)</cite>); and with "authority to confirm a nominee presented to the Council by the Chief, subject to final installation of the nominee into office by the Chief" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">Article VII, § 4(i)</cite>).</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§102"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§102"/>
         <num codify:value="102">1-3</num>
         <heading>Purpose</heading>
         <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">This Code</code-cite> is enacted to establish various departments in the Executive Branch of the Upper Mattaponi Tribe, in order to appropriately administer Tribal programs and laws.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§103"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§103"/>
         <num codify:value="103">1-4</num>
         <heading>Effective Date</heading>
         <text>The provisions of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this code</code-cite> shall be effective upon the date signed by the Chief of the Upper Mattaponi Tribe, or upon the date of a veto override by the Council.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§104"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§104"/>
         <num codify:value="104">1-5</num>
         <heading>Interpretation</heading>
         <text>The provisions of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Code</code-cite> shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Code</code-cite>, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court shall construe it consistently with applicable textual tribal law. In the absence of applicable tribal customary law or textual tribal law, the Court shall construe it consistently with applicable law of other jurisdictions.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§105"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§105"/>
         <num codify:value="105">1-7</num>
         <heading>Severability and Non-Liability</heading>
         <text>If any section, provision, or portion of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Code</code-cite> is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Code</code-cite> shall not be affected thereby.</text>
@@ -99,40 +99,40 @@
       <prefix>CHAPTER</prefix>
       <num>II</num>
       <heading>GENERAL DEPARTMENTAL PROVISIONS</heading>
-      <section><codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§200"/>&gt;
+      <section><codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§200"/>&gt;
         <num codify:value="200">2-1</num><heading>Removal of Departmental Secretaries</heading><para><num>(a)</num><heading>Removal by Chief.</heading><text>Except as otherwise provided under Upper Mattaponi Law, or any contractual agreements between a Secretary and the Chief, any Secretary may be removed by the Chief at his discretion.</text></para><para><num>(b)</num><heading>Grounds for Removal by Council.</heading><text>A Secretary may be removed by the Council from their position on the following grounds:</text><para><num>(1)</num><text>Malfeasance, misfeasance, or nonfeasance of office;</text></para><para><num>(2)</num><text>conviction by any court of any crime involving moral turpitude; or</text></para><para><num>(3)</num><text>any other grounds as established by Upper Mattaponi Law.</text></para></para><para><num>(c)</num><heading>Process.</heading><text>The Council shall have the power to remove a Secretary except as may be otherwise provided by law.  The process for the removal of a Secretary by the Council shall be as follows:</text><para><num>(1)</num><text>the Council may recommend removal of a Secretary from their position through passage of an official resolution setting forth the grounds for removal;</text></para><para><num>(2)</num><text>the Council, after passage of the resolution outlined in subsection (a) of <cite path="§2-1" proof="needed" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Section</cite>, shall set a hearing date to consider the removal of the Secretary and notify the alleged Secretary in writing by certified mail, return receipt requested.  The hearing shall occur no more than ninety (90) days after passage of the resolution outlined in subsection (a) of <cite path="§2-1" proof="needed" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Section</cite>, and the hearing notice shall occur no less than thirty (30) days before the hearing date;</text></para><para><num>(3)</num><text>at the hearing, the alleged Secretary shall have the right to protest the removal and defend the allegations against him or her, including the right to cross-examine any witnesses who testify against him or her, and shall have the right to be represented by an attorney or other advocate licensed to practice law before the Upper Mattaponi Tribe's courts; and</text></para><para><num>(4)</num><text>after the presentation of evidence at the hearing, the Council may remove the Secretary from their position upon a two-thirds majority vote of the entire Council, absent or present.</text></para><para><num>(5)</num><text>Any Secretary removed pursuant to <cite path="§2-1" proof="needed" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Section</cite> may not be reappointed to that same position for a period of two (2) years following removal.</text></para></para></section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§201"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§201"/>
         <num codify:value="201">2-2</num>
         <heading>Reporting</heading>
         <text>Secretaries, as officers of the Executive Branch of the Upper Mattaponi Tribe, shall report to the Chief, except as otherwise provided in Upper Mattaponi Law.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§202"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§202"/>
         <num codify:value="202">2-3</num>
         <heading>Records</heading>
         <text>Departments shall comply with all record retention requirements under Upper Mattaponi Law.  Additionally, Departments shall maintain their records on-site for a period of three (3) years before transferring the documents to the Tribe's long-term records storage facility.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§203"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§203"/>
         <num codify:value="203">2-4</num>
         <heading>Annual Report</heading>
         <text>Secretaries established by <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Code</code-cite> shall be responsible for providing an Annual Report of the Department's activities to the Council and the Chief by the first day of January of each year covering the activities of the prior year.  The report should explain the finances of the Department, identify any current or future liabilities, and any other material items required by Upper Mattaponi Law.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§204"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§204"/>
         <num codify:value="204">2-5</num>
         <heading>Departmental Decisions</heading>
         <text>Departmental Decisions that affect the rights or liabilities of any person or entity must have a rational basis in fact and be supported by substantial evidence. Such Departmental Decisions must be mailed to said affected individuals within ten (10) days of the date of said decision by Certified United States Mail, Return Receipt Requested with Restricted Delivery.  If a Departmental Decision is not timely mailed to the person or persons affected, it shall have no effect.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§205"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§205"/>
         <num codify:value="205">2-6</num>
         <heading>Appeals of Departmental Decisions</heading>
         <text>Except as otherwise provided by Upper Mattaponi Law, any individual adversely affected by a Departmental Decision shall have the right to appeal said decision to the Trial Court of the Upper Mattaponi Tribe within thirty (30) days of notice of the decision.  In no event shall the Trial Court hear any appeal that is filed more than one-hundred eighty (180) days after the date of the Departmental Decision.  The Trial Court may establish procedures for consideration of appeals of Departmental Decisions, so long as such procedures provide affected individuals with due process of law.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§206"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§206"/>
         <num codify:value="206">2-7</num>
         <heading>Sovereign Immunity</heading>
         <para>
@@ -151,24 +151,24 @@
       <num>III</num>
       <heading>ENVIRONMENTAL DEPARTMENT</heading>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§300"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§300"/>
         <num codify:value="300">3-1</num>
         <text>The Environmental Department of the Upper Mattaponi Tribe is hereby created.  The Environmental Department will be responsible for administering and enforcing the environmental laws of the Upper Mattaponi Tribe along with any other responsibilities under Upper Mattaponi Law.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§301"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§301"/>
         <num codify:value="301">3-2</num>
         <heading>Mission</heading>
         <text>The mission of the Environmental Department shall be to protect human health and the environment by working to ensure citizens have access to clean air, land and water.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§302"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§302"/>
         <num codify:value="302">3-3</num>
         <heading>Organization</heading>
         <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Environmental Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Environmental Department from time to time.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§303"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§303"/>
         <num codify:value="303">3-4</num>
         <heading>Secretary</heading>
         <text>The Environmental Department shall be managed and operated by a Secretary who shall be appointed by the Chief and confirmed by the Council in accordance with <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII §§ 4(d)</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">(i)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.  The Secretary should meet the following requirements:</text>
@@ -196,24 +196,24 @@
       <num>IV</num>
       <heading>CULTURAL PROTECTION DEPARTMENT</heading>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§400"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§400"/>
         <num codify:value="400">4-1</num>
         <text>The Cultural Protection Department of the Upper Mattaponi Tribe is hereby created.  The Cultural Protection Department will be responsible for the preservation of the Tribe’s cultural heritage along with any other responsibilities under Upper Mattaponi Law.  The Department may accomplish this through lectures, discussions, workshops, classes, demonstrations, or working to repatriate lost artifacts of the Tribe.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§401"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§401"/>
         <num codify:value="401">4-2</num>
         <heading>Mission</heading>
         <text>The mission of the Cultural Protection Department shall be to preserve and showcase the Tribe's natural and cultural heritage, including language, traditions, and artwork, to strengthen the Tribe's identity.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§402"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§402"/>
         <num codify:value="402">4-3</num>
         <heading>Organization</heading>
         <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Cultural Protection Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Cultural Protection Department from time to time.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§403"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§403"/>
         <num codify:value="403">4-4</num>
         <heading>Secretary</heading>
         <text>The Cultural Protection Department shall be managed and operated by a Secretary who shall be appointed by the Chief and confirmed by the Council in accordance with <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII §§ 4(d)</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">(i)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.  The Secretary should meet the following requirements:</text>
@@ -241,24 +241,24 @@
       <num>V</num>
       <heading>HOUSING DEPARTMENT</heading>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§500"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§500"/>
         <num codify:value="500">5-1</num>
         <text>The Housing Department of the Upper Mattaponi Tribe is hereby created.  The Housing Department will be responsible for administering and applying the Tribe's housing laws and programs along with any other responsibilities under Upper Mattaponi Law.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§501"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§501"/>
         <num codify:value="501">5-2</num>
         <heading>Mission</heading>
         <text>The mission of the Housing Department shall be to provide the Tribe’s citizens with safe, quality housing.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§502"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§502"/>
         <num codify:value="502">5-3</num>
         <heading>Organization</heading>
         <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Housing Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Housing Department from time to time.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§503"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§503"/>
         <num codify:value="503">5-4</num>
         <heading>Secretary</heading>
         <text>The Housing Department shall be managed and operated by a Secretary who shall be appointed by the Chief and confirmed by the Council in accordance with <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII §§ 4(d)</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">(i)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.  The Secretary should meet the following requirements:</text>
@@ -286,24 +286,24 @@
       <num>VI</num>
       <heading>COMMUNITY SERVICES DEPARTMENT</heading>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§600"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§600"/>
         <num codify:value="600">6-1</num>
         <text>The Community Services Department of the Upper Mattaponi Tribe is hereby created.  The Community Services Department will be responsible for administering and applying laws and programs of the Tribe designed to protect against abuse of elders or children, assist with the care of children and elders, nutrition, and food distribution, along with any other responsibilities under Upper Mattaponi Law.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§601"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§601"/>
         <num codify:value="601">6-2</num>
         <heading>Mission</heading>
         <text>The mission of the Community Services Department shall be to provide assistance and resources to Tribal children, families, elders, and people with disabilities.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§602"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§602"/>
         <num codify:value="602">6-3</num>
         <heading>Organization</heading>
         <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Community Services Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Community Services Department from time to time.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§603"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§603"/>
         <num codify:value="603">6-4</num>
         <heading>Secretary</heading>
         <text>The Community Services Department shall be managed and operated by a Secretary who shall be appointed by the Chief and confirmed by the Council in accordance with <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII §§ 4(d)</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">(i)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.  The Secretary should meet the following requirements:</text>
@@ -331,24 +331,24 @@
       <num>VII</num>
       <heading>ENROLLMENT DEPARTMENT</heading>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§700"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§700"/>
         <num codify:value="700">7-1</num>
         <text>The Enrollment Department of the Upper Mattaponi Tribe is hereby created.  The Enrollment Department will be responsible for maintaining the citizenship rolls of the Tribe, including enrolling new citizens and maintain accurate voter lists in collaboration with the Tribe's Election Commission, along with any other responsibilities under Upper Mattaponi Law.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§701"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§701"/>
         <num codify:value="701">7-2</num>
         <heading>Mission</heading>
         <text>The mission of the Enrollment Department shall be to quickly and accurately enroll new tribal citizens and maintain accurate tribal citizenship records.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§702"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§702"/>
         <num codify:value="702">7-3</num>
         <heading>Organization</heading>
         <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Enrollment Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Enrollment Department from time to time.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§703"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§703"/>
         <num codify:value="703">7-4</num>
         <heading>Secretary</heading>
         <text>The Enrollment Department shall be managed and operated by a Secretary who shall be appointed by the Chief and confirmed by the Council in accordance with <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII §§ 4(d)</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">(i)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.  The Secretary should meet the following requirements:</text>
@@ -376,24 +376,24 @@
       <num>VIII</num>
       <heading>EDUCATION DEPARTMENT</heading>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§800"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§800"/>
         <num codify:value="800">8-1</num>
         <text>The Education Department of the Upper Mattaponi Tribe is hereby created.  The Education Department will be responsible for administering programs to provide educational assistance, support, and encouragement, along with any other responsibilities under Upper Mattaponi Law.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§801"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§801"/>
         <num codify:value="801">8-2</num>
         <heading>Mission</heading>
         <text>The mission of the Education Department shall be to address the education and cultural needs of tribal citizens of all ages.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§802"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§802"/>
         <num codify:value="802">8-3</num>
         <heading>Organization</heading>
         <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Education Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Education Department from time to time.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§803"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§803"/>
         <num codify:value="803">8-4</num>
         <heading>Secretary</heading>
         <text>The Education Department shall be managed and operated by a Secretary who shall be appointed by the Chief and confirmed by the Council in accordance with <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII §§ 4(d)</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">(i)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.  The Secretary should meet the following requirements:</text>
@@ -421,24 +421,24 @@
       <num>IX</num>
       <heading>FACILITIES &amp; INFRASTRUCTURE DEPARTMENT</heading>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§900"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§900"/>
         <num codify:value="900">9-1</num>
         <text>The Facilities &amp; Infrastructure Department of the Upper Mattaponi Tribe is hereby created.  The Facilities &amp; Infrastructure Department will be responsible for administering programs to maintain the Tribe's buildings, roads, bridges, and other infrastructure, along with any other responsibilities under Upper Mattaponi Law.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§901"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§901"/>
         <num codify:value="901">9-2</num>
         <heading>Mission</heading>
         <text>The mission of the Facilities &amp; Infrastructure Department shall be to ensure a safe and healthy environment for employees, visitors, and residents of the Tribe.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§902"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§902"/>
         <num codify:value="902">9-3</num>
         <heading>Organization</heading>
         <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Facilities &amp; Infrastructure Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Facilities &amp; Infrastructure Department from time to time.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§903"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§903"/>
         <num codify:value="903">9-4</num>
         <heading>Secretary</heading>
         <text>The Facilities &amp; Infrastructure Department shall be managed and operated by a Secretary who shall be appointed by the Chief and confirmed by the Council in accordance with <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII §§ 4(D)</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">(I)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.  The Secretary should meet the following requirements:</text>
@@ -466,24 +466,24 @@
       <num>X</num>
       <heading>HUMAN RESOURCES DEPARTMENT</heading>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1000"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1000"/>
         <num codify:value="1000">10-1</num>
         <text>The Human Resources Department of the Upper Mattaponi Tribe is hereby created.  The Human Resources Department will be responsible for the hiring and training of all Tribal employees, including managing transfers of employees between departments, along with any other responsibilities under Upper Mattaponi Law.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1001"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1001"/>
         <num codify:value="1001">10-2</num>
         <heading>Mission</heading>
         <text>The mission of the <span codify:value="Human Resources">Facilities &amp; Infrastructure</span> Department shall be to support the Tribe and its employees through all phases of employee to ensure a healthy employment relationship.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1002"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1002"/>
         <num codify:value="1002">10-3</num>
         <heading>Organization</heading>
         <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Human Resources Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Human Resources Department from time to time.</text>
       </section>
       <section>
-        <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1003"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1003"/>
         <num codify:value="1003">10-4</num>
         <heading>Secretary</heading>
         <text>The Human Resources Department shall be managed and operated by a Secretary who shall be appointed by the Chief and confirmed by the Council in accordance with <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII §§ 4(d)</cite> and <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">(i)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.  The Secretary should meet the following requirements:</text>
