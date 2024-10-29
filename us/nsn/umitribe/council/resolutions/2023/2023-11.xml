@@ -288,7 +288,7 @@
       <section>
         <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§600"/>
         <num codify:value="600">6-1</num>
-        <heading>The Community Services Department of the Upper Mattaponi Tribe Is Hereby Created. the Community Services Department Will Be Responsible for Administering and Applying Laws and Programs of the Tribe Designed to Protect Against Abuse of Elders or Children, Assist with the Care of Children and Elders, Nutrition, and Food Distribution, Along with Any Other Responsibilities Under Upper Mattaponi Law</heading>
+        <text>The Community Services Department of the Upper Mattaponi Tribe is hereby created.  The Community Services Department will be responsible for administering and applying laws and programs of the Tribe designed to protect against abuse of elders or children, assist with the care of children and elders, nutrition, and food distribution, along with any other responsibilities under Upper Mattaponi Law.</text>
       </section>
       <section>
         <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§601"/>
