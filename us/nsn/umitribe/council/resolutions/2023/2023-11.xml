@@ -51,8 +51,9 @@
     <text>The purpose of this Act is to create the Departments of the Executive Branch included in the following pages.</text>
   </section>
   <attachment id="law">
+    <codified:at path="4"/>
     <container>
-      <codified:at path="4|1"/>
+      <codified:at path="1"/>
       <prefix>CHAPTER</prefix>
       <num>I</num>
       <heading>GENERAL PROVISIONS</heading>
@@ -60,41 +61,41 @@
         <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§100"/>
         <num codify:value="100">1-1</num>
         <heading>Title</heading>
-        <text>This Code shall be known as the "Departmental Organization Act."</text>
+        <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">This Code</code-cite> shall be known as the "Departmental Organization Act."</text>
       </section>
       <section>
         <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§101"/>
         <num codify:value="101">1-2</num>
         <heading>Authority</heading>
-        <text>This Code is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe (also referred to herein as "Tribe") and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all  Legislative power of the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe, and expressly empowers the Council to "to create departments, boards, and commissions located in the Executive branch of government by law" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII, §4(d)</cite>); and with "authority to confirm a nominee presented to the Council by the Chief, subject to final installation of the nominee into office by the Chief" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">Article VII, § 4(i)</cite>).</text>
+        <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">This Code</code-cite> is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe (also referred to herein as "Tribe") and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all  Legislative power of the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe, and expressly empowers the Council to "to create departments, boards, and commissions located in the Executive branch of government by law" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII, §4(d)</cite>); and with "authority to confirm a nominee presented to the Council by the Chief, subject to final installation of the nominee into office by the Chief" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">Article VII, § 4(i)</cite>).</text>
       </section>
       <section>
         <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§102"/>
         <num codify:value="102">1-3</num>
         <heading>Purpose</heading>
-        <text>This Code is enacted to establish various departments in the Executive Branch of the Upper Mattaponi Tribe, in order to appropriately administer Tribal programs and laws.</text>
+        <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">This Code</code-cite> is enacted to establish various departments in the Executive Branch of the Upper Mattaponi Tribe, in order to appropriately administer Tribal programs and laws.</text>
       </section>
       <section>
         <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§103"/>
         <num codify:value="103">1-4</num>
         <heading>Effective Date</heading>
-        <text>The provisions of this code shall be effective upon the date signed by the Chief of the Upper Mattaponi Tribe, or upon the date of a veto override by the Council.</text>
+        <text>The provisions of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this code</code-cite> shall be effective upon the date signed by the Chief of the Upper Mattaponi Tribe, or upon the date of a veto override by the Council.</text>
       </section>
       <section>
         <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§104"/>
         <num codify:value="104">1-5</num>
         <heading>Interpretation</heading>
-        <text>The provisions of this Code shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of this Code, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court shall construe it consistently with applicable textual tribal law. In the absence of applicable tribal customary law or textual tribal law, the Court shall construe it consistently with applicable law of other jurisdictions.</text>
+        <text>The provisions of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Code</code-cite> shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Code</code-cite>, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court shall construe it consistently with applicable textual tribal law. In the absence of applicable tribal customary law or textual tribal law, the Court shall construe it consistently with applicable law of other jurisdictions.</text>
       </section>
       <section>
         <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§105"/>
         <num codify:value="105">1-7</num>
         <heading>Severability and Non-Liability</heading>
-        <text>If any section, provision, or portion of this Code is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Code shall not be affected thereby.</text>
+        <text>If any section, provision, or portion of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Code</code-cite> is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">this Code</code-cite> shall not be affected thereby.</text>
       </section>
     </container>
     <container>
-      <codified:at path="4|2"/>
+      <codified:at path="2"/>
       <prefix>CHAPTER</prefix>
       <num>II</num>
       <heading>GENERAL DEPARTMENTAL PROVISIONS</heading>
@@ -113,7 +114,7 @@
       <section>
         <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§203"/>
         <num codify:value="203">2-4</num>
-        <heading>Annual Report. Secretaries Established by This Code Shall Be Responsible for Providing an Annual Report of the Department's Activities to the Council and the Chief by the First Day of January of Each Year Covering the Activities of the Prior Year. the Report Should Explain the Finances of the Department, Identify Any Current or Future Liabilities, and Any Other Material Items Required by Upper Mattaponi Law</heading>
+        <heading>Annual Report. Secretaries Established by <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-11">This Code</code-cite> Shall Be Responsible for Providing an Annual Report of the Department's Activities to the Council and the Chief by the First Day of January of Each Year Covering the Activities of the Prior Year. the Report Should Explain the Finances of the Department, Identify Any Current or Future Liabilities, and Any Other Material Items Required by Upper Mattaponi Law</heading>
       </section>
       <section>
         <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§204"/>
@@ -140,7 +141,7 @@
       </section>
     </container>
     <container>
-      <codified:at path="4|3"/>
+      <codified:at path="3"/>
       <prefix>CHAPTER</prefix>
       <num>III</num>
       <heading>ENVIRONMENTAL DEPARTMENT</heading>
@@ -182,7 +183,7 @@
       </section>
     </container>
     <container>
-      <codified:at path="4|4"/>
+      <codified:at path="4"/>
       <prefix>CHAPTER</prefix>
       <num>IV</num>
       <heading>CULTURAL PROTECTION DEPARTMENT</heading>
@@ -224,7 +225,7 @@
       </section>
     </container>
     <container>
-      <codified:at path="4|5"/>
+      <codified:at path="5"/>
       <prefix>CHAPTER</prefix>
       <num>V</num>
       <heading>HOUSING DEPARTMENT</heading>
@@ -266,7 +267,7 @@
       </section>
     </container>
     <container>
-      <codified:at path="4|6"/>
+      <codified:at path="6"/>
       <prefix>CHAPTER</prefix>
       <num>VI</num>
       <heading>COMMUNITY SERVICES DEPARTMENT</heading>
@@ -308,7 +309,7 @@
       </section>
     </container>
     <container>
-      <codified:at path="4|7"/>
+      <codified:at path="7"/>
       <prefix>CHAPTER</prefix>
       <num>VII</num>
       <heading>ENROLLMENT DEPARTMENT</heading>
@@ -350,7 +351,7 @@
       </section>
     </container>
     <container>
-      <codified:at path="4|8"/>
+      <codified:at path="8"/>
       <prefix>CHAPTER</prefix>
       <num>VIII</num>
       <heading>EDUCATION DEPARTMENT</heading>
@@ -392,7 +393,7 @@
       </section>
     </container>
     <container>
-      <codified:at path="4|9"/>
+      <codified:at path="9"/>
       <prefix>CHAPTER</prefix>
       <num>IX</num>
       <heading>FACILITIES &amp; INFRASTRUCTURE DEPARTMENT</heading>
@@ -434,7 +435,7 @@
       </section>
     </container>
     <container>
-      <codified:at path="4|10"/>
+      <codified:at path="10"/>
       <prefix>CHAPTER</prefix>
       <num>X</num>
       <heading>HUMAN RESOURCES DEPARTMENT</heading>
