@@ -19,7 +19,7 @@
       </repositories>
       <platform version="2.14.9" reproducible="false"/>
       <build-date>2024-10-29</build-date>
-      <codified-date>2024-10-01</codified-date>
+      <codified-date>2024-12-29</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/umitribe/council/constitution.xml"/>
