@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2024-16">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Resolution No. 2024-16">
   <num>2024-16</num>
   <heading>Adopting the Upper Mattaponi Tribal Code of Law</heading>
   <meta>
@@ -8,7 +8,7 @@
       <adopted>2024-10-26</adopted>
     </history>
     <citations>
-      <citation type="res" url="./adopted/2024-16.pdf">Upper Mattaponi Tribe Res. No. 2024-16</citation>
+      <citation type="res" url="./adopted/2024-16.pdf">Res. No. 2024-16</citation>
     </citations>
   </meta>
   <text class="center">A Resolution to approve the codification and online publication of the Upper Mattaponi Tribal Code of Law, managed by Open Law Library (OLL). OLL will ensure the laws are preserved, authenticated, and publicly accessible. Minor corrections for accuracy are authorized, and the digital version will serve as the official legal record of the Tribe.</text>
