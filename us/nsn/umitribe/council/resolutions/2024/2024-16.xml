@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2024-16">
+  <num>2024-16</num>
+  <heading>Adopting the Upper Mattaponi Tribal Code of Law</heading>
+  <meta>
+    <effective>2024-10-30</effective>
+    <history>
+      <adopted>2024-10-26</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2024-16.pdf">Upper Mattaponi Tribe Res. No. 2024-16</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to approve the codification and online publication of the Upper Mattaponi Tribal Code of Law, managed by Open Law Library (OLL). OLL will ensure the laws are preserved, authenticated, and publicly accessible. Minor corrections for accuracy are authorized, and the digital version will serve as the official legal record of the Tribe.</text>
+  <preamble>At a duly called Regular Meeting of the Upper Mattaponi Tribe Council held this 26 day of October, 2024, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is vested with the legislative power of the Upper Mattaponi Tribe ("Tribe") and has the authority to enact laws pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite> (<cite doc="Constitution of the Upper Mattaponi Tribe">"Constitution"</cite>); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>for the convenience of community and governmental operations, among other things, the Tribe desires to publish its resolutions and other laws of general applicability on the Internet; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Open Law Library ("OLL") is a 501(c)(3) non-profit with the mission to help governments make all their official laws freely and openly accessible to the public in human and computer readable formats, and OLL develops and maintains software systems for the performance of this mission; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe has retained OLL, under a federal grant, to codify the Tribe's resolutions and publish them as the Upper Mattaponi Tribal Code of Law ("Code") in the new digital tribal law library that is accessible on the Tribe's Website; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>OLL' s software is capable of ensuring that the published code is:</text>
+      <para>
+        <num>(a)</num>
+        <text>Preservable: All published laws will be maintained in a manner that meets or exceeds all requirements for level 2 preservation as specified by the National Digital Stewardship Alliance;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Authenticatable: All published laws will be authenticable as the official laws of the Tribe. Authentication will use Open Law Library certificates; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Accessible: All published laws will be available to the public through OLL or the Tribe indefinitely.</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as part of this codification, the Tribal Council authorizes administrative corrections to replace inaccurate citations and references within the individual resolutions, update renumbering within and between resolutions, correct typos, and make other similar minor changes that do not change the substantive content of the resolutions that are part of the Tribal code.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Tribal Council hereby approves OLL's publication of the Upper Mattaponi Tribal Code of Law in the Tribe's digital law library and approves OLL's maintaining and regularly updating the Code as necessary.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Upper Mattaponi Tribal Code of Law, as published in the Tribe's digital law library, will be the official version of the Tribe's laws.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 26 day of October, 2024, at a Regular Meeting with a vote of  <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the Constitution of the Tribe.</text>
+  </procedural-data>
+</document>
