@@ -1,81 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Resolution No. 2023-06" codify:doc="Upper Mattaponi Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2023-06">
   <num>2023-06</num>
-  <heading>Self-Determination 638-Contracts Authorization Act of 2023</heading>
+  <heading>Employment Contracts Authorization Act of 2023</heading>
   <meta>
-    <effective>2023-09-21</effective>
+    <stub/>
+    <effective>2023-09-25</effective>
     <history>
-      <adopted>2023-09-20</adopted>
+      <adopted>2023-09-23</adopted>
     </history>
     <citations>
-      <citation type="res" url="./adopted/2023-06.pdf">Res. No. 2023-06</citation>
+      <citation type="bb" url="./adopted/2023-06.pdf">Res. No. 2023-06</citation>
     </citations>
   </meta>
-  <preamble>At a duly called Regular Meeting of the Council held this <u>20</u><sup><u>th</u></sup> day of <u>September</u>, 2023, the following Resolution and Law were adopted.</preamble>
-  <recitals>
-    <recital>
-      <conjunction>WHEREAS;</conjunction>
-      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>"); and,</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS;</conjunction>
-      <text>the Upper Mattaponi Tribe ("Tribe") wishes to enter into Self-Determination "638" contracts ("638-Contracts) with the Bureau of Indian Affairs ("BIA") and other federal agencies to provide critical funding to operate important programs that deliver valuable services to the members of the Tribe; and,</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS;</conjunction>
-      <text>the Council supports and encourages the Chief and Executive Branch Departments to apply for and obtain all available 638-Contracts and grant funds for the benefit of the Tribe;</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS;</conjunction>
-      <text>the Council finds it in the best interests of the Tribe to provide the Chief and Executive Branch with an efficient and streamlined process to authorize the Tribe to apply for and receive all available 638-Contract and grant funds including the execution of necessary contracts and documents for such purposes.</text>
-    </recital>
-    <recital>
-      <conjunction>NOW THEREFORE IT BE IT RESOLVED,</conjunction>
-      <text>that the Council hereby enacts the attached law entitled, "SELF-DETERMINATION 638-CONTRACTS AUTHORIZATION ACT OF 2017", authorizing the Chairman to negotiate and execute 638-Contracts with the federal government and the BIA on behalf of the Tribe.</text>
-    </recital>
-  </recitals>
-  <procedural-data>
-    <text class="center">
-      <strong>CERTIFICATION</strong>
-    </text>
-    <text>The foregoing resolution was duly voted upon by the Council on <u>September 20</u>, 2023, at a Regular Meeting with a vote of <u>5</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
-  </procedural-data>
-  <attachment id="law">
-    <codified:at path="1|2"/>
-    <section><codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§200"/>&gt;
-      <num codify:value="200">1.1</num><heading>Short Title</heading><text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-06">This enactment</code-cite> shall be known as, the "SELF-DETERMINATION 638-CONTRACTS AUTHORIZATION ACT OF 2023" ("Act").</text></section>
-    <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§201"/>
-      <num codify:value="201">1.2</num>
-      <heading>Findings</heading>
-      <para>
-        <num>(a)</num>
-        <text>The Council is vested with the authority to pass laws and resolutions pursuant to the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>"); and,</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The Upper Mattaponi Tribe ("Tribe") wishes to enter into Self-Determination "638" contracts ("638-Contracts) with the Bureau of Indian Affairs ("BIA") and other federal agencies to provide critical funding to operate important programs that deliver valuable services to the members of the Tribe; and,</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>The Council supports and encourages the Chief and Executive Branch Departments to apply for and obtain all available 638-Contracts and grant funds for the benefit of the Tribe;</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>The Council finds it in the best interests of the Tribe to provide the Chief and Executive Branch with an efficient and streamlined process to authorize the Tribe to apply for and receive all available 638-Contract and grant funds including the execution of necessary contracts and documents for such purposes.</text>
-      </para>
-    </section>
-    <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§202"/>
-      <num codify:value="202">1.3</num>
-      <heading>Purpose</heading>
-      <text>The purpose of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-06">this Act</code-cite> is to authorize the Chief of the Tribe to negotiate and execute Self-Determination 638-Contracts with the federal government and BIA to receive federal funds to operate critical programs for the delivery of services to members of the Tribe.</text>
-    </section>
-    <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§203"/>
-      <num codify:value="203">1.4</num>
-      <heading>Authorization to Enter Into 638-Contracts</heading>
-      <text>The Council hereby authorizes and directs the Chief to negotiate and execute 638- Contracts with the federal government and the BIA on behalf of the Tribe. The Chairman shall be authorized to execute all necessary documents necessary to effectuate the intent of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-06">this Act</code-cite>.</text>
-    </section>
-  </attachment>
 </document>
