@@ -1,15 +1,80 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2023-10">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Resolution No. 2023-10">
   <num>2023-10</num>
-  <heading>Self-Determination 638-Contracts Authorization Act of 2023</heading>
+  <heading>Authorization of Health Department Selection of General Contractor – Aylett Dental Project</heading>
   <meta>
-    <stub/>
-    <effective>2023-09-21</effective>
+    <effective>2024-01-02</effective>
     <history>
-      <adopted>2023-09-20</adopted>
+      <adopted>2023-12-23</adopted>
     </history>
     <citations>
-      <citation type="bb" url="./adopted/2023-10.pdf">Res. No. 2023-10</citation>
+      <citation type="res" url="./adopted/2023-10.pdf">Res. No. 2023-10</citation>
     </citations>
   </meta>
+  <preamble>At a duly called Regular Meeting of the Council held this 23<sup>rd</sup> day of December, 2023, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Upper Mattaponi Tribe ("Tribe")   operates a Health Department that provides a wide range of health services for the citizens of the Tribe; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Health Department issued an RFP to renovate building located at 8014 Richmond Tappahannock Hwy, Aylett VA for the Tribe's dental clinic; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the existing procurement policies of the Tribe require the Health Department to present its selection of a general contractor to the Council for final approval.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "AUTHORIZATION OF HEALTH DEPARTMENT SELECTION OF GENERAL CONTRACTOR".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on December 23<sup>rd</sup>, 2023, at a Regular Meeting with a vote of <strong>3</strong> in favor and <strong>0</strong> opposed, <strong>1</strong> abstaining, and <strong>3</strong> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+  </procedural-data>
+  <attachment id="law">
+    <section>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as, the "AUTHORIZATION OF HEALTH DEPARTMENT SELECTION OF GENERAL CONTRACTOR – AYLETT DENTAL PROJECT".</text>
+    </section>
+    <section>
+      <num>1.2</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council is vested with the authority to pass laws and resolutions pursuant to the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>"); and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe operates a Health Department that provides a wide range of health services for the citizens of the Tribe; and,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>the Health Department issued a Request for Proposals ("RFP") for a general contractor to perform the renovation of an existing building located at 8014 Richmond Tappahannock Highway, Aylett VA for the Tribe's dental clinic; and,</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>the existing procurement policies of the Tribe require the Health Department to present its selection of a billing services contractor to the Council for final approval.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.3</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize the Chief and the Health Department to select a billing services contractor to assist with the billing services that are necessary for the operation and administration of the Health Department.</text>
+    </section>
+    <section>
+      <num>1.4</num>
+      <heading>Authorization to Enter Into 638-Contracts</heading>
+      <text>The Council hereby authorizes the Chief and the Health Department select a general Contractor based on the RFP responses received by the Tribe, and to negotiate and execute a contract with the general contractor selected by the Chief and Health Department.</text>
+    </section>
+  </attachment>
 </document>

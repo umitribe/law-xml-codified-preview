@@ -1,15 +1,113 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Bill No. 2024-02">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Bill No. 2024-02" codify:doc="Upper Mattaponi Tribal Code of Law">
   <num>2024-02</num>
   <heading>Sharon Indian School Foundation, Inc. Reorganization Act of 2024</heading>
   <meta>
-    <stub/>
     <effective>2024-02-28</effective>
     <history>
       <adopted>2024-02-24</adopted>
     </history>
     <citations>
-      <citation type="bb" url="./adopted/2024-02.pdf">Bill No. 2024-02</citation>
+      <citation type="res" url="./adopted/2024-02.pdf">Bill No. 2024-02</citation>
     </citations>
   </meta>
+  <preamble>At a duly called Regular Meeting of the Council held this <u>24</u><sup><u>th</u></sup> day of <u>February</u>, 2024, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>since 1976, the Tribe has operated a non-profit corporation for the benefit of the citizens of the Tribe, and which is currently called the Sharon Indian School Foundation, Inc. ("Foundation"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the Tribe has identified the need to update and reform the Foundation to address operational issues including the composition of the Board of Directors.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "Sharon Indian School Foundation, Inc. Reorganization Act of 2024".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing resolution was duly voted upon by the Council on <u>February 24</u><sup><u>th</u></sup>, 2024, at a Regular Meeting with a vote of <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1 </u>absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="42|1"/>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§100"/>
+      <num codify:value="100">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as, the "The Sharon Indian School Foundation, Inc. Reorganization Act of 2024" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§101"/>
+      <num codify:value="101">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to authorize and direct the reorganization of the Sharon Indian School Foundation, Inc. ("SISF") including the selection of a Board of Directors, an update of the Articles of Incorporation, and the development of corporate Bylaws, in accordance with the corporate articles for the benefit of the citizens of the Tribe.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§102"/>
+      <num codify:value="102">1.3</num>
+      <heading>Findings</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>On June 14, 1976, upon the approval of the Articles of Incorporation ("Articles"), the <em>Upper Mattaponi Indian Tribal Association, Inc. </em>was incorporated under Virginia state law as a non-stock (non-profit) corporation (the "Tribal Association") for the benefit of the Upper Mattaponi People.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In April 2016, the People created the "<em>Constitution and By-Laws of the Upper Mattaponi Indian Tribe</em>", which acted as a corporation known as the <em>Upper Mattaponi Indian Tribe, Inc.</em>, a non-profit corporation organized under the laws of the Commonwealth of Virginia, in conjunction with the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>On January 9, 2018, the United States officially recognized the Upper Mattaponi Tribe when it enacted the Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>On October 8, 2020, the <em>Upper Mattaponi Indian Tribe, Inc.</em> was renamed as the "<em>Sharon Indian School Foundation, Inc.</em>" ("SISF" or "Foundation"), which became the successor corporation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>On July 22, 2023, the voters approved the new <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">New Constitution</cite>"). The <cite doc="Constitution of the Upper Mattaponi Tribe">New Constitution</cite> expressly replaced the 2016 Constitution and By-Laws.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Board of Directors of the Foundation consists of five Members, whose terms of office as Board Members coincided with the terms of office of officials of the Tribe, which were altered and reset as a result of the approval of the <cite doc="Constitution of the Upper Mattaponi Tribe">New Constitution</cite>.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Council has identified the need to clarify the qualifications, requirements, terms of office, and process to select and install Board Members of the Foundation, and to direct the development of a formal process to address Board Member vacancies in the future.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Articles are silent on the issue of the expiration of Board Members' terms of office or the process to fill any Board Member vacancies.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The 2023 Annual Report of the Foundation ("Annual Report") filed with the State Corporation Commission listed five Directors and officers.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§103"/>
+      <num codify:value="103">1.4</num>
+      <heading>Board of Directors of the Foundation</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council hereby authorizes and directs the five Directors and officers listed in the 2023 Annual Report and who are still serving on the Board of Directors to officially modify the Articles of the Foundation to set new requirements for including: (1) at least three Board Members with all Members serving four-year, staggered terms of office; (2) Board Members selected upon appointment by the Chief and confirmation by the Council; and, (3) Board Member vacancies filled upon nomination by the Chief and confirmation by the Council.</text>
+        <para>
+          <num>(i)</num>
+          <text>The initial terms of office for Board Members shall begin upon the approval of the modified Articles of the Foundation and the installation of a newly seated Board of Directors.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The Articles of the Foundation shall include a requirement that a majority of the Members of the Board of Directors must be citizens of the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Council hereby authorizes and directs the five Directors and officers listed in the 2023 Annual Report and who are still serving on the Board of Directors to officially adopt Bylaws for the Foundation.</text>
+      </para>
+    </section>
+  </attachment>
 </document>
