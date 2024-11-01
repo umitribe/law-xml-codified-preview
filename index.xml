@@ -18,7 +18,7 @@
         <repository name="umitribe/law-xml" commit="2df6f671626cef62f8b9ac987d1c80578f4a99c7"/>
       </repositories>
       <platform version="2.14.9" reproducible="false"/>
-      <build-date>2024-10-31</build-date>
+      <build-date>2024-11-01</build-date>
       <codified-date>2024-12-29</codified-date>
     </build>
   </meta>
