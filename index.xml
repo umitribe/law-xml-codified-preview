@@ -11,13 +11,14 @@
       <html-bulk>https://github.com/umitribe/law-html</html-bulk>
       <static-assets>https://github.com/umitribe/law-static-assets</static-assets>
       <html>https://law.umitribe.org</html>
+      <law-git>https://github.com/umitribe/law.git</law-git>
     </canonical-urls>
     <history-start>2024-10-30</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="umitribe/law-xml" commit="0ee61ae08692a4e7f09c2ee3310c2e9a92f3cef2"/>
+        <repository name="umitribe/law-xml" commit="a6a5390b33ebbc552a2adb524732ec674ebcded1"/>
       </repositories>
-      <platform version="2.14.5" reproducible="false"/>
+      <platform version="2.14.11" reproducible="false"/>
       <build-date>2024-12-02</build-date>
       <codified-date>2024-12-29</codified-date>
     </build>
