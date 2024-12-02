@@ -1,21 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Resolution No. 2024-14">
-  <num>2024-14</num>
-  <heading>Land Purchase Approval for 714 Mill Road, King William, VA 23086, Faifield Reval - 16 L U, Tax Map #22-1-G1</heading>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2024-19">
+  <num>2024-19</num>
+  <heading>Land Purchase Approval for 4917 Richmond Tappahannock Hwy, Aylett, Va 23086, Parcel GPIN: 28-3-4A</heading>
   <meta>
-    <stub/>
     <effective>2024-11-22</effective>
     <history>
       <adopted>2024-11-21</adopted>
     </history>
     <citations>
-      <citation type="res" url="./adopted/2024-14.pdf">Res. No. 2024-14</citation>
+      <citation type="res" url="./adopted/2024-19.pdf">Res. No. 2024-19</citation>
     </citations>
   </meta>
-  <text class="center">
-    <em>(*Revised November 21, 2024)</em>
-  </text>
-  <text class="center">A Resolution to approve and authorize the purchase of 70 acres of land from the Tyler Family Trust, including a limited waiver of sovereign immunity for the Old Republic National Title Insurance Company, necessary to finalize the contract and ensure compliance with other applicable laws.</text>
+  <text class="center">A Resolution to approve and authorize the purchase of land from Central Garage LLC, including a limited waiver of sovereign immunity for United Bank, necessary to finalize the contract and ensure compliance with other applicable laws.</text>
   <text>At a duly called Regular Meeting of the Upper Mattaponi Tribe Council held this 21 day of November, 2024, the following Resolution and Law were adopted.</text>
   <recitals>
     <recital>
@@ -28,7 +24,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>through its leadership, the Tribe wishes to conclude a Purchase and Sale Agreement (the "Contract") with the Tyler Family Trust for the purchase of 70 acres at 714 Mill Road, King William, VA 23086, Fairfield Reval – 16 L U, Tax Map #22-1-G1, (the "Land"); and</text>
+      <text>through its leadership, the Tribe wishes to conclude a Purchase and Sale Agreement (the "Contract") with Central Garage, LLC for the purchase of 4917 Richmond Tappahannock Hwy, Aylett, VA 23086, Parcel GPIN: 28-3-4A, (the "Land"); and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -40,7 +36,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Upper Mattaponi Tribe Council ("the Council") wishes to approve and ratify the purchase of the Land from Darrell Kellum, Inc. and Steve Adams, Inc.; to approve, authorize and/or ratify the Tribe entering into the Contract; together with such other actions as may be necessary and appropriate to effectuate its purposes, and to authorize W. Frank Adams, in his capacity as Chief of the Upper Mattaponi Tribe, to enter into the same on its behalf, to take and perform such other actions as may be necessary and convenient to consummate the same; and</text>
+      <text>the Upper Mattaponi Tribe Council ("the Council") wishes to approve and ratify the purchase of the Land from Central Garage, LLC; to approve, authorize and/or ratify the Tribe entering into the Contract; together with such other actions as may be necessary and appropriate to effectuate its purposes, and to authorize W. Frank Adams, in his capacity as Chief of the Upper Mattaponi Tribe, to enter into the same on its behalf, to take and perform such other actions as may be necessary and convenient to consummate the same; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -48,7 +44,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Constitution provides, "Only the Council and Chief may authorize a waiver of Sovereign Immunity by law enacted in accordance with the Legislative Process.  Any authorization by the Council to waive Sovereign Immunity shall be specific, for a limited scope and duration, and in writing."  See, <cite doc="Constitution of the Upper Mattaponi Tribe" path="XIII|1">Constitution, Article XIII, Section 1</cite>.</text>
+      <text>the Constitution provides, "Only the Council and Chief may authorize a waiver of Sovereign Immunity by law enacted in accordance with the Legislative Process.  Any authorization by the Council to waive Sovereign Immunity shall be specific, for a limited scope and duration, and in writing."  See, <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, <cite doc="Constitution of the Upper Mattaponi Tribe" path="XIII|1">Article XIII, Section 1</cite>.</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
@@ -59,7 +55,7 @@
       <text>that the Council, pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> at <cite doc="Constitution of the Upper Mattaponi Tribe" path="XIII|1">Article XIII, Section 1</cite>, authorizes the Chief to sign the attached Tribal Waiver and Consent (the "Waiver"), subject to the following limitations:</text>
       <para>
         <num>1.</num>
-        <text>The Waiver is granted solely to Old Republic National Title Insurance Company, and shall not inure to the benefit of any other party;</text>
+        <text>The Waiver is granted solely to United Bank, and shall not inure to the benefit of any other party;</text>
       </para>
       <para>
         <num>2.</num>
@@ -81,8 +77,8 @@
   </recitals>
   <procedural-data>
     <text class="center">
-      <strong>REVISION CERTIFICATION</strong>
+      <strong>CERTIFICATION</strong>
     </text>
-    <text>The foregoing Resolution was duly voted upon by the Council on the 21 day of November, 2024, at a Regular Meeting with a vote of <u>5</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>2</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 21 day of November, 2024, at a Regular Meeting with a vote of <u>5</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>2</u> absent, pursuant to the authority vested in the Council by the Constitution of the Tribe.</text>
   </procedural-data>
 </document>
