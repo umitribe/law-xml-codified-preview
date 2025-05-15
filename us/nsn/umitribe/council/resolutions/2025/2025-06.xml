@@ -58,12 +58,7 @@
   </codify:insert>
   <attachment id="law">
     <codified:at path="44|2"/>
-    <text class="center">
-      <strong>TITLE 44</strong>
-    </text>
-    <text class="center">
-      <strong>TRIBAL FINANCE</strong>
-    </text>
+    <heading>TITLE 44 - TRIBAL FINANCE</heading>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§200"/>
       <num>200</num>
