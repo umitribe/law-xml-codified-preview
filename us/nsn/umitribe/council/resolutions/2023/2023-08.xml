@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Resolution No. 2023-08" codify:doc="Upper Mattaponi Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2023-08" codify:doc="Upper Mattaponi Tribal Code of Law">
   <num>2023-08</num>
   <heading>Fiscal Procedures Act of 2023</heading>
   <meta>
@@ -54,10 +54,10 @@
   </procedural-data>
   <attachment id="law">
     <codified:at path="44|1"/>
-    <section><codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§100"/>&gt;
-      <num codify:value="100">1.1</num><heading>Short Title</heading><text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">This enactment</code-cite> shall be known as the Fiscal Procedures Act of 2023.</text></section>
+    <section><codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§100"/>&gt;
+      <num codify:value="100">1.1</num><heading>Short Title</heading><text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">This enactment</code-cite> shall be known as the Fiscal Procedures Act of 2023.</text></section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§101"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§101"/>
       <num codify:value="101">1.2</num>
       <heading>Definitions</heading>
       <para>
@@ -90,7 +90,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>"Finance and Accounting Policies and Procedures Manual" means the Finance and Accounting Policies and Procedures Manual which shall include <cite doc="Constitution of the Upper Mattaponi Tribe" path="VIII|5">Article VIII, Section 5</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, all procedures required by <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> as may be amended from time to time, and all applicable administrative procedures adopted in compliance with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> and <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite>.</text>
+        <text>"Finance and Accounting Policies and Procedures Manual" means the Finance and Accounting Policies and Procedures Manual which shall include <cite doc="Constitution of the Upper Mattaponi Tribe" path="VIII|5">Article VIII, Section 5</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, all procedures required by <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">this Act</code-cite> as may be amended from time to time, and all applicable administrative procedures adopted in compliance with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> and <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">this Act</code-cite>.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -102,13 +102,13 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§102"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§102"/>
       <num codify:value="102">1.3</num>
       <heading>Purpose</heading>
-      <text>The purpose of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> is to establish and authorize administrative finance and accounting policies and procedures for revenue and accounting practices in order to foster and achieve fiscal responsibility, transparency, and accountability as required by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>.</text>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">this Act</code-cite> is to establish and authorize administrative finance and accounting policies and procedures for revenue and accounting practices in order to foster and achieve fiscal responsibility, transparency, and accountability as required by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§103"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§103"/>
       <num codify:value="103">1.4</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -138,7 +138,7 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§104"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§104"/>
       <num codify:value="104">1.5</num>
       <heading>Budget Process Requirements of the Executive Branch</heading>
       <para>
@@ -203,31 +203,31 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§105"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§105"/>
       <num codify:value="105">1.6</num>
       <heading>Budget Requirements of the Judicial Branch</heading>
       <text>In accordance with the status of the courts established in the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> as a coordinate branch of government, the Council hereby recognizes the inherent power of the Courts and Judicial branch officials to exercise the powers vested in them by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, including managerial, administrative, and personnel authority necessary to effectively fulfill their judicial duties and responsibilities. In administering appropriated funds for the Judicial branch, the Chief Justice shall have the authority to reassign and/or transfer funds appropriated for the Judicial branch for expenditure to any other function or purpose necessary for the operation of the Courts in accordance with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> and the laws of the Tribe.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§106"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§106"/>
       <num codify:value="106">1.7</num>
       <heading>Budget Requirements of the Legislative Branch</heading>
       <text>In accordance with the status of the Council established in the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> as a coordinate branch of government, the Council hereby recognizes the inherent power of the Council and Legislative branch officials to exercise the powers vested in them by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>, including managerial, administrative, and personnel authority necessary to effectively fulfill their legislative duties and responsibilities. In administering appropriated funds for the Legislative branch, the Speaker shall have the authority to reassign and/or transfer funds appropriated for the Legislative branch for expenditure to any other function or purpose necessary for the operation of the Council, subject to the prior approval of the Council.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§107"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§107"/>
       <num codify:value="107">1.8</num>
       <heading>Expenditure Requests of the Judicial Branch and Legislative Branch</heading>
       <text>The role of the Chief and Finance Department in administering and processing expenditure requests from the Judicial and Legislative branches of government shall be to determine if the Courts or Council, as the case may be, have funds available from an Appropriation in an approved budget, and if such funds are available, then the Chief and Finance Department shall ensure that such requests are completed in a timely manner, which shall be deemed to fulfill the Chief's obligations under the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§108"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§108"/>
       <num codify:value="108">1.9</num>
       <heading>Budget Modification</heading>
       <text>The Chief may request a Budget Modification at any time. In order to become effective, a Budget Modification shall follow the same process for approval and enactment as the Annual Budget pursuant to the Legislative Process.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§109"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§109"/>
       <num codify:value="109">1.10</num>
       <heading>Fund Transfers</heading>
       <para>
@@ -248,7 +248,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Transfer of contingency funds as described in <code-cite path="|attachments|law|1.11" doc="Upper Mattaponi Tribe Resolution No. 2023-08">Section 1.11</code-cite> below are not subject to the limits described in (a)(1) and (a)(2) above.</text>
+        <text>Transfer of contingency funds as described in <code-cite path="|attachments|law|1.11" doc="Upper Mattaponi Tribe Res. No. 2023-08">Section 1.11</code-cite> below are not subject to the limits described in (a)(1) and (a)(2) above.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -256,7 +256,7 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§110"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§110"/>
       <num codify:value="110">1.11</num>
       <heading>Contingency Funds</heading>
       <para>
@@ -289,7 +289,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Contingency Fund transfers to other Departments or Programs are not limited to the maximum fund transfer limit described in <code-cite path="|attachments|law|1.7" doc="Upper Mattaponi Tribe Resolution No. 2023-08">Section 1.7</code-cite> above.</text>
+        <text>Contingency Fund transfers to other Departments or Programs are not limited to the maximum fund transfer limit described in <code-cite path="|attachments|law|1.7" doc="Upper Mattaponi Tribe Res. No. 2023-08">Section 1.7</code-cite> above.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -297,16 +297,16 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§111"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§111"/>
       <num codify:value="111">1.12</num>
       <heading>Finance and Accounting Policies and Procedures</heading>
       <para>
         <num>(a)</num>
-        <text>The Executive Branch shall develop comprehensive finance and accounting policies and procedures that are consistent with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> and <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> including the requirement for an annual financial audit of the Tribe.</text>
+        <text>The Executive Branch shall develop comprehensive finance and accounting policies and procedures that are consistent with the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> and <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">this Act</code-cite> including the requirement for an annual financial audit of the Tribe.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The Chief is hereby directed to develop finance and accounting policies and procedures supplemental to <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> within one hundred-eighty (180) days of the Effective Date of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite>. The accounting policies and procedures shall include an organizational system for auditing revenues and expenditures, and to account for all revenues and expenditures, including receipts, purchase orders, requisition forms, invoices, packing slips, payroll actions, personnel action forms, and checks drawn upon the Treasury of the Tribe.</text>
+        <text>The Chief is hereby directed to develop finance and accounting policies and procedures supplemental to <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">this Act</code-cite> within one hundred-eighty (180) days of the Effective Date of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">this Act</code-cite>. The accounting policies and procedures shall include an organizational system for auditing revenues and expenditures, and to account for all revenues and expenditures, including receipts, purchase orders, requisition forms, invoices, packing slips, payroll actions, personnel action forms, and checks drawn upon the Treasury of the Tribe.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -314,16 +314,16 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§112"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§112"/>
       <num codify:value="112">1.13</num>
       <heading>Current Accounting Policy and Procedures Manual</heading>
-      <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">This Act</code-cite> shall supersede and repeal any prior Accounting Policy and Procedures Manuals, policies, procedures, or practices but only to the extent that such prior Manuals, policies, procedures, or practices conflict with <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite>.</text>
+      <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">This Act</code-cite> shall supersede and repeal any prior Accounting Policy and Procedures Manuals, policies, procedures, or practices but only to the extent that such prior Manuals, policies, procedures, or practices conflict with <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">this Act</code-cite>.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§113"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§113"/>
       <num codify:value="113">1.14</num>
       <heading>Severability</heading>
-      <text>If the courts of the Tribe find any provision of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> to be invalid or unconstitutional, such provision shall be severed from <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> and the remainder of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-08">this Act</code-cite> shall remain in full force and effect.</text>
+      <text>If the courts of the Tribe find any provision of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">this Act</code-cite> to be invalid or unconstitutional, such provision shall be severed from <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">this Act</code-cite> and the remainder of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">this Act</code-cite> shall remain in full force and effect.</text>
     </section>
   </attachment>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Resolution No. 2023-02" codify:doc="Upper Mattaponi Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2023-02" codify:doc="Upper Mattaponi Tribal Code of Law">
   <num>2023-02</num>
   <heading>Employment Contracts Authorization Act of 2023</heading>
   <meta>
@@ -82,13 +82,13 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§100"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|§100"/>
       <num codify:value="100">1.4</num>
       <heading>Authorization of Employment Contracts to Key Directors</heading>
       <text>The Council hereby authorizes the Chief to enter into employment contacts with well- qualified individuals to serve as the Director of the Department of Finance, the Director of the Department of Records Management, and other Directors and professional personnel of key Departments in the Tribe identified by the Chief. In recognition that each Chief elected to serve will desire to employ key policy making, 'cabinet-level', and administrative appointees, all policy-level personnel, key administrative staff, and political appointees shall not be entitled to an employment contract with the Tribe and shall serve at the pleasure of the Chief.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§101"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|§101"/>
       <num codify:value="101">1.5</num>
       <heading>Limited Waiver of Sovereign Immunity</heading>
       <text>The Chief shall be authorized to include a limited waiver of sovereign immunity in the employment contracts for the Director of the Department of Finance, the Director of the Department of Records Management, and other Directors of key Departments to allow for the enforcement of the contracts; provided, that such waiver shall be limited exclusively to the payment of up to three years annual salary of the effected individual, and that enforcement of the contracts shall be exclusively in the Judicial Branch of government of the Tribe.</text>

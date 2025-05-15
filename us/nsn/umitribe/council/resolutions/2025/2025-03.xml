@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2025-03" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2025-03</num>
+  <heading>VETOED: Updating the Election Law of the Upper Mattaponi Tribe</heading>
+  <meta>
+    <stub/>
+    <history>
+      <adopted>2025-03-22</adopted>
+      <vetoed>2025-03-24</vetoed>
+    </history>
+    <citations>
+      <citation type="res" url="./vetoed/2025-03.pdf">Res. No. 2025-03</citation>
+    </citations>
+  </meta>
+</document>

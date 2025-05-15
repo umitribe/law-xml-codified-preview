@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Resolution No. 2023-03" codify:doc="Upper Mattaponi Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2023-03" codify:doc="Upper Mattaponi Tribal Code of Law">
   <num>2023-03</num>
   <heading>Department of Health Enabling Act of 2023</heading>
   <meta>
@@ -39,19 +39,19 @@
   <attachment id="law">
     <codified:at path="4|11"/>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1100"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1100"/>
       <num codify:value="1100">101</num>
       <heading>Short Title</heading>
-      <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-03">This enactment</code-cite> shall be known as the Department of Health Enabling Act ("Act").</text>
+      <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-03">This enactment</code-cite> shall be known as the Department of Health Enabling Act ("Act").</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1101"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1101"/>
       <num codify:value="1101">102</num>
       <heading>Purpose</heading>
-      <text>The purpose of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Resolution No. 2023-03">the Act</code-cite> is to establish the Department of Health.</text>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-03">the Act</code-cite> is to establish the Department of Health.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1102"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1102"/>
       <num codify:value="1102">103</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -65,7 +65,7 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1103"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1103"/>
       <num codify:value="1103">104</num>
       <heading>Organization of the Department of Health</heading>
       <para>
@@ -114,13 +114,13 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1104"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1104"/>
       <num codify:value="1104">105</num>
       <heading>Department of Health Goals and Objectives</heading>
       <text>The mission of the Department of Health is to assess and implement various health care programs of the Tribe in a well-coordinated and collaborative manner that will enhance educational awareness, disease prevention, and healthy behavioral changes. The primary goal of the Department of Health is to provide comprehensive health care awareness that will target multiple dimensions of health such as physical, mental, emotional, and social needs of citizens of the Tribe of all ages.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§1105"/>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1105"/>
       <num codify:value="1105">106</num>
       <heading>Authority to Operate and Administer the Department of Health</heading>
       <para>

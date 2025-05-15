@@ -12,7 +12,7 @@
     </citations>
   </meta>
   <text class="center">An Act of the Council of the Upper Mattaponi Tribe relating to the Environment and Natural Resources; prohibiting the discharge of pollutants into Tribal Waters; providing short title; citing legislative authority; making findings and declarations; providing definitions; assigning enforcement responsibilities; providing penalties; providing for clean-up and abatement; establishing cause of action and prescribing remedies; providing for emergency enforcement; and declaring an emergency.</text>
-  <preamble>At a duly called Regular Meeting of the Council held this 22 day of June, 2024, the following Resolution and Law were adopted.</preamble>
+  <text>At a duly called Regular Meeting of the Council held this 22 day of June, 2024, the following Resolution and Law were adopted.</text>
   <recitals>
     <recital>
       <conjunction>BE IT ENACTED BY THE COUNCIL OF THE UPPER MATTAPONI TRIBE:</conjunction>
@@ -36,7 +36,7 @@
       <codified:at path="18|1"/>
       <heading>Upper Mattaponi Tribe Tribal Water Pollution Prohibition Act of 2024</heading>
       <section>
-        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§100"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="18|§100"/>
         <num>100</num>
         <heading>Definitions</heading>
         <text>As used in <code-cite path="3|law" doc="Upper Mattaponi Tribe Bill No. 2024-04">this Act</code-cite>, and where referenced elsewhere in law, the following terms have the following definitions:</text>
@@ -78,7 +78,7 @@
         </para>
       </section>
       <section>
-        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§101"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="18|§101"/>
         <num>101</num>
         <heading>Findings, Legislative Purpose, and Authority</heading>
         <text>The Council of the Upper Mattaponi Tribe hereby finds and declares as follows:</text>
@@ -104,49 +104,49 @@
         </para>
       </section>
       <section>
-        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§102"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="18|§102"/>
         <num>102</num>
         <heading>Enforcement</heading>
         <text>The Tribal Environmental and Cultural Protection Office shall be responsible for implementing and enforcing <code-cite path="3|law" doc="Upper Mattaponi Tribe Bill No. 2024-04">this Act</code-cite>.</text>
       </section>
       <section>
-        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§103"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="18|§103"/>
         <num>103</num>
         <heading>Prohibited Discharges</heading>
         <text>No person shall discharge any pollutant into Tribal waters.</text>
       </section>
       <section>
-        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§104"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="18|§104"/>
         <num>104</num>
         <heading>Administrative Penalty</heading>
         <text>Any person discharging any pollutant into Tribal waters may be assessed an administrative fine in an amount not to exceed one thousand dollars ($1,000.00) for each day in which the violation occurs. The administrative fine required by this section shall be assessed in the discretion of the Tribal Environmental and Cultural Protection Office after notice and an opportunity to be heard is provided to a person alleged to have discharged a pollutant into Tribal waters.  The administrative fine may be assessed in addition to any other penalties provided for by law.</text>
       </section>
       <section>
-        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§105"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="18|§105"/>
         <num>105</num>
         <heading>Clean Up and Abatement</heading>
         <text>Any person that discharges any pollutant into the Tribal waters shall immediately, but in any case, not less than twenty-four (24) hours from the time of the discharge, notify the Tribal Environmental and Cultural Protection Office of said discharge and shall fully disclose to the Office any and all information regarding the discharge, including but not limited to the type of pollutant discharged and any other information required by the Office. Any person who discharges any pollutant into Tribal water shall be liable for, in addition to the fines provided for in Section 504, any and all costs associated with or necessary to clean up, abate, or remove any pollutants from the Tribal waters and restore the quality of the Tribal waters to their condition as they existed immediately prior to the discharge, and for any damages resulting from said discharge.</text>
       </section>
       <section>
-        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§106"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="18|§106"/>
         <num>106</num>
         <heading>Court Action and Injunctions</heading>
         <text>Upon the failure of any person to comply with any of the provisions of <code-cite path="3|law" doc="Upper Mattaponi Tribe Bill No. 2024-04">this Act</code-cite>, the Chief or designee may petition a court of a competent jurisdiction for the issuance of an injunction requiring such a person to comply therewith.  In any such suit, the court shall have jurisdiction to grant a prohibitory or mandatory injunction, either preliminary or permanent.</text>
       </section>
       <section>
-        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§107"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="18|§107"/>
         <num>107</num>
         <heading>Emergency Enforcement</heading>
         <text>Notwithstanding any other provisions of <code-cite path="3|law" doc="Upper Mattaponi Tribe Bill No. 2024-04">this Act</code-cite>, the Chief or designee, upon receipt of evidence that a pollution source or combination of sources is presenting an imminent and substantial endangerment to the health of persons or to the welfare of persons where such endangerment is to the livelihood of such persons, shall bring suit on behalf of the Tribe in any court of competent jurisdiction to immediately restrain any person causing or contributing to the alleged pollution to stop the discharge of pollutants causing or contribution to such pollution or to take such other action as may be necessary.</text>
       </section>
       <section>
-        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§108"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="18|§108"/>
         <num>108</num>
         <heading>Rulemaking Authority</heading>
         <text>The Office is hereby authorized and directed to promulgate such rules and regulations as are reasonably necessary for the implementation of <code-cite path="3|law" doc="Upper Mattaponi Tribe Bill No. 2024-04">this Act</code-cite> subject to approval and/or modification by the Council.</text>
       </section>
       <section>
-        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="§109"/>
+        <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="18|§109"/>
         <num>109</num>
         <heading>Forum Selection</heading>
         <text>The Chief or designee shall select a judicial forum for the prosecution of actions relating to <code-cite path="3|law" doc="Upper Mattaponi Tribe Bill No. 2024-04">this Act</code-cite> according to the following priorities:</text>

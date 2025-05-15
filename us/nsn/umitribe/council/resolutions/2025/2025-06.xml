@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2025-06" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2025-06</num>
+  <heading>Tribal Investment Law of the Upper Mattaponi Tribe</heading>
+  <meta>
+    <effective>2025-04-28</effective>
+    <history>
+      <adopted>2025-04-26</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2025-06.pdf">Res. No. 2025-06</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to codify the process for investment of Tribal moneys and providing for a waiver of immunity.</text>
+  <text class="center">At a duly called General Meeting of the Upper Mattaponi Tribe Council held this 26th day of April, 2025, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribal Council ("Council") is vested with the legislative power of the Upper Mattaponi Tribe ("Tribe") and has the authority to enact laws pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the citizens of the Tribe overwhelmingly voted to adopt the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> on July 22, 2023, thereby asserting the Tribe's sovereign authority as a federally-recognized Indian tribe and reorganizing the Tribe's government in an equitable and just manner; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> establishes that the "Council shall have the power to raise revenue and appropriate funds for expenditure:" <em>See</em> <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(b)">Art. VII, Section 4 (b)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>there are funds the Tribe has in its possession; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council and the Chief wish to ensure such funds are appropriately invested; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this Resolution shall be referred to as the "Tribal Investment Law."</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby approves the Tribal Investment Law and Orders that it be codified under <cite doc="Upper Mattaponi Tribal Code of Law" path="44">Title 44, Tribal Finance</cite>.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 26th day of April, 2025, at a General Meeting with a vote of  <u>5</u> in favor and <u>0</u> opposed, <u>1</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+  <codify:insert path="44" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|2">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>2</num>
+      <heading>Tribal Investment Law</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="44|2"/>
+    <text class="center">
+      <strong>TITLE 44</strong>
+    </text>
+    <text class="center">
+      <strong>TRIBAL FINANCE</strong>
+    </text>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§200"/>
+      <num>200</num>
+      <heading>Short Title.</heading>
+      <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2025-06">This Law</code-cite> shall be known as, the "Tribal Investment Law".</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§201"/>
+      <num>201</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(A)</num>
+        <text>"<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>" means the constitution approved by the voters of the Tribe at the Special Election held on July 22, 2023.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>"Family Member" shall mean Parent, Spouse, Child, Grandchild, Aunt, Uncle, Cousin or Nephew.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>"Financial Institution" means an entity engaged in the investment of money.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>"Investment Board" means the entity that is vested with the authority to monitor the investments of the Tribe's money and to report to the Chief and Council each quarter on said investments.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>"Investments" means the deposit of money in an account at a financial institution.</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>"Tribe" means the Upper Mattaponi Tribe.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§202"/>
+      <num>202</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2025-06">this Law</code-cite> is to provide guidance under the law for the investment of the Tribe's money in accordance with the requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§203"/>
+      <num>203</num>
+      <heading>Findings.</heading>
+      <text>The Council hereby finds and declares that:</text>
+      <para>
+        <num>(A)</num>
+        <text>The return on the investment of the Tribe's money has the potential to impact the revenue of the Tribe from time to time.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Council "shall have the power to raise revenue and appropriate funds for expenditure" pursuan to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> at <em>See</em> <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(b)">Art. VII, Section 4 (b)</cite>.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The Council wishes to establish a framework for investment decisions, for reporting on investment results, and to provide a limited waiver of immunity in relation to such investment decisions.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§204"/>
+      <num>204</num>
+      <heading>Investment Board.</heading>
+      <para>
+        <num>(A)</num>
+        <text>There is hereby established an Investment Board (herein the "Board"). The Board shall: establish minimum standards for any Financial Institution in which Tribal moneys are deposited; provide policy direction on Tribal investments; obtain each month data on each Tribal investment and report quarterly to the Council on each Tribal investment.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Board shall be comprised of three persons to be appointed by the Chief, and confirmed by the Council. The Chief shall be an ex-officio member of the Board.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The members of the Board shall serve at the pleasure of the Chief, and each appointment shall be for an indefinite term.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The members of the Board shall not receive renumeration for their efforts, and shall be prohibited from engaging in any investment or conduct which may personally enrich them or a Family Member in relation to their work on the Board. Any expenses incurred by a member of the Board in their duties here under shall be reimbursed by the Tribe.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>All data and information received by a member of the Board shall at all times remain the property of the Tribe and may not be shared with any person or entity except the Council, Chief, the attorneys for the Tribe and any investment professional or Financial Institution engaged by the Tribe.</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The Board shall engage an investment professional to assist and advise it regarding investments.</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>With the advice of the investment professional, the Board shall be responsible for approving the Financial Institution.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§205"/>
+      <num>205</num>
+      <heading>Sovereign Immunity</heading>
+      <text>The Board is hereby authorized to waive the sovereign immunity of the Tribe solely for the purposes of concluding an agreement with a Financial Institution. Said waiver shall be limited to the amount of money deposited with the Financial Institution, and shall be limited to the duration of any investment and no longer.</text>
+    </section>
+  </attachment>
+</document>

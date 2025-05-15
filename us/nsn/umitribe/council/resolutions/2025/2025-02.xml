@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2025-02" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2025-02</num>
+  <heading>Tribal Land Use Permitting</heading>
+  <meta>
+    <effective>2025-03-19</effective>
+    <history>
+      <adopted>2025-03-06</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2025-02.pdf">Res. No. 2025-02</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to authorize the Chief or his designee to manage the permitting and use of the Tribe's lands.</text>
+  <text>At a duly called Special Session of the Upper Mattaponi Tribe Council held this 6 day of March, 2025, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe (the "Tribe") is an Indian Tribe that has existed from time immemorial and is federally recognized on a government-to-government basis by the United States of America; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe has the authority, pursuant to the limitations of its Constitution (the "Constitution") and laws, to manage its lands; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Pursuant to Article VI, Section 4 (a) "Legislative power shall be vested in the Council."; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council wishes to create a system and process for the use of its lands by its citizens, their guests and by others including non-profit and charitable organizations; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council wishes to authorize the Chief or his designee to administer this system of land use permitting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council wishes to ensure that tribal citizens have preference for the use of the Tribe's lands, and that subject to availability the use of the Tribe's land is free to tribal citizens; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council wishes to ensure that, even though the Tribe is immune from suit or claim, that an appropriate system exists to ensure that personal rights are responsibly protected and that appropriate insurance covers any potential loss associated with the use of the Tribe's land.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby approves the attached "Tribal Land Permitting Act" and directs that this new law be codified under Title 42, Tribal Land, Buildings, Property, and Works of the Code of Laws.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 6 day of March, 2025, at a Special Session with a vote of  <u>5</u> in favor and <u>2</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the Constitution of the Upper Mattaponi Tribe.</text>
+  </procedural-data>
+  <codify:insert path="42" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|4">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>4</num>
+      <heading>Tribal Land Permitting Act of 2025</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="42|4"/>
+    <heading>Tribal Land Permitting Act of 2025</heading>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§400"/>
+      <num codify:value="400">1</num>
+      <text>This law shall be known as the "Tribal Land Permitting Act of 2025."</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§401"/>
+      <num codify:value="401">2</num>
+      <text>Pursuant to the requirements and limits of this law, and upon the issuance of a permit, the Tribe shall make its lands available to others for organized gatherings</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§402"/>
+      <num codify:value="402">3</num>
+      <text>The Tribe's lands may not be permitted to be used for political purposes, except the Tribe's own elections or any polling the Tribe may conduct for local, state or federal elections</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§403"/>
+      <num codify:value="403">4</num>
+      <text>The Chief shall maintain a list of those lands which may be made available for use by others and those lands which shall not be made available for use by others.  If land is categorized as not available for use by others, it may not be used other than by the Tribe for either organized or incidental uses</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§404"/>
+      <num codify:value="404">5</num>
+      <text>Except those lands the Chief identifies as not available for use, Tribe's lands shall be open to all citizens of the Tribe and their guests for incidental use (walking, jogging, picnicking, etc.) without need for a permit.  Such incidental use shall be limited to transient use for less than 12 hours and shall not permit any camping or overnight stays</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§405"/>
+      <num codify:value="405">6</num>
+      <text>An organized use requiring a permit shall be all uses other than incidental uses.  Examples of organized uses requiring a permit include, without limitation: weddings, family reunions, ceremonies, or sporting events</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§406"/>
+      <num codify:value="406">7</num>
+      <text>The Chief shall establish and annually revise a "Facilities Use Request Form."  The Chief shall establish and annually revise a fee schedule for the application to use the Tribe's lands.  The fee may vary based on the land to be used, the type of use, or the intended number of participants</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§407"/>
+      <num codify:value="407">8</num>
+      <text>Upon approval of a completed "Facilities Use Request Form," payment of the relevant fee and issuance of a permit, any person may use the Tribe's lands for organized uses</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§408"/>
+      <num codify:value="408">9</num>
+      <text>Before any person or entity may obtain a permit to use any of the Tribe's lands, they shall submit a completed "Facilities Use Request Form" and any relevant application fee.  The Facilities Use Request Form shall be submitted to the Chief's office in writing, and shall be signed and dated</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§409"/>
+      <num codify:value="409">10</num>
+      <text>The Chief shall review each submitted Facilities Use Request Form and shall determine if the form is complete.  To be complete, all needed information must be supplied, and the application fee must be paid in full.  If it is not complete, or the fee is not paid, the Facilities Use Request Form shall be returned to the applicant, indicating what is needed for completeness</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§410"/>
+      <num codify:value="410">11</num>
+      <text>When the Chief decides a submitted Facilities Use Request Form is complete, he shall   decide whether to issue the permit based on whether the use requested is consistent with the Tribe's policies, whether the requested use of the land would interfere with the Tribe's other uses of that land or other lands, whether in his opinion the use should not be permitted to maintain the proper administration of the Tribe or its lands, the total amount of land available and the amount of land needed for the use, any special conditions for trust or restricted lands, the historical or cultural importance of the land to be used, the condition of the natural environment and the potential impact of the use, any past or future uses of the land which may impact the requested use, and any other factor which the chief deems important</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§411"/>
+      <num codify:value="411">12</num>
+      <text>  Before any use of the land may occur, the Chief shall issue a written permit.  The permit may be revoked at any time by the Chief for any reason he deems reasonable</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§412"/>
+      <num codify:value="412">13</num>
+      <text>The granting of a use permit does not create any right, title or interest in the land.  A use permit is not a lease.  It is a permission which may be revoked at any time</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§413"/>
+      <num codify:value="413">14</num>
+      <text>Tribal citizens shall not pay a fee for the permitted use of the Tribe's land</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§414"/>
+      <num codify:value="414">15</num>
+      <text>If the entity seeking to use the Tribe's land is a non-profit organization, the Chief may elect to waive the fee</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§415"/>
+      <num codify:value="415">16</num>
+      <text>If the use of tribal land shall primarily involve children (e.g., scouting or sports), the Chief shall ensure that the person obtains a liability waiver from the parent of each child and submits to the Chief each liability waiver for each child before that child is provided entry onto the Tribe's land</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§416"/>
+      <num codify:value="416">17</num>
+      <text>The Chief shall maintain insurance on its lands to ensure that any person injured while using the Tribe's lands may make a claim on that insurance.  This shall not constitute a waiver of the Tribe's and its officers and employee's immunity from suit</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§417"/>
+      <num codify:value="417">18</num>
+      <text>Where the Chief deems it appropriate he may require any person or entity seeking a use permit to obtain liability insurance to insure against injury to any person entering the Tribe's land under a use permit.  Where the use primarily involves children (e.g., scouting or sports), the Chief must ensure such liability insurance has been issued, that it is current, and that the Tribe is listed as an additional insured on the policy before the permit may be issued</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§418"/>
+      <num codify:value="418">19</num>
+      <text>No person using the Tribe's lands may cause a nuisance, nor may he damage or deface the Tribe's property.  If a nuisance is caused during a permitted use, or damage is caused to the Tribe's property, then the person permitted to use the land shall not be permitted to use any Tribal land for one (1) year, and they shall be liable for any damages caused.  In addition, the persons who caused the nuisance or damage, if they were not the ones permitted directly to use the land shall not be permitted to use any Tribal land for one (1) year, and they shall be liable for any damages caused</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§419"/>
+      <num codify:value="419">20</num>
+      <text>Where the term Chief is used herein it means the Chief or his designee</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§420"/>
+      <num codify:value="420">21</num>
+      <text>Nothing herein shall be used to permit hunting or fishing</text>
+    </section>
+    <section>
+      <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§421"/>
+      <num codify:value="421">22</num>
+      <text>All fires on Tribal land must be contained in an enclosed structure, such as a fire ring or pit. Open fires are prohibited. Permit holders must ensure that proper fire safety measures are in place, including having a means to extinguish the fire and ensuring it is fully extinguished before leaving. Non-compliance will result in the revocation of the permit and a one (1) year ban from using Tribal land, along with liability for any damages caused</text>
+    </section>
+  </attachment>
+</document>

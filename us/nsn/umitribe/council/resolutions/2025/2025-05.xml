@@ -1,22 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Upper Mattaponi Tribal Code of Law">
-  <prefix>Title</prefix>
-  <num>45</num>
-  <heading>Voting and Elections</heading>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>1</num>
-    <heading>Voting and Elections<annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law" type="History"/></heading>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2025-05" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2025-05</num>
+  <heading>Updating the Election Law of the Upper Mattaponi Tribe</heading>
+  <meta>
+    <effective>2025-04-09</effective>
+    <history>
+      <adopted>2025-04-03</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2025-05.pdf">Res. No. 2025-05</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to amend, codify, and rename the First Election Law of 2023 to the Election Law of the Upper Mattaponi Tribe, ensuring continued transparency, accountability, and integrity in the election process. This update builds upon the existing framework to govern the conduct of future elections for the Upper Mattaponi Tribe.</text>
+  <text>At a duly called Special Session of the Upper Mattaponi Tribe Council held this 3rd day of April, 2025, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribal Council ("Council") is vested with the legislative power of the Upper Mattaponi Tribe ("Tribe") and has the authority to enact laws pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the citizens of the Tribe overwhelmingly voted to adopt the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> on July 22, 2023, thereby asserting the Tribe's sovereign authority as a federally-recognized Indian tribe and reorganizing the Tribe's government in an equitable and just manner; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> establishes requirements for the conduct of elections, the administration of elections by the Election Commission, and the establishment of procedures to ensure impartial and transparent elections in accordance with the Tribe's sovereign authority; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council previously enacted "<cite doc="Upper Mattaponi Tribe Res. No. 2023-01">Resolution 2023-01: First Election Law of 2023</cite>" to establish the Tribe's Election Law and govern the conduct of the first elections of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has reviewed the First Election Law of 2023, and considered amendments to reflect a General Election Law applicable to future elections in accordance with the Tribe's Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this Resolution shall be referred to as the "Election Law of 2025."</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby approves the attached amendments to "First Election Law of 2023," renamed to the "Election Law of the Upper Mattaponi Tribe," and directs that these amendments be codified under <cite doc="Upper Mattaponi Tribal Code of Law" path="45">Title 45, Voting and Elections</cite>.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 3rd day of April, 2025, at a Special Session with a vote of  <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="45|1"/>
+    <heading>TITLE 45. VOTING AND ELECTIONS</heading>
+    <codify:replace path="heading" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|1">
+      <heading>Voting and Elections</heading>
+    </codify:replace>
     <section>
+      <codify:replace path="100" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§100"/>
       <num>100</num>
       <heading>Short Title.</heading>
       <text>This Law shall be known as, the "ELECTION LAW OF THE UPPER MATTAPONI TRIBE".</text>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§1.1" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|100" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="101" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§101"/>
       <num>101</num>
       <heading>Definitions.</heading>
       <para>
@@ -35,21 +81,15 @@
         <num>(D)</num>
         <text>"Tribe" means the Upper Mattaponi Tribe.</text>
       </para>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§1.2" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|101" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="102" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§102"/>
       <num>102</num>
       <heading>Purpose.</heading>
       <text>The purpose of this Law is to provide guidance under the law for the Election Commission to call and conduct elections in accordance with the requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§1.3" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|102" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="103" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§103"/>
       <num>103</num>
       <heading>Findings.</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -69,21 +109,15 @@
         <num>(D)</num>
         <text>The Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a) of the Constitution</cite>.</text>
       </para>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§1.4" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|103" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="104" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§104"/>
       <num>104</num>
       <heading>General Elections.</heading>
       <text>The Constitution requires that the Tribe conduct General Elections on the fourth Saturday in October in odd numbered years [<cite doc="Constitution of the Upper Mattaponi Tribe" path="X|3">Const. Art. X, Sec. 3</cite>].</text>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§1.5" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|104" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="105" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§105"/>
       <num>105</num>
       <heading>Election Commission.</heading>
       <para>
@@ -105,21 +139,15 @@
         <num>(D)</num>
         <text>The Election Commission shall select a neutral observer who is not related to any citizen of the Tribe, nor has been an employee of the Tribe (past or present), and who shall observe the conduct of the election on election day including the counting and certification of the ballots after the close of the polls.</text>
       </para>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§1.6" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|105" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="106" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§106"/>
       <num>106</num>
       <heading>Voters.</heading>
       <text>During election years, the Election Commission shall prepare and post, on the Monday following the Tribe's regularly scheduled July General Citizenship Meeting and for a period of thirty (30) days, a preliminary list of the eligible voters of the Tribe for the upcoming election, which shall include all adult members of the Tribe who will be 18-years old or older on election day. During the thirty (30) days, the Election Commission shall accept challenges from citizens to the preliminary list of eligible voters, including allegations of ineligible people included on the list and eligible people omitted from the list. The Election Commission shall promptly decide any challenges to the preliminary list of eligible voters, and shall prepare and post a final list of eligible voters.  If a voter is disqualified by such a challenge, the Election Commission shall attempt to contact the disqualified voter by telephone and electronic mail to provide notice of the disqualification, and shall mail a copy of the decision to the disqualified voter by certified mail. The disqualified voter may appeal the decision of the Election Commission by filing a written appeal with the Trial Court within (3) days of notice of the Election Commission's decision.  The appeal shall be decided by the Trial Court within seven (7) days of the filing of the appeal.  The decision of the Trial Court may be appealed to the High Court within three (3) days of receiving notice of the decision.  The High Court shall consider and decide the appeal within seven (7) days of the filing of the appeal to the High Court</text>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§1.7" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|106" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="107" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§107"/>
       <num>107</num>
       <heading>Candidates for Elective Office.</heading>
       <para>
@@ -141,12 +169,9 @@
         <num>(D)</num>
         <text>Any applying Candidate may challenge the decision of the Election Commission under subsection (C) of this section by filing a written appeal with the Trial Court by the Wednesday following the Tribe's regularly scheduled July Citizenship Meeting.  The appeal shall be decided by the Trial Court within seven (7) days of the filing of the appeal.  The decision of the Trial Court may be appealed to the High Court within three (3) days of receiving notice of the decision.  The High Court shall consider and decide on the appeal within seven (7) days of the filing of the appeal to the High Court.</text>
       </para>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§1.8" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|107" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="108" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§108"/>
       <num>108</num>
       <heading>Special Elections.</heading>
       <para>
@@ -169,12 +194,9 @@
         <num>(E)</num>
         <text><u>Constitutional Amendments.</u>	A petition to amend the Constitution, as defined in the Constitution, shall be on a form prescribed by the Election Commission. A completed petition shall be filed with the Election Commission.  The petition shall provide the full text of the amendment along with a ballot title that clearly explains the effect of the proposed amendment and shall not reflect any arguments for or against the measure. Within ten (10) days of the filing of a petition, the Election Commission shall verify the accuracy and voter status of signatures on the petition and determine if the requirements of the Constitution have been met.  If the Election Commission determines the petition meets all the requirements of the Constitution, the Election Commission shall schedule a special election within ninety (90) days from receipt of the petition.  The special election shall be conducted in accordance with the Amendment provisions of the Constitution.  The question on the ballot shall include the full text of the proposed amendment and the ballot title followed by: "Shall the foregoing proposed amendment to the Constitution be approved?"</text>
       </para>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§1.9" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|108" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="109" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§109"/>
       <num>109</num>
       <heading>Qualifications of Candidates.</heading>
       <para>
@@ -195,12 +217,9 @@
         <num>(C)</num>
         <text>The determination of whether a candidate meets the 100-mile requirement of <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|2">Article VII, Section 2</cite> of the Constitution shall be measured in direct, "as-the-crow-flies", miles and not roadway miles.</text>
       </para>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§1.10" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|109" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="110" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§110"/>
       <num>110</num>
       <heading>Ballots.</heading>
       <para>
@@ -239,30 +258,21 @@
         <num>(I)</num>
         <text>The Election Commission shall reject any returned ballot that does not comply with the terms of this Section.  In rejecting a ballot, the Election Commission shall mark the ballot as "REJECTED" and attach a statement memorializing the reason for rejection.</text>
       </para>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§2.0" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|110" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="111" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§111"/>
       <num>111</num>
       <heading>Polling Place.</heading>
       <text>The polling place for elections shall be the Sharon Indian School.</text>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§2.1" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|111" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="112" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§112"/>
       <num>112</num>
       <heading>Hours of Voting.</heading>
       <text>The polling place shall be open from 10:00 am to 2:00 pm. Voters in-line at the polling place but unable to cast their ballots before 2:00 pm shall be permitted to finish voting.</text>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§2.2" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|112" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="113" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§113"/>
       <num>113</num>
       <heading>Method of Voting.</heading>
       <para>
@@ -273,12 +283,9 @@
         <num>(B)</num>
         <text>The voter shall vote in private and shall place a mark opposite the name of the candidate or candidates for whom they are voting, or opposite the position they are voting for in special elections. The ballot shall be folded so that the choices made by the voter cannot be seen by others. The ballot shall be personally deposited in the ballot box by each voter.</text>
       </para>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§2.3" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|113" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="114" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§114"/>
       <num>114</num>
       <heading>Counting the Ballots.</heading>
       <para>
@@ -302,21 +309,15 @@
         <num>(E)</num>
         <text>Upon final certification of the election results, the Election Commission shall secure the ballots, including any unused, spoiled, and rejected ballots, until any challenges to the election have been resolved pursuant to this Law.</text>
       </para>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§2.4" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|114" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="115" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§115"/>
       <num>115</num>
       <heading>Tie Votes.</heading>
       <text>Tie votes shall be decided by a game of chance conducted by the Election Commission.</text>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§2.5" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|115" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="116" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§116"/>
       <num>116</num>
       <heading>Challenges to the Election Results.</heading>
       <para>
@@ -327,68 +328,48 @@
         <num>(B)</num>
         <text>The citizen challenging the election results, or any effected Candidate, may challenge the decision of the Election Commission under subsection (A) of this section by filing a written appeal with the Trial Court within three (3) days of the decision of the Election Commission.  The appeal shall be decided by the Trial Court within fourteen (14) days of the filing of the appeal.  The decision of the Trial Court may be appealed to the High Court within three (3) days of receiving notice of the decision.  The High Court shall consider and decide on the appeal within fourteen (14) days of the filing of the appeal to the High Court.</text>
       </para>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§2.6" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|116" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="117" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§117"/>
       <num>117</num>
       <heading>Oath of Office.</heading>
       <text>The Chief Justice of the High Court, or their designee, shall administer the Oath of Office to any newly elected Chief, Assistant Chief, and Council Representative in accordance with the requirements of the Constitution [<cite doc="Constitution of the Upper Mattaponi Tribe" path="X|5">Const., Art. X, Sec. 5</cite>].</text>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§2.7" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|117" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:replace path="118" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§118"/>
       <num>118</num>
       <heading>Other Election Matters.</heading>
       <text>Any other election matters not specifically addressed in this Law shall be decided by the Election Commission.</text>
-      <annotations>
-        <annotation app="2023-09-11" doc="Upper Mattaponi Tribe Res. No. 2023-01" eff="2023-09-11" path="§2.8" type="History"/>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|118" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§119"/>
       <num>119</num>
       <heading>Conduct in Polling Places.</heading>
       <text>No electioneering shall be allowed within fifty (50) feet of a polling place while an election is in progress.  No printed material, other than that provided by the Election Commission, shall be publicly placed or exposed within fifty (50) feet of a polling place while an election is in progress.  No person shall, while within a polling place, disclose to any other person how they plan to vote or how they voted while an election is in progress.  Appropriate signs regarding these provisions shall be posted in the polling place by the Election Commission.</text>
-      <annotations>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|119" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§120"/>
       <num>120</num>
       <heading>Handling of Spoiled Ballots.</heading>
       <text>On election day, if a voter spoils their ballot prior to casting their ballot, the voter shall fold and return the ballot to the Election Commission.  The Election Commission shall mark the ballot as "SPOILED" in the presence of the voter and issue the voter a new ballot.  The voter must execute an affidavit swearing or affirming that they spoiled their original ballot, returned the ballot to the Election Commission, that the Election Commission marked the ballot as "SPOILED" in their presence, and that they were issued a new ballot.</text>
-      <annotations>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|120" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§121"/>
       <num>121</num>
       <heading>Voters in Need of Special Assistance.</heading>
       <text>When a voter states that they are unable to mark their ballot because of a physical or visual disability or infirmity, the voter may request assistance from the Election Commission to cast their ballot.  In such an instance, two (2) members of the Election Commission shall provide assistance by having one member assist the voter in reading, marking and preparing the ballot for the voter and the other member observing the process to ensure the ballot is read and marked accurately.</text>
-      <annotations>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|121" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§122"/>
       <num>122</num>
       <heading>Duty to Secure Election Materials.</heading>
       <text>The Election Commission shall prescribe methods of sealing or otherwise securing all ballots, all certificates, and all materials used in recording the count of ballots in such a manner that any tampering or alteration of the election materials after such materials have been sealed or secured would be detected.  The Election Commission shall maintain the materials in a sealed or secured manner until any challenges to the election have been resolved pursuant to this Law before destroying such materials.</text>
-      <annotations>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|122" type="History"/>
-      </annotations>
     </section>
     <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="45|§123"/>
       <num>123</num>
       <heading>Automatic Recounts.</heading>
       <text>Elections decided by a difference of five (5) votes or less shall be subject to an official recount by the Election Commission.  The recount shall continue until such time as all the ballots have been recounted and the recount is completed.  Recounts shall be conducted in accordance with the procedures for the counting of votes in this Law.  Each candidate in the recounted election shall be allowed to be a witness, or name a witness, to observe the recount process.</text>
-      <annotations>
-        <annotation app="2025-04-09" doc="Upper Mattaponi Tribe Res. No. 2025-05" eff="2025-04-09" path="attachments|law|123" type="History"/>
-      </annotations>
     </section>
-  </container>
-</container>
+  </attachment>
+</document>
