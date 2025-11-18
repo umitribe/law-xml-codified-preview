@@ -3,14 +3,96 @@
   <heading>Upper Mattaponi Tribal Code of Law</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2025-04-28">
-      <doc id="Upper Mattaponi Tribe Res. No. 2025-06" type="resolution"/>
+    <recency through="2025-08-25">
+      <doc id="Upper Mattaponi Tribe Bill No. 2025-03" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
   <xi:include href="./4.xml"/>
   <xi:include href="./13.xml"/>
   <xi:include href="./18.xml"/>
+  <container>
+    <prefix>Title</prefix>
+    <num>38</num>
+    <heading>Property</heading>
+    <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>1</num>
+      <heading>The Land Office Establishment and Land Acquisition Act of 2025</heading>
+      <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
+      <section>
+        <num>100</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as, "The Land Office Establishment and Land Acquisition Act of 2025" ("Act").</text>
+        <annotations>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>101</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to establish a Land Office to reacquire and restore lands to the Tribe, and to address other land-related matters for the Tribe as authorized by the Chief.</text>
+        <annotations>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>102</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(A)</num>
+          <text>The Tribe has current and future needs for real property for such purposes as housing, community development, government facilities and infrastructure, protection of historic and cultural resources, economic development, and restoration of the Tribe's territory; and,</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The federal Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017, specifically recognizes the right of the Tribe to acquire land, and to place such land into trust, within five listed counties within the State of Virginia; and,</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Council hereby finds and declares that it is in the best interest of the Tribe to establish a Land Office to acquire additional lands to expand the Tribe's territory for the best interests of the Tribe and its citizens.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>103</num>
+        <heading>Land Office</heading>
+        <para>
+          <num>(A)</num>
+          <text>There is hereby established a Department of Land, which shall be known as the Land Office ("Land Office").  The Land Office shall be located with the Executive branch of government.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Director of the Land Office shall have sufficient experience in land and real estate matters to properly evaluate the Tribe's land acquisition efforts and to provide professional advice on land acquisition, land use, and related matters.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Land Office shall develop, plan, and coordinate activities associated with the Tribe's existing lands and the acquisition of additional lands by the Tribe.  The Land Office is hereby authorized to purchase available lands or interests in land, subject to the appropriation of funds in an approved Annual Budget or budget modification for such purposes.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The Land Office shall develop a short-term plan and a long-term plan for the use of existing lands and the acquisition of additional lands by the Tribe.</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>The Land Office shall take all steps necessary to participate in, to the fullest extent possible, and to take advantage of the benefits of, the federal land buyback program, and in any other federal or private programs or services to assist with the acquisition of lands by the Tribe.</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>The Council hereby authorizes the establishment of the Land Office, subject to an appropriation of funds in an Annual Budget or Budget Modification for such purpose.</text>
+        </para>
+        <annotations>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
+  </container>
   <xi:include href="./42.xml"/>
   <xi:include href="./44.xml"/>
   <xi:include href="./45.xml"/>

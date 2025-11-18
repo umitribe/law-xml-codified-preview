@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Bill No. 2025-02">
+  <num>2025-02</num>
+  <heading>The Upper Mattaponi Ethics Law</heading>
+  <meta>
+    <effective>2025-08-25</effective>
+    <history>
+      <adopted>2025-08-03</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2025-02.pdf">Bill No. 2025-02</citation>
+    </citations>
+  </meta>
+  <text class="center">An Act to promote ethical governance by establishing standards of conduct, procedures for enforcement, and safeguards for fairness and due process in the actions of the Tribe and its businesses.</text>
+  <text>At a duly called General Meeting of the Upper Mattaponi Tribe Council held this 23rd day of August, 2025, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>On July 22, 2023, the citizens of the Upper Mattaponi Tribe ("Tribe") overwhelmingly voted to adopt a new constitution ("Constitution") to assert the Tribe's sovereign authority as an Indian Tribe, and to confirm and to reorganize the Tribe to exercise its full governmental authority in a fair and equitable manner; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council wishes to prevent any appearance of impropriety in the dealings relating to the Tribe or its businesses and therefore passes the attached Ethics Law to ensure that ethical actions are taken and that there is a procedure for fairness and due process in establishing and enforcing ethical behavior; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council is vested with the authority to enact laws and Budget Resolutions pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a) of the Constitution</cite>.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached Act into law, entitled "Upper Mattaponi Ethics Law".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing Act was duly voted upon by the Council on the 23rd day of August, 2025, at a General Meeting with a vote of <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the Constitution of the Tribe.</text>
+  </procedural-data>
+  <attachment id="law">
+    <heading>THE UPPER MATTAPONI ETHICS LAW</heading>
+    <section>
+      <num>1</num>
+      <heading>COMMISSION CREATED</heading>
+      <para>
+        <num>A.</num>
+        <text>There is hereby created an Upper Mattaponi Tribal Ethics Commission ("Commission"). The Commission shall be comprised of three (3) members who shall elect a Chairperson from among their number at their first meeting in each calendar year.  Members of the Commission shall only be enrolled Upper Mattaponi Citizens.  Commissioners shall be nominated by the Chief and confirmed by the Council.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Commissioners shall serve for a term of three (3) years with an anniversary date of January 1.  Commissioners shall be automatically reappointed, if a replacement is appointed, within sixty (60) days prior to the expiration of the term.  Once the full Commission is seated, Commissioners shall draw lots to determine which of the members shall serve a one (1) year term, to be called Seat 1, two (2) year term, to be called Seat 2, or three (3) year term, to be called Seat 3.  Thereafter, all members shall serve full three (3) year terms, with one (1) seat being subject to reappointment each subsequent year.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Members of the Commission may resign at any time but may be removed by a two-third majority vote of the Upper Mattaponi Council and only upon the following listed grounds:  (a) Conviction or guilty plea entered to a felony involving dishonesty or the disrespect of human life; (b) Conviction or guilty plea entered to a charge of destruction of property, assault or battery upon another person; (c) Conviction or guilty plea entered to a drug or alcohol related charge; or (d) Falsifying information on any tribal or federal application or form.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Vacancies shall be filled by the Chief without being confirmed by the Council for the remainder of the respective term.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>No person who is a public official or employee of the Tribe shall serve on the Commission.  No Commissioner shall be eligible for elected office for one (1) year after completing his term.</text>
+      </para>
+    </section>
+    <section>
+      <num>2</num>
+      <heading>PURPOSE</heading>
+      <text>This law is established to require adherence to standards of conduct such that all persons to whom this law applies shall abstain from using any function of their office or duties in a manner which could place, or appear to place, their personal economic or special interests before the interests of the Upper Mattaponi Tribe.</text>
+    </section>
+    <section>
+      <num>3</num>
+      <heading>DEFINITIONS</heading>
+      <text>As used in this Chapter:</text>
+      <para>
+        <num>1.</num>
+        <text>"Affinity" means the relation among a person and the family of such person's spouse because of marriage.  The degrees of Affinity are computed as are the degrees of Consanguinity.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Business" includes any enterprise, organization, trade, occupation or profession whether or not operated as a legal entity for profit, including any Business, trust, holding company, corporation, partnership, joint venture, or sole proprietorship, Consultant or other self-employed enterprise.  "Business" also includes any Business in which a person subject to this Act or a member of such person's Immediate Family is a director, officer, partner, trustee or Employee, holds any position of management or receives Compensation or Income in any form such as wages, commission, direct or indirect investment worth more than $1,000 or holds any ownership, security or other beneficial interest, individually or combined, amounting to more than ten percent (10%) of said Business.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Citizen" means an individual officially enrolled with the Upper Mattaponi Tribe as listed on the Tribe's membership roll as of December 1, 2022; a lineal biological descendant of someone on that roll; or a person who proves descent from someone on the July 15, 2003, roll, subject to approval by the Chief and confirmation by the Council.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Commission" means the Upper Mattaponi Tribe Ethics Commission.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Compensation" or "Income" means any money or thing of value received, or to be received as a claim on future services, whether in the form of a fee, salary, expense, allowance, forbearance, forgiveness, interest, dividend, royalty, rent, capital gain, or any other form of recompense or any combination thereof.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Confidential Information" means information which by law or practice is not available to the public at large or is deemed Confidential by a Governmental Body.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Conflict of Interest" means the reasonable foreseeability or appearance that any personal interest or Economic Interest of a Public Official or Employee of the Tribe will be affected in any materially different manner from the interest of the general public, by any decision, enactment, agreement, award or other official action or function of any Governmental Body or political subdivision of the Tribe.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Consanguinity" means relationship by blood; kinship.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Constitution" means the Constitution of the Upper Mattaponi Tribe as adopted by the enrolled Citizen voters of the Upper Mattaponi Tribe on July 22, 2023, and amendments thereto.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Consultant" means a person who gives professional, expert, or specialized advice or services for Compensation or Income.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Covered Person" means every Employee, director, officer, partner, trustee, agent, or Contractor of a Business owned in whole or in part by the Upper Mattaponi Tribe, as well as any officer or director of the Upper Mattaponi Tribal government or programs.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Employee" means any person working for, or rendering or exchanging any services or performing any act for or on behalf of another person, organization or entity in return for any form of pay or other Compensation or Income or any other thing of value received or to be received anytime temporarily, permanently or indefinitely, in any capacity; whether an agent, servant, representative, Consultant, advisor, Independent Contractor or otherwise.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Employee of the Tribe" means any employee who is temporarily, periodically, permanently or indefinitely in the Employment of the Upper Mattaponi Tribe and/or any Governmental Body thereof, or any wholly or partly owned business of the Upper Mattaponi Tribe.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Employment" means the status or relationship existing or created by and between a person designated or acting as an Employee and the person, organization, group or other entity for whom or on whose behalf any such work, acts, services or other benefit has been, is being or will be rendered or performed for pay or any other form of Compensation or Income.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Economic Interest" means an interest held by a person subject to this Act and/or members of such person's Immediate Family which is:</text>
+        <para>
+          <num>a.</num>
+          <text>any ownership, Compensation or Income, investment, security or other beneficial interest in a Business, or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>any Employment or prospective Employment for which negotiations have already begun.</text>
+        </para>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Gift" includes any gratuity, special discount, favor, hospitality, payment, loan, subscription, economic opportunity, advance, deposit of money, services, or other benefit received without equivalent consideration.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Governmental Body" means any branch, entity, enterprise, authority, division, department, office, commission, council, board, bureau, committee, legislative body, agency, and any other establishment of the Executive, Legislative, and/or Judicial Department of the Tribe.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Immediate Family" includes spouse, father, mother, child, brother or sister or other person when identified as such by tribal customs and traditions or by proper and appropriate authorities.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"Independent Contractor" or "Contractor" means a person or entity who performs services or completes tasks for Compensation or Income under a contractual agreement with the Tribe.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"Ministerial Action" means an action that a Public Official or Employee of the Tribe performs in a given state of facts in a prescribed manner in obedience to a mandate of legal authority, without regard to, or in the exercise of, such person's own judgment upon the propriety of the action being taken.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>"Pecuniary" means monetary; relating to money; financial; consisting of money or that which can be valued in money.</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>"Public Office/Official."  "Public Office" means those offices and positions which are elective or appointed in any Governmental Body of the Tribe. "Public Official" means any person holding such office or position.  "Public Official" shall also include any person who has publicly announced an intent to campaign for Public Office, initiated fundraising activities or received funds for such campaign, authorized promotion for, or filed a declaration of candidacy or a petition to appear on the ballot for election as a Public Official; and any person who has been nominated by a Public Official or Governmental Body for appointment to serve in any public capacity, position or office, but who has not yet been seated in such public capacity, position or office.</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>"Upper Mattaponi Tribe" or "Tribe" means a federally recognized Tribe of nearly 700 enrolled Citizens, with its headquarters located in King William County, Virginia. The Tribe operates under the Upper Mattaponi Constitution, duly adopted on July 22, 2023, and is recognized by the Secretary of the Interior of the United States as a self-governing, sovereign government.</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text>"Upper Mattaponi High Court" or "High Court" means the appellate court within the Tribal Judicial Branch consisting of a Chief Justice and two Associate Justices. The High Court has the power to interpret the Constitution and laws of the Tribe, including the authority to declare laws unconstitutional, make conclusions of law, issue remedies in law and equity, and function as a court of record. It serves as the highest judicial authority in the Tribe's court system.</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text>"Upper Mattaponi Trial Court" or "Trial Court" means the court of original jurisdiction within the Tribal Judicial Branch that hears all cases and controversies, both criminal and civil, arising under the Constitution, laws, and common law of the Upper Mattaponi Tribe. It is comprised of a Chief Judge and other Associate Judges as determined necessary by the Council. The Trial Court has the authority to interpret the Constitution and laws of the Tribe, make findings of fact and conclusions of law, issue all remedies in law and equity, and serve as a court of record. It includes specialized courts such as the Peacemaker Court to resolve civil disputes by agreement of the parties.</text>
+      </para>
+    </section>
+    <section>
+      <num>4</num>
+      <heading>APPROPRIATION, COMPENSATION, STAFF</heading>
+      <para>
+        <num>A.</num>
+        <text>The Commission shall receive an annual appropriation included in the annual tribal budget sufficient to enable it to perform its duties as set forth herein.  Any funds appropriated to the Commission which remain unspent at the end of the fiscal year shall be returned to the General Fund.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Commission shall present its proposed budget to the Chief of the Upper Mattaponi Tribe, who shall consider the proposed budget and shall incorporate it as the funds permit in an overall yearly budget.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Commissioners shall receive reimbursement for travel, lodging and meals while on official business as provided by Tribal policy; otherwise, Commissioners shall be compensated at a rate established by the Council.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Commission may employ an office manager and maintain an office in a location provided by the Council.</text>
+      </para>
+    </section>
+    <section>
+      <num>5</num>
+      <heading>DUTIES AND RESPONSIBILITIES</heading>
+      <text>In accordance with all powers and authority as provided in this Ordinance, the Commission shall have the specific duties, responsibilities and authority to:</text>
+      <para>
+        <num>A.</num>
+        <text>Provide, upon the request of any person who is seeking to comply with this Ordinance, written advisory opinions to guide conduct or address specific questions.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Provide written decisions upon hearing complaints, challenges or any other matter as provided by law.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Conduct administrative hearings to hear complaints and determine violations or noncompliance with this Ordinance or any other ethics requirement.  All Commission hearings shall follow rules of procedure promulgated by the Commission and presented to the Council for its rejection, amendment, alteration and/or approval.  A complainant shall present his own complaint.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Dismiss any complaint which the Commission determines has insufficient facts to constitute a violation of or is in noncompliance with this Ordinance; or provides insufficient evidence to support the allegations; or is otherwise outside the authority of the Commission.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Issue a written opinion or decision detailing the finding of facts and reasoning, or lack thereof, of any issue heard by the Commission to the complainant and other interested parties including the Council.</text>
+      </para>
+    </section>
+    <section>
+      <num>6</num>
+      <heading>GENERAL RULES OF PROCEDURE</heading>
+      <para>
+        <num>A.</num>
+        <text>Unless otherwise provided by Upper Mattaponi law, no action shall be brought before the Commission more than six (6) months after the facts and circumstances giving rise to the action occurred.  If an action is recurring, each subsequent action will be considered facts and circumstances giving rise to the action for the purposes of calculating six (6) months.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Commission may recommend reprimand or removal for any person violating any ethics requirement of the Upper Mattaponi Tribe.  Furthermore, the Commission may for a maximum total of 45 days suspend with or without pay (in the Commission's discretion) any person where it has recommended reprimand or removal, but such removal or reprimand has not yet been accomplished.  Regarding the same order, the Commission may not suspend a person twice or more.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Complainant(s) and person(s) who are the subject of ethics complaint(s) have the right to representation by legal counsel who is licensed to practice law, present evidence, to testify in their own behalf, question witnesses against them and call witnesses to testify in support of their respective causes.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The burden of proof shall be more likely than not standard and shall be on the complainant.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Two (2) Commissioners shall constitute a quorum; except where a unanimous decision is required, decisions shall be made by majority of a quorum.  In the event only two (2) Commissioners are present, decisions shall be made by unanimous vote.</text>
+      </para>
+    </section>
+    <section>
+      <num>7</num>
+      <heading>ENFORCEMENT</heading>
+      <text>If the recommendation of the Commission regarding any decision it has issued is not followed within 60 days, the Commission may within 120 days elect to request a formal written explanation of why the decision is not followed, and no sooner than 30 days thereafter conduct a hearing to determine whether further action is needed.  If further action is deemed needed by a majority vote of the Commission, then the Commission may seek enforcement by filing a civil petition or complaint before the Upper Mattaponi Trial Court.   The decisions of the Upper Mattaponi Trial Court shall be binding and final upon the Upper Mattaponi Tribe and all parties to any decision of the Commission the Upper Mattaponi Trial Court may hear as enforcement.  Appeal to the Upper Mattaponi High Court is permitted of any enforcement decision of the Trial Court. The enforcement decisions of the Commission shall be given substantial deference and shall only be overturned if not rationally related to the facts and circumstances or not warranted in any case by law.</text>
+    </section>
+    <section>
+      <num>8</num>
+      <heading>APPEALS</heading>
+      <text>The Upper Mattaponi Trial Court and no other entity shall have jurisdiction to hear all initial appeals from decisions of the Commission.  The Commission itself may not seek an appeal.  Any person with a legitimate and significant interest impacted by a decision of the Commission may file an appeal with the Upper Mattaponi Trial Court.  Any appeal must be filed within thirty (30) days of the issuance of a decision by the Commission or such appeal will be forever barred.  The decisions of the Upper Mattaponi Trial Court shall be binding and final upon the Upper Mattaponi Tribe and all parties to any decision of the Commission the Upper Mattaponi Trial Court may hear as an appeal.  Appeal to the Upper Mattaponi High Court is permitted of any decision of the Trial Court under this section.</text>
+    </section>
+    <section>
+      <num>9</num>
+      <heading>STANDARDS OF CONDUCT</heading>
+      <para>
+        <num>A.</num>
+        <text>Conduct in Conformity with Applicable Rules and Laws.</text>
+        <text>All Covered Persons shall at all times conduct themselves in a manner that reflects credit upon the Upper Mattaponi Tribe and comply with all applicable laws of the Upper Mattaponi Tribe with respect to their conduct in the performance of the duties of their respective office or Employment.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>General Prohibitions; Conflicts of Interest.</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>No Covered Person shall use, attempt to use, or appear to use or attempt to use, any official or apparent authority of their office or duties which places, or could reasonably be perceived as placing, their or their Immediate Family's private economic gain or that of any special Business interests with which they are associated, before those of the Tribe whose paramount interest their office or Employment is intended to serve.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Every Covered Person shall avoid any action, whether or not specifically prohibited herein, which could result in, or create an appearance of:</text>
+        <para>
+          <num>a.</num>
+          <text>using Public Office for private gain;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>giving preferential treatment to any person or special interest organization;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>impeding governmental efficiency or economy;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>losing or compromising complete independence or impartiality of actions; and/or</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>making a government decision outside official channels.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Use of Confidential Information for Private Gain.</text>
+        <text>No Covered Person shall use or disclose Confidential Information gained in the course of, or by reason of, their official position or activities to further their private Economic Interest or personal interest or that of anyone else.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Restrictions Against Incompatible Interests or Employment.</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Covered Persons shall not:</text>
+        <para>
+          <num>a.</num>
+          <text>have direct or indirect financial or other Economic Interests nor engage in such other Employment or economic activity which involves inherent substantial conflict of interest, or has the appearance of involving such inherent substantial conflict of interest with their responsibilities and duties as Public Officials or Employees of the Tribe or one of the Tribe's businesses; nor</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>engage in, directly or indirectly, financial or other economic transactions as a result of, or primarily depending upon, information obtained through their work for or in relation to the Tribe; nor</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>acquire any economic or other financial property, contractual or other Economic Interest at a time when they believe, or have reason to believe, that it will directly and substantially affect or be so affected by their official actions or duties.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Subject to the restrictions and conditions set forth herein, Covered Persons are free to engage in lawful financial transactions to the same extent as the general public.  Governmental Bodies of the Tribe may, however, adopt further approved restrictions upon such transactions or Employment, as authorized herein and by other applicable laws of the Tribe, in light of special circumstances or the particular duties of such Public Official or Employee of the Tribe.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>No Business or Governmental Body shall employ a Covered Person if such Employment is prohibited by or otherwise violates any provision of this Act.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The term "Employment" within the meaning of this subsection includes professional services and other services rendered by a Covered Person, whether rendered as an Employee, Consultant or other Independent Contractor.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Appropriate Actions in Case of Conflict of Interest.</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>When a Covered Person is required to take official action on a matter in which such Person has a personal Economic Interest, they should first consider eliminating that interest.  If such is not feasible nor required under Subsection D above, such person shall:</text>
+        <para>
+          <num>a.</num>
+          <text>prepare and sign a written statement describing the matter requiring action and the nature of the potential conflict for inclusion in the official record of any vote or other decision or determination and also for the information of the Commission, immediately upon becoming aware of such matter and potential conflict;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>abstain from voting, sponsoring, influencing or in any manner attempting to influence any vote, official decision or determination which would favor or advance such person's personal Economic Interest in such matter; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>abstain from voting or otherwise participating in an official vote, decision or determination of such matter, unless otherwise directed by the authorized residing official of the Governmental Body making such decision or determination, or as otherwise required or allowed by applicable law.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Unless otherwise required or allowed by applicable law, the abstention by a Covered Person from voting or otherwise participating in an official decision or determination of a matter shall not affect the presence of such person for purposes of establishing a quorum necessary for a Body to whom they are a member to take action of voting, deciding or determining such matter.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If the Covered Person has an immediate supervisor, he or she shall also deliver a copy of such statement described in Subparagraph 1.a above to the Commission and to their immediate superior who shall assign the matter to another person.  If such Employee has no immediate superior, he or she shall take such steps as the Commission shall prescribe or advise to abstain from influencing actions and decisions in the matter.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>In the event that a Covered Person's participation is otherwise legally required or allowed for the action to be made, such Public Official or Employee of the Tribe and appropriate Public Official or immediate superior requiring such participation shall fully report the occurrence to the Commission.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Tribal Governmental Contracts; Restrictions and Bid Requirements.</text>
+        <text>No Covered Person, nor any member of such person's Immediate Family, shall be a party to, nor have an interest in, the profits or benefits of any governmental contract or be the recipient of investment by the Upper Mattaponi Tribe or any business owned in whole or in part by the Upper Mattaponi Tribe, unless the contract or the investment meets the following requirements:</text>
+        <para>
+          <num>1.</num>
+          <text>the contract or investment is let by notice and competitive bid or other procurement procedures as required under all applicable laws, rules, regulations and policies of the Tribe or other appropriate agency;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>the entire transaction is conducted at arm's length after written notice has been provided to the Commission regarding the interest of the Covered Person or a member of their Immediate Family; and</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>the Covered Person has taken no part (including by recusing from any votes) in the determination of whether or not to enter into the specific contract or investment.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Unauthorized Compensation or Income or Benefit for Official Acts.</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>No Covered Person shall accept or receive any benefit, favor or other form of Compensation or Income for performing the official duties of their office or Employment, beyond the amount or value which is authorized and received in their official capacity for performing such duties.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>This Section shall not be construed to prohibit the receipt of authorized Compensation or Income for the performance of other distinct and lawful public duties by Public Officials or Employees of the Tribe.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Unauthorized personal use of property or funds of the Tribe.</text>
+        <text>No Public Official, Employee, or Contractor of the Tribe shall use any property of the Tribe or any other public property of any kind for any use other than as authorized and approved for official purposes and activities.  Such persons shall properly protect and conserve all such property, equipment and supplies which are so entrusted, assigned or issued to them.  The Tribe wishes to create a safe harbor based on practice and custom and acknowledges that Public Officials or Employees may be issued computers, phones, cars, or be provided with or refunded for offices or supplies and same shall not, when used in the ordinary course, be considered unauthorized.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Staff Misuse Prohibited.</text>
+        <text>Public Officials, Employees, and Contractors of the Tribe shall only utilize Employees of the Tribe and staff only for the official purposes for which they are employed or otherwise retained.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Retaliation Prohibited.</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>Retaliation against any party or witness to a complaint is hereby prohibited.  Retaliation shall include any unjustified or unsubstantiated form of adverse or punitive action against a complainant, party or witness in an ethics-related cause of action brought before the Commission.  Retaliation is considered an ethics violation in and of itself.  Protection against retaliation shall also be afforded to any person(s), including Commission members and staff, offering testimony or evidence or complying with directives of the Commission.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any violations of this Section regarding retaliation (Section J) shall be considered obstruction and contempt violations of both the civil and criminal codes of the Tribe.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Restrictions Against Gifts or Loans to Influence Official Acts.</text>
+        <text>No Covered Person shall solicit or accept for themselves or another, any Gift, including economic opportunity, favor, service, or loan (other than from a regular lending institution on generally available terms) or any other benefit of an aggregate monetary value of one thousand dollars ($1,000) or more over a period of twelve (12) months, from any person, organization or group which:</text>
+        <para>
+          <num>1.</num>
+          <text>has, or is seeking to obtain, contractual or other Business or financial relationships or approval from any Governmental Body, office or entity with which the Public Official or Employee of the Tribe is associated or employed, including partly or wholly owned Upper Mattaponi Tribal businesses; or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>conducts operations or activities which are regulated or in any manner supervised by any Governmental Body with which the Public Official or Employee of the Tribe is associated or employed.</text>
+        </para>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Permitted Gifts, Awards, Loans, Reimbursements and Campaign Contributions.  Subsection L above shall not be construed to prohibit:</text>
+        <para>
+          <num>1.</num>
+          <text>an occasional non-pecuniary Gift, insignificant in value;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>gifts from, and obviously motivated by, family or social relationships, as among Immediate Family members or family inheritances;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>food and refreshments customarily made available in the ordinary course of meetings where a Covered Person may properly be in attendance;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>an award or honor customarily and publicly presented in recognition of public service;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>a political campaign contribution, in accordance with all applicable election laws and provided that no promise or commitment regarding the official duties of office or Employment is made in return for such contribution.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>gifts of any large value made to the Upper Mattaponi Tribe.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>10</num>
+      <heading>SANCTIONS; PENALTIES; LEGAL LIABILITIES</heading>
+      <para>
+        <num>A.</num>
+        <text>Administrative Sanctions.</text>
+        <text>Upon a written finding that there has been an ethical violation, which sets out the factual and legal basis for the finding, the Commission may recommend any single, a combination or all of the following penalties or sanctions, depending upon the severity of the violation:</text>
+      </para>
+      <para>
+        <num>1.</num>
+        <text>For Public Officials, recommend reprimand, removal, discharge, or termination from office.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For Employees of the Tribe, recommend to the person's Immediate Supervisor for discipline, including suspension without pay or other benefits and dismissal as provided by other laws, regulations and personnel policies or procedures applicable thereto.  If the Employee has no immediate supervisor, then the recommendation shall be made to the Executive Director, who is authorized to implement the recommendation, or modify it as he or she sees fit.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>For all Covered Persons, issuance of a private reprimand, which shall be entered into such person's permanent record of Employment or office and upon the permanent record of the Public Office or entity of which such person is a Citizen or Employee of the Tribe, in accordance with provisions of applicable Upper Mattaponi employment law and procedures.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>For all Covered Persons, issuance of a written public reprimand, which shall be entered into such person's permanent record of Employment or office and upon the permanent record of the Public Office or entity of which such person is a Citizen or Employee of the Tribe, according to provisions of applicable Upper Mattaponi law and procedures.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Any person knowingly and willfully filing any complaint authorized under this Act or by any other applicable law, without just cause or good faith belief and with malice or other improper purpose, including personal, political or other harassment or embarrassment, shall be guilty of a civil offense. For such offense, the Commission may recommend to the Judicial branch the imposition of a fine per occurrence, and shall be responsible for the attorney fees and costs of person wrongfully accused, as well as any attorney fees and costs incurred by the Upper Mattaponi Tribe or the Commission.</text>
+      </para>
+    </section>
+    <section>
+      <num>11</num>
+      <heading>SEVERABILITY</heading>
+      <text>If any provision of this Ordinance or the application of such provision to any person, firm, association, corporation or circumstances shall be held invalid, the remainder of this Act, and the application of such other provisions than those held to be invalid, shall not be affected thereby.</text>
+    </section>
+    <section>
+      <num>12</num>
+      <heading>EFFECTIVE DATE</heading>
+      <text>This Ordinance shall be in force and of effect immediately from and after its passage and approval according to law.</text>
+    </section>
+  </attachment>
+</document>

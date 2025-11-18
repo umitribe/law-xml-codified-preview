@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Bill No. 2025-01">
+  <num>2025-01</num>
+  <heading>Contracting Authority Amendment of 2025</heading>
+  <meta>
+    <effective>2025-07-28</effective>
+    <history>
+      <adopted>2025-07-06</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2025-01.pdf">Bill No. 2025-01</citation>
+    </citations>
+  </meta>
+  <text class="center">An Act related to governmental contracting; amending <cite doc="Upper Mattaponi Tribal Code of Law" path="|4|§2103">Title 4, Section 2103</cite> of the Upper Mattaponi Tribal Code of Laws, which relates to contracting by the Executive Branch; modifying monetary limitations on contracts; and providing an effective date.</text>
+  <text>At a duly called General Meeting of the Upper Mattaponi Tribe Council held this 26th day of July, 2025, the following Law was adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribal Council ("Council") is vested with the legislative power of the Upper Mattaponi Tribe ("Tribe") and has the authority to enact laws pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("<cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 2023 the Council adopted the Executive, Legislative, and Judicial Branches Contracting Authority Act of 2023, which related to the authority of the branches to enter into contracts to fulfill their duties and responsibilities. The Act has been codified as Chapter 21 of Title 4 of the Upper Mattaponi Tribal Code of Laws ("UMTC"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Upper Mattaponi Tribal Code of Law" path="|4|§2103|(D)">Title 4, Section 2103(D)</cite> of the UMTC provides a monetary limit on contracts the Executive Branch may enter into without approval by the Council; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council believes the monetary limit in <cite doc="Upper Mattaponi Tribal Code of Law" path="|4|§2103|(D)">Title 4, Section 2103(D)</cite> of the UMTC is overly restrictive on the Executive's ability to conduct business.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT ENACTED BY THE PEOPLE OF THE UPPER MATTAPONI TRIBE:</conjunction>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>AMENDATORY</heading>
+    <text><cite doc="Upper Mattaponi Tribal Code of Law" path="|4|§2103">Title 4, Section 2103</cite> of the Upper Mattaponi Tribal Code of Laws is amended to read as follows:</text>
+    <text><cite doc="Upper Mattaponi Tribal Code of Law" path="|4|§2103">Section 2103</cite> Executive Branch Authorization to Contract</text>
+    <para>
+      <num>(A)</num>
+      <text>The Chief and executive branch personnel shall not have the power to enter into contracts on behalf of the Tribe unless authorized to do so by law enacted by the Legislature or as otherwise authorized by this chapter.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The contracting process for the Tribe to enter into any contract shall include the following steps in the following order: (1) authorization to contract in a law enacted by the Council including this chapter, or by decision of the Council including Department and program enabling laws; (2) selection of the vendor or contracting party pursuant to procurement policies, and negotiation and execution of the contract by the Chief or an authorized designee; (3) ratification of the contract by the Council, but only when the authorizing law expressly reserves the power to the Council to ratify the contract.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Upon authorization in a law or by this chapter, the Chief, and executive branch personnel and subdivisions authorized by the Chief, shall have the power to select the vendor or contracting party in accordance with applicable procurement laws and policies, negotiate the contract terms with the vendor or contracting party, and enter into a contract with the vendor or contracting party on behalf of the Tribe subject to any limitations or conditions placed on the executive branch in the authorizing law including but not limited to the power of the Council to require ratification of a contract by the Council.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>The Chief and executive branch personnel are hereby authorized to enter into routine contracts that are necessary for the Office of Chairman, a Department, or a program to carry out its duties and responsibilities; provided, that contacts over <s>one hundred thousand dollars ($100,000)</s> <u>seven-hundred fifty thousand dollars ($750,000) </u>shall be subject to ratification by the Council.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Any expenditure of funds by the executive branch of government shall be done in accordance with the available funds appropriated in an approved budget in accordance with the requirements of the Constitution.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <text>This Act shall be effective immediately upon its passage and approval according to process defined in the Constitution</text>
+  </section>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing Act was duly voted upon by the Council on the 26th day of July, 2025, at a General Meeting with a vote of <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the Constitution of the Upper Mattaponi Tribe.</text>
+  </procedural-data>
+  <codify:replace doc="Upper Mattaponi Tribal Code of Law" path="|4|§2103|(D)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§2103|(D)">
+    <para>
+      <num>(D)</num>
+      <text>The Chief and executive branch personnel are hereby authorized to enter into routine contracts that are necessary for the Office of Chairman, a Department, or a program to carry out its duties and responsibilities; provided, that contacts over seven-hundred fifty thousand dollars ($750,000) shall be subject to ratification by the Council.</text>
+    </para>
+  </codify:replace>
+</document>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Budget Res. No. 2025-02">
+  <num>2025-02</num>
+  <heading>FY 2026 Budget Resolution</heading>
+  <meta>
+    <effective>2025-09-29</effective>
+    <history>
+      <adopted>2025-09-07</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2025-02.pdf">Budget Res. No. 2025-02</citation>
+    </citations>
+  </meta>
+  <text class="center">A Budget Resolution of the Upper Mattaponi Tribal Council establishing the Annual Budget of the Tribe for Fiscal Year 2026; providing short title; describing purpose; making findings; adopting a budget; and providing an effective date.</text>
+  <text>At a duly called General Meeting of the Council held this 27<sup>th</sup> day of September, 2025, the following Budget Resolution was adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Upper Mattaponi Tribal Council (the "Council") is vested with the authority to enact Budget Resolutions for the purpose of passing an Annual Budget or Budget Modifications by Article VII, Section 4(c) of the Constitution of the Upper Mattaponi Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Council now finds that it is both necessary and expedient to adopt the Annual Budget for Fiscal Year 2026, ensuring the alignment of expenditures with the Tribe's priorities and financial resources;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE, BE IT RESOLVED:</conjunction>
+      <text/>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>Short Title.</heading>
+    <text>This Budget Resolution shall be known and may be cited as "FY 2026 Budget Resolution"</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of this Budget Resolution is to adopt the Annual Budget for FY 2026, outlining the anticipated revenues and expenditures for the fiscal year, and to ensure the fiscal integrity and proper allocation of resources to meet the needs and objectives of the Tribe.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Findings.</heading>
+    <text>The Council hereby finds and decares as follows:</text>
+    <para>
+      <num>A.</num>
+      <text>The Council is vested with the power to enact Budget Resolutions for the purpose of passing an Annual Budget or Budget Modifications by <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(c)">Article VII, Section 4(c)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Council is vested with the power to raise revenues and appropriate funds for expenditure by <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(b)">Article VII, Section 4(b)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>It is essential for the Council to adopt a budget that reflects the expected revenues and necessary expenditures to fulfill the Tribe's commitments and strategic goals for Fiscal Year 2026.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The proposed Annual Budget for FY 2026 has been prepared in accordance with the financial policies and priorities of the Tribe.</text>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Adoption and Approval.</heading>
+    <text>This Council hereby adopts and approves the Annual Budget for FY 2026, attached hereto.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Effective Date.</heading>
+    <text>The Budget Resolution shall be in force and of effect immediately from and after its passage and approval according to law.</text>
+  </section>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing Budget Resolution was duly voted upon by the Council on the 27<sup>th</sup> day of September, 2025, at a General Meeting with a vote of <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+</document>

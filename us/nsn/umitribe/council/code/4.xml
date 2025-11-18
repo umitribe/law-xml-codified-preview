@@ -853,6 +853,70 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>12</num>
+    <heading>The Planning Office Establishment Act of 2025</heading>
+    <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
+    <section>
+      <num>1200</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as, "The Planning Office Establishment Act of 2025" ("Act").</text>
+      <annotations>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>1201</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to establish a Planning Office to assist the Tribe in preparing and implementing long-range and strategic plans, managing land uses, and developing and submitting grant applications.</text>
+      <annotations>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>1202</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(A)</num>
+        <text>The Council has identified the need to develop and/or update a master plan or strategic plans for both long-term and short-term purposes that will address the goals of the Tribe and assist the leaders of the Tribe and the Departments in fulfilling the needs of the Tribe and its citizens.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A Planning Office is needed to address not only land use and development issues, but also assist the Tribe in preparing and submitting various grant applications for all the Departments and programs within the Tribe.</text>
+      </para>
+      <annotations>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>1203</num>
+      <heading>Planning Office</heading>
+      <para>
+        <num>(A)</num>
+        <text>There is hereby established a Planning Office, which shall be located with the Executive branch of government.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Planning Office shall be responsible for developing overall plans for the Tribe for both long-term and short-term purposes, which address land use and acquisition issues, potential economic development activities, community development needs, infrastructure assessments, and any other topics identified by the Chief or his designee.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The Planning Office shall develop a list of grant opportunities available to the Tribe, and shall assist the Tribe and its Departments with the preparation and submission of grant applications.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The Council hereby authorizes the establishment of the Planning Office, subject to an appropriation of funds in an Annual Budget or Budget Modification for such purpose.</text>
+      </para>
+      <annotations>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.4" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>21</num>
     <heading>The Executive, Legislative, and Judicial Branches Contracting Authority Act</heading>
     <section>
@@ -911,7 +975,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>The Chief and executive branch personnel are hereby authorized to enter into routine contracts that are necessary for the Office of Chairman, a Department, or a program to carry out its duties and responsibilities; provided, that contacts over one hundred thousand dollars ($100,000) shall be subject to ratification by the Council.</text>
+        <text>The Chief and executive branch personnel are hereby authorized to enter into routine contracts that are necessary for the Office of Chairman, a Department, or a program to carry out its duties and responsibilities; provided, that contacts over seven-hundred fifty thousand dollars ($750,000) shall be subject to ratification by the Council.</text>
       </para>
       <para>
         <num>(E)</num>
@@ -919,6 +983,7 @@
       </para>
       <annotations>
         <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.4" type="History"/>
+        <annotation app="2025-07-28" doc="Upper Mattaponi Tribe Bill No. 2025-01" eff="2025-07-28" path="" type="History"/>
       </annotations>
     </section>
     <section>

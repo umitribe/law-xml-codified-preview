@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2025-08" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2025-08</num>
+  <heading>The Planning Office Establishment Act of 2025</heading>
+  <meta>
+    <effective>2025-05-05</effective>
+    <history>
+      <adopted>2025-05-05</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2025-08.pdf">Res. No. 2025-08</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to establish a Planning Office to support the Tribe in long-range and strategic planning, land use management, and the development and submission of grant applications.</text>
+  <text>At a duly called General Meeting of the Upper Mattaponi Tribe Council held this 15th day of May, 2025, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council hereby finds and declares that it is in the best interest of the Tribe to establish a Planning Office to assist the Tribe in preparing and implementing long-range and strategic plans, managing land uses, and developing and submitting grant applications.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "The Planning Office Establishment Act of 2025".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 15th day of May, 2025, at a General Meeting with a vote of  <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
+  </procedural-data>
+  <codify:insert path="4" after="11" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|12">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>12</num>
+      <heading>The Planning Office Establishment Act of 2025</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="4|12"/>
+    <heading>The Planning Office Establishment Act of 2025</heading>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1200"/>
+      <num codify:value="1200">1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as, "The Planning Office Establishment Act of 2025" ("Act").</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1201"/>
+      <num codify:value="1201">1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to establish a Planning Office to assist the Tribe in preparing and implementing long-range and strategic plans, managing land uses, and developing and submitting grant applications.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1202"/>
+      <num codify:value="1202">1.3</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council has identified the need to develop and/or update a master plan or strategic plans for both long-term and short-term purposes that will address the goals of the Tribe and assist the leaders of the Tribe and the Departments in fulfilling the needs of the Tribe and its citizens.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A Planning Office is needed to address not only land use and development issues, but also assist the Tribe in preparing and submitting various grant applications for all the Departments and programs within the Tribe.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1203"/>
+      <num codify:value="1203">1.4</num>
+      <heading>Planning Office</heading>
+      <para>
+        <num>(a)</num>
+        <text>There is hereby established a Planning Office, which shall be located with the Executive branch of government.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Planning Office shall be responsible for developing overall plans for the Tribe for both long-term and short-term purposes, which address land use and acquisition issues, potential economic development activities, community development needs, infrastructure assessments, and any other topics identified by the Chief or his designee.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Planning Office shall develop a list of grant opportunities available to the Tribe, and shall assist the Tribe and its Departments with the preparation and submission of grant applications.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Council hereby authorizes the establishment of the Planning Office, subject to an appropriation of funds in an Annual Budget or Budget Modification for such purpose.</text>
+      </para>
+    </section>
+  </attachment>
+</document>
