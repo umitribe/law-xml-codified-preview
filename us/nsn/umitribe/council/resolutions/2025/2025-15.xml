@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2025-15">
+  <num>2025-15</num>
+  <heading>The Due Diligence Act of 2025</heading>
+  <meta>
+    <effective>2025-11-20</effective>
+    <history>
+      <adopted>2025-11-20</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2025-15.pdf">Res. No. 2025-15</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to establish a formal process for evaluating proposed economic development projects to assess their viability, investment potential, and risks, ensuring informed decision-making and minimizing financial loss for the Tribe.</text>
+  <preamble>At a duly called General Meeting of the Upper Mattaponi Tribe Council held this 20<sup>th</sup> day of November, 2025, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe (the "Tribe") is an Indian Tribe that has existed from time immemorial and is federally recognized on a government-to-government basis by the United States of America; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Constitution of the Upper Mattaponi Tribe (the "Constitution") was adopted to ensure the Tribe's well-being by fostering self-sufficiency, promoting sustainable development, and securing the economic future of the Tribe and its citizens; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Article VI, Section 4(a) of the Constitution vests legislative power in the Council of the Upper Mattaponi Tribe (the "Council") to enact laws and budget resolutions that support these interests; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined that it is in the best interest of the Tribe to identify, promote, and pursue economic development projects; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe has identified the need to establish a process to evaluate potential economic development projects to determine their viability, and their investment and revenue potential, in order to minimize risk and the loss of investment funds.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby enacts the attached law entitled, "The Due Diligence Act of 2025".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 20th day of November, 2025, at a General Meeting with a vote of  ___6___ in favor and ___0___ opposed, __0____ abstaining, and __1____ absent, pursuant to the authority vested in the Council by the Constitution of the Upper Mattaponi Tribe.</text>
+    <text>__________________________________</text>
+    <text>
+      <em>Secretary of the Council or Designee</em>
+    </text>
+  </procedural-data>
+  <attachment id="law">
+    <text class="center">
+      <strong>THE DUE DILIGENCE ACT OF 2025</strong>
+    </text>
+    <section>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text>This enactment shall be known as, the "The Due Diligence Act of 2025" (the "Act").</text>
+    </section>
+    <section>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Act is to establish a formal process for the Tribe to evaluate proposed economic development projects to determine their viability and to reduce risks.</text>
+    </section>
+    <section>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <text>The Council finds that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Council has determined that it is in the best interests of the Tribe to identify, promote, and pursue economic development projects; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribe has identified the need to establish a process to evaluate potential economic development projects to determine their viability, and their investment and revenue potential in order to minimize risk and the loss of investment funds.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.4</num>
+      <heading>Definitions</heading>
+      <text>For the purposes of this Act, the following terms shall have the following meanings:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Economic Development Project" shall mean a new or expanded business venture of the Tribe, or a tribally-owned business, including the acquisition of real property for use by the business, construction, installation, and rehabilitation of fixtures for the improvement of real estate owned, used, or occupied by the tribal business, provided that the expected cost of the project exceeds fifty-thousand dollars ($50,000.00).</text>
+      </para>
+    </section>
+    <section>
+      <num>1.5</num>
+      <heading>Due Diligence</heading>
+      <para>
+        <num>(a)</num>
+        <text>Chief, or his designee, shall conduct a thorough due diligence investigation and evaluation including preparation of a written "Due Diligence Report" analyzing each potential economic development project under consideration by the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Due Diligence Report shall include, but not be limited to, the following:</text>
+        <para>
+          <num>(i)</num>
+          <text>Identification of funding to acquire and complete the project;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A feasibility study analyzing the viability of the businesses;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>A thorough analysis of the audited financial statements and audits of the existing businesses, if any, for last three years;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Projections of revenue for the businesses;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>A schedule of accounts payable and accounts receivable for the business, if any;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Other financial information including assets, inventory, debts, liabilities, strategic plan, credit reports, and any internal controls;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>The existing businesses and their organizational structure, if any, including any organic documents, meeting minutes, resolutions, and annual reports;</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>Any reports provided to the Secretary of State where the business is incorporated, if any, including a Certificate in Good Standing issued by the respective State;</text>
+        </para>
+        <para>
+          <num>(ix)</num>
+          <text>A list of Board of Directors of any existing business, or the proposed structure of a new business;</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>All assets including physical assets, real property, buildings, equipment of the existing business or that will be required for a new business;</text>
+        </para>
+        <para>
+          <num>(xi)</num>
+          <text>All existing leases, contracts, and other legal documents involving the business, if any;</text>
+        </para>
+        <para>
+          <num>(xii)</num>
+          <text>A list of employees and their qualifications, salaries, benefits, personnel policies for an existing business, or such information for a new business;</text>
+        </para>
+        <para>
+          <num>(xiii)</num>
+          <text>Copies of all litigation documents involving the existing business, if any, including any arbitration decisions, during the last five years, and any ongoing litigation or disputes, or threatened litigation;</text>
+        </para>
+        <para>
+          <num>(xiv)</num>
+          <text>Insurance policies in effect and claim history of the business, or the types and estimated costs of insurance for a new business;</text>
+        </para>
+        <para>
+          <num>(xv)</num>
+          <text>Copies of any permits or licenses that are in effect or that will be required;</text>
+        </para>
+        <para>
+          <num>(xvi)</num>
+          <text>Detailed reports on any environmental hazards, liabilities, litigation, and any related Federal, State, or local regulatory notices pertaining to an existing business;</text>
+        </para>
+        <para>
+          <num>(xvii)</num>
+          <text>Status of any tax disputes, audits, settlements, liens, and tax filings for the last five years, if any;</text>
+        </para>
+        <para>
+          <num>(xviii)</num>
+          <text>A list of professional advisors for the business including accounting firms, law firms, consulting firms, and other professionals used by the business, or that will be required;</text>
+        </para>
+        <para>
+          <num>(xix)</num>
+          <text>Any customer information maintained by the business or that may be available for the business;</text>
+        </para>
+        <para>
+          <num>(xx)</num>
+          <text>The identification and estimated costs for realtor services necessary for acquiring the property or initiating the new business; and,</text>
+        </para>
+        <para>
+          <num>(xxi)</num>
+          <text>Any other pertinent information that will assist the Tribe in determining the economic viability of the project.</text>
+        </para>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>Chief, or his designee, shall provide copies of each Due Diligence Report individually to each Representative on the Council within ten (10) business days of the completion of said Report.   Chief shall make available for review, upon request of any Representative on the Council, any data or documents relied upon or considered in preparation of the Due Diligence Report.  Unless the Council, or any Representative thereof, notifies the Chief, or his designee, of any deficiencies in the Due Diligence Report within ten (10) business days of receipt thereof, the Due Diligence Report shall be deemed sufficient under this Act.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No tribal funds may be used in furtherance of an economic development project until the Due Diligence Report for the project has been provided to the Council.  This shall not apply to any funds expended in preparation of the Due Diligence Report, such as funds expended in market or feasibility studies.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

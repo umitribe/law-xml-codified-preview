@@ -3,12 +3,14 @@
   <heading>Resolutions/Bills/Orders</heading>
   <collection name="./resolutions">
     <heading>Resolutions</heading>
+    <xi:include href="./resolutions/2026/index.xml"/>
     <xi:include href="./resolutions/2025/index.xml"/>
     <xi:include href="./resolutions/2024/index.xml"/>
     <xi:include href="./resolutions/2023/index.xml"/>
   </collection>
   <collection name="./budget-resolutions">
     <heading>Budget Resolutions</heading>
+    <xi:include href="./budget-resolutions/2026/index.xml"/>
     <xi:include href="./budget-resolutions/2025/index.xml"/>
     <xi:include href="./budget-resolutions/2024/index.xml"/>
   </collection>

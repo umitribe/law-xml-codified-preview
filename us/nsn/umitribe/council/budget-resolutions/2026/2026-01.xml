@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Budget Res. No. 2026-01">
+  <num>2026-01</num>
+  <heading>FY 2026 Budget Modification #1</heading>
+  <meta>
+    <effective>2026-01-29</effective>
+    <history>
+      <adopted>2026-01-24</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-01.pdf">Budget Res. No. 2026-01</citation>
+    </citations>
+  </meta>
+  <text class="center">A Budget Resolution of the Upper Mattaponi Tribal Council modifying the Annual Budget of the Tribe for Fiscal Year 2026; providing short title; describing purpose; making findings; adopting an amended budget; and providing an effective date.</text>
+  <text>At a duly called General Meeting of the Council held this 24<sup>th</sup> day of January 2026, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS</conjunction>
+      <text>The Upper Mattaponi Tribal Council (the "Council") is vested with the authority to enact Budget Resolutions for the purpose of passing an Annual Budget or Budget Modifications by <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(c)">Article VII, Section 4(c)</cite> of the Constitution of the Upper Mattaponi Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Council now finds that, due to an unanticipated economic opportunity, it is both necessary and expedient to modify the Annual Budget for Fiscal Year 2026;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE, BE IT RESOLVED:</conjunction>
+      <text/>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>Short Title.</heading>
+    <text>This Budget Resolution shall be known and may be cited as "FY 2026 Budget Modification #1"</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of this Budget Resolution is to appropriate additional funds into the FY 2026 annual budget to provide funding for a new unanticipated economic project</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Findings.</heading>
+    <text>The Council hereby finds and declares as follows:</text>
+    <para>
+      <num>A.</num>
+      <text>The Council is vested with the power to enact Budget Resolutions for the purpose of passing an Annual Budget or Budget Modifications by <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(c)">Article VII, Section 4(c)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Council is vested with the power to raise revenues and appropriate funds for expenditure by <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(c)">Article VII, Section 4(c)</cite> of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>It is now necessary and expedient to enact a Budget Modification to account for and appropriate funds for the new unanticipated economic project.</text>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Adoption and Approval.</heading>
+    <text>This Council hereby adopts and approves the Budget Modification attached hereto.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Effective Date.</heading>
+    <text>The Budget Resolution shall be in force and of effect immediately from and after its passage and approval according to law.</text>
+  </section>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>The foregoing Budget Resolution was duly voted upon by the Council on the 24<sup>th</sup> day of January 2026, at a General Meeting with a vote of <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absence, pursuant to the authority vested in the Council by the Constitution of the Upper Mattaponi Tribe.</text>
+  </procedural-data>
+</document>
