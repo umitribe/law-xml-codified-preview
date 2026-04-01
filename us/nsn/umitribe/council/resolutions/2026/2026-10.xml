@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2026-10">
+  <num>2026-10</num>
+  <heading>Authorization of Roland's Place Fee-to-Trust Application</heading>
+  <meta>
+    <effective>2026-03-30</effective>
+    <history>
+      <adopted>2026-03-28</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-10.pdf">Res. No. 2026-10</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to authorize the Chief, or his designee, to submit a Fee-to-Trust Application for the approximate 2.0 acres of fee lands, Parcel ID: 29-44B, known as "Roland's Place".</text>
+  <text>At a duly called General Meeting of the Upper Mattaponi Tribal Council held this 28<sup>th</sup> day of March, 2026, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe ("Tribe") is an Indian Tribe that has existed from time immemorial and is federally recognized on a government-to-government basis by the United States of America under Section 303(a)(1) of the Thomasina E. Jordon Indian Tribes of Virginia Federal Recognition Act of 2017, Public Law No. 115-121 (January 29, 2018) ("Recognition Act"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII">Article VII of the Constitution of the Upper Mattaponi Tribe</cite> ("Constitution"), the Upper Mattaponi Tribal Council ("Council") is vested with the legislative power of the Tribe and has the authority to enact laws pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a) of the Constitution</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 306(a)(2) of the Recognition Act provides that the Secretary of the Department of the Interior ("Interior") may take any land held in fee by the Tribe within King William County, Caroline County, Hanover County, King and Queen County, and New Kent County, Virginia into trust; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Act of June 18, 1934, Ch. 576, § 5 (48 Stat. 984, 25 U.S.C. § 5108), the Indian Reorganization Act, provides that the Secretary of the Interior may take any land held in fee by the Tribe into trust; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe established its Reservation through the fee-to-trust process on April 14, 2022, with such Reservation currently held in trust by the United States, Department of the Interior, Bureau of Indian Affairs; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to the Trust Land Acquisition Statute of 2024 (Title 42, Chapter 3), the Tribe has established its authority and duty to pursue trust status for Tribal lands; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on or about January 30, 2024, the Tribe acquired approximately 2.0 acres of fee lands with improvements thereon, located contiguous to the Tribe's existing Reservation, Parcel ID: 29-44B, commonly referred to as "Roland's Place", and more particularly described as:</text>
+      <text>"All that lot, piece or parcel, of land lying and being in Acquinton Magisterial District, King William County, Virginia, containing two acres (2.0), conveyed as lot and described on a plat dated April 3, 1971 and prepared by Ruffin P. Butler, certified land surveyor, as follows: Beginning at a VDH Monument, located at a right of way of Route 30 corner with Indian View Baptist Church property (cemetery); thence S 47 03' E for 150 feet to rod. Thence S 42 33' W for 580.80 feet to rod; thence N 47 degrees 03' W for 150 feet to rod; thence N 42 33' E for 580.80 feet to VDH Monument, the point of beginning. Reference is made to the above described plat, recorded in the Clerk's Office, Circuit Court of King William County, Virginia, in Plat Book 16, Page 46."</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 306(c) of the Recognition Act provides that lands acquired in trust "shall, upon request of the Tribe, be considered part of the reservation of the Tribe"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Roland's Place has ingress and egress and is adequate for traffic and services; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe plans to continue existing uses of the Roland's Place Property in support of the Tribe's economic development, agricultural, housing, leasing, permitting, or similar purposes; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe is applying to the Eastern Regional Office of the Bureau of Indian Affairs to request transfer of fee simple title to the United States in Trust for the Upper Mattaponi Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe believes that acquiring tribal lands furthers the pursuit of Tribal Self Determination and allows future generations of tribal leaders to have flexibility to use the land for health, welfare, and sovereignty of the Upper Mattaponi Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the United States government requires authorization for tribal officials to execute all relevant documents pertaining to a fee to trust acquisition.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Upper Mattaponi Tribe hereby requests that the United States Department of the Interior, Bureau of Indian Affairs acquire Roland's Place as described herein in trust for the Upper Mattaponi Tribe under the legal authority of Section 306(a)(2) of the Recognition Act, the Act of June 18, 1934, Ch. 576, § 5 (48 Stat. 984, 25 U.S.C. § 5108), the Indian Reorganization Act, and the 25 C.F.R. Part 151 Regulations; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Upper Mattaponi Tribe hereby requests in order to clarify Roland's Place status, the United States Department of the Interior, Bureau of Indian Affairs proclaim Roland's Place as described herein as part of the Tribe's Reservation under the legal authority of Section 306(c) of the Recognition Act, and the Act of June 18, 1934, Ch. 576, § 7 (48 Stat. 984, 25 U.S.C. § 5110), the Indian Reorganization Act; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED</conjunction>
+      <text>that the Upper Mattaponi Tribe hereby authorizes the Chief of the Upper Mattaponi Tribe to execute documents relevant to the Upper Mattaponi Tribe's fee to trust application for Roland's Place.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 28<sup>th</sup> day of March 2026, at a General Meeting with a vote of <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+</document>

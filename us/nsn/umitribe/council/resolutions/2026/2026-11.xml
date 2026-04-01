@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2026-11">
+  <num>2026-11</num>
+  <heading>The Upper Mattaponi Cannabis Regulatory Act</heading>
+  <meta>
+    <effective>2026-03-30</effective>
+    <history>
+      <adopted>2026-03-28</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-11.pdf">Res. No. 2026-11</citation>
+    </citations>
+  </meta>
+  <text class="center">An Act to establish the Upper Mattaponi Cannabis Control Commission to regulate the cultivation, production, distribution, and sale of cannabis within the Tribe's jurisdiction and to carry out powers and duties necessary to protect the Tribe's health, safety, and economic interests.</text>
+  <text>At a duly called General Meeting of the Upper Mattaponi Tribal Council held this 28<sup>th</sup> day of March, 2026, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe (the "Tribe") is organized under a tribal constitution, dated July 22, 2023 (the "Constitution"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)|(h)">Article VII, Section 4(d)(h) of the Constitution</cite>, the Council is the governing body of the Tribe with the authority to establish regulatory commissions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined that it is in the best interests of the Tribe to adopt the Upper Mattaponi Cannabis Regulatory Act to provide for the regulation of the cultivation, production, distribution, and sale of cannabis within the Tribe's jurisdiction;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Legislature hereby adopts the Upper Mattaponi Cannabis Regulatory Act to be codified into Title 28 of the Upper Mattaponi Tribal Code of Law and authorizes the implementation and enforcement of its provisions, together with any powers, duties, rights, and functions as described therein or as may hereafter be provided by law.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 28<sup>th</sup> day of March 2026, at a General Meeting with a vote of <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+</document>
