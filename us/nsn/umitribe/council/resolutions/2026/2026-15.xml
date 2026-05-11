@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2026-15">
+  <num>2026-15</num>
+  <heading>Authorization of [Redacted] Acquisition and Financing</heading>
+  <meta>
+    <effective>2026-04-27</effective>
+    <history>
+      <adopted>2026-04-25</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-15.pdf">Res. No. 2026-15</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to approve the acquisition of [Redacted] by UMIT Technologies, authorize financing with [Redacted], and provide a limited<br/>waiver of sovereign immunity for purposes of such financing.</text>
+  <preamble>At a duly called General Meeting the Upper Mattaponi Tribal Council held this 25<sup>th</sup> day of April 2026, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe ("Tribe") is an Indian Tribe that has existed from time immemorial and is federally recognized on a government-to-government basis by the United States of America; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe has the authority, pursuant to the limitations of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> ("Tribal Constitution") and laws, to enter into contractual agreements and to waive its sovereign immunity for purposes thereof; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to Article XIII, Section 1 of the Tribal Constitution, only the Upper Mattaponi Tribal Council ("Tribal Council") and Chief may authorize a waiver of the Tribe's sovereign immunity, and any such waiver must be specific, limited in scope and duration, and in writing; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Upper Mattaponi Indian Tribe Technologies, LLC, an Upper Mattaponi Tribe limited liability company ("UMIT Technologies"), a wholly owned enterprise of the Tribe, has conducted due diligence regarding the proposed acquisition of [Redacted], as reflected in the Due Diligence Report prepared pursuant to Tribal law, including analysis of financial condition, contracts, assets, liabilities, and operational viability;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed transaction contemplates the acquisition of [Redacted] for an estimated purchase price of approximately [Redacted], subject to final negotiation and definitive agreements;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council finds that the acquisition of [Redacted] is consistent with the Tribe's economic development goals, including expansion of technology, cybersecurity, and government services capabilities, and is in the best interests of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to finance a portion of the acquisition, the Tribe and/or its enterprise intends to enter into financing arrangements with [Redacted] ("Bank"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Bank requires, as a condition of such financing, a limited waiver of sovereign immunity for the purpose of enforcing the Tribe's obligations under the financing documents; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council has reviewed the proposed structure of the transaction and financing and finds that entering into such agreements and granting a limited waiver of sovereign immunity as set forth herein is necessary, reasonable, and in the best interests of the Tribe;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Upper Mattaponi Tribal Council hereby approves and authorizes the acquisition of [Redacted] by UMIT Technologies, substantially in the form presented to the Tribal Council, provided that UMIT Technologies and the Executive Branch comply with the terms of the Tribe's Due Diligence Act of 2025, Resolution 2025-15, prior to the expenditure of any tribal funds in furtherance of the acquisition of [Redacted];</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Chief of the Upper Mattaponi Tribe, or their designee, is hereby authorized to negotiate, execute, and deliver any and all agreements, instruments, certifications, and documents necessary or convenient to:</text>
+      <para>
+        <num>a)</num>
+        <text>consummate the acquisition of [Redacted]; and</text>
+      </para>
+      <para>
+        <num>b)</num>
+        <text>obtain financing from Bank on behalf of UMIT Technologies, including the execution by the Tribe and its subsidiary UMIT Services, LLC, an Upper Mattaponi Tribe limited liability company ("UMIT Services"), of any guaranty or related credit support required in connection therewith;</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that, solely for the purpose of obtaining financing from Bank for UMIT Technologies and enforcing the Tribe's and UMIT Services' obligations under any guaranty or related credit support provided in connection therewith, the Tribe hereby grants a limited waiver of its sovereign immunity.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Tribal Council hereby waives the sovereign immunity of the Tribe and its subsidiaries UMIT Services and UMIT Technologies solely with respect to the proposed acquisition loan in an amount not to exceed [Redacted] from Bank to UMIT Technologies and all documents and transactions in connection therewith (the "Loan"), including, but not limited to, UMIT Technologies' promissory note in the amount of the Loan and unconditional guaranties of the Loan from each of the Tribe and UMIT Services in favor of Bank (collectively, the "Loan Transaction"), and agrees that all documents evidencing the Loan Transaction shall be governed by the laws of the Commonwealth of Virginia, with the Tribal Council hereby consenting to the jurisdiction of the courts of any city or county in the Commonwealth of Virginia and the federal courts of the Eastern District of Virginia, and further agrees that the Chief of the Upper Mattaponi Tribe, as the authorized representative of the Tribal Government, the Tribe, UMIT Technologies and UMIT Services, is hereby authorized to sign any and all documents relating to the Loan Transaction and the waiver of sovereign immunity for the Tribe, UMIT Technologies and UMIT Services on behalf of the Tribal Council, the Tribe, UMIT Technologies and UMIT Services, such authority being granted solely for the Loan Transaction and all documents executed or to be executed in connection therewith.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the waiver of sovereign immunity granted herein, including the provisions set forth above, is subject to the following express limitations:</text>
+      <para>
+        <num>1.</num>
+        <text>The waiver is granted solely to Bank and shall not inure to the benefit of any other person or entity, nor be transferable or assignable;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The waiver applies only to claims, actions, or proceedings arising directly under the Loan Transaction, and documents executed or to be executed in connection therewith, entered into with Bank and the Tribe's and UMIT Services' guaranty or related credit support obligations;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The waiver shall be limited to the duration of the Loan Transaction, including any period necessary to enforce obligations arising thereunder;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The waiver does not extend to any officer, employee, agent, or representative of the Tribe, and no personal liability is created thereby;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Except as expressly provided herein, all sovereign immunity of the Tribe is hereby expressly reserved.</text>
+      </para>
+    </recital>
+    <recital>
+      <para>
+        <conjunction>BE IT FINALLY RESOLVED</conjunction>
+        <text>that the Chief of the Upper Mattaponi Tribe is authorized to execute a Tribal Waiver and Consent and any related documents consistent with the limitations set forth herein, and that all prior actions taken by Tribal leadership in furtherance of the [Redacted] acquisition and related financing are hereby ratified and approved.</text>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data proof="needed">
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Resolution was duly voted upon by the Upper Mattaponi Tribal Council on the 25<sup>th</sup> day of April 2026, at a General Meeting with a vote of  7 in favor and 0 opposed, 0 abstaining, and 0 absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+</document>

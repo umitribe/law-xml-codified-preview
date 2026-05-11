@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2026-13" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2026-13</num>
+  <heading>Commercial Leasing Law for Tribal Uses</heading>
+  <meta>
+    <effective>2026-04-27</effective>
+    <history>
+      <adopted>2026-04-25</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-13.pdf">Res. No. 2026-13</citation>
+    </citations>
+  </meta>
+  <text class="center">A Law to authorize the Chief or their designee to execute certain lease agreements and<br/>to provide for a limited waiver of sovereign immunity.</text>
+  <preamble class="center">At a duly called General Meeting of the Upper Mattaponi Tribal Council held this 25<sup>th</sup> day of April 2026, the following law was adopted by a vote of the Council as reflected herein:</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe (the "Tribe") is an Indian Tribe that has existed from time immemorial and is federally recognized on a government-to-government basis by the United States of America; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe has the authority, pursuant to the limitations of its Constitution (the "Constitution") and laws, to enter into contractual agreements, to buy, sell, and lease land, and among other things, to waive its sovereign immunity for purposes thereof; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>through its leadership, the Tribe wishes from time to time to lease property for Tribal uses; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the leadership of the Tribe has determined that leasing property for Tribal uses provides a substantial benefit or advantage to the Tribe, as it aligns with the Tribe's goals; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>entering into Lease Agreements for property requires the execution of the Contract and various agreements, certifications, statements, affidavits, and other similar documents, which may be necessary and convenient; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the lease of property often requires a limited waiver of sovereign immunity and the applicability of the laws of other jurisdictions to consummate the Agreements; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Constitution provides, "Only the Council and Chief may authorize a waiver of Sovereign Immunity by law enacted in accordance with the Legislative Process.  Any authorization by the Council to waive Sovereign Immunity shall be specific, for a limited scope and duration, and in writing."  See, Constitution, Article XIII, Section 1.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the following Law is adopted and is to be codified in Title 42 of the Upper Mattaponi Code of Laws:</text>
+    </recital>
+  </recitals>
+  <codify:insert codify:expire="2028-10-01" codify:path="42" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|5">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>5</num>
+      <heading>Upper Mattaponi Leasing Law</heading>
+    </container>
+  </codify:insert>
+  <section codify:expire="2028-10-01">
+    <codify:insert codify:path="42|5" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§501"/>
+    <num codify:value="501">1</num>
+    <text>This law shall be known as the "Upper Mattaponi Leasing Law."</text>
+  </section>
+  <section codify:expire="2028-10-01">
+    <codify:insert codify:path="42|5" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§502"/>
+    <num codify:value="502">2</num>
+    <text>The Chief of the Tribe, or their designee, may execute lease agreements for commercial real estate containing a limited waiver of sovereign immunity, subject to the following limitations or other requirements:</text>
+    <para>
+      <num>1.</num>
+      <text>The lease shall be necessary to provide the space needed to pursue the operations of the Upper Mattaponi Tribe.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>The primary term of the lease shall not exceed five (5) years.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>The rental rate of the lease shall be not more than the average prevailing rental rate of three parcels of similarly situated commercial real estate.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>The lease agreement may contain a waiver of the Upper Mattaponi Tribe's sovereign immunity from suit, provided that such waiver is limited expressly by the following language which shall be included <em>verbatim</em> in any lease agreement:</text>
+      <para>
+        <num>(a)</num>
+        <text>The limited waiver of sovereign immunity is limited to any amounts due under the lease, if any, and does not allow for the imposition of any attorney fees, case costs or fines, charges, payments, or demands of any kind in excess of the amount due under the lease; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Nothing in the limited waiver of sovereign immunity in any way waives the immunity from suit of any officer, director, or agent of the Upper Mattaponi Tribe; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in this limited waiver of sovereign immunity permits any claim that jurisdiction can be established over the Upper Mattaponi Tribe or any tribal asset based upon suit against any officer, director, or agent of the Upper Mattaponi Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>The Tribe consents to the jurisdiction of the Courts of Virginia or the Courts of the Upper Mattaponi Tribe for the sole and limited purposes of the enforcement of a commercial lease executed by the Chief or their designee under the "Upper Mattaponi Leasing Law," and for no other purpose.</text>
+    </para>
+  </section>
+  <codify:insert codify:expire="2028-10-01" codify:path="42|5" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§503">
+    <section>
+      <num codify:value="503">3</num>
+      <text>The inclusion of the exact language set forth in Section 2, parts D and E above, in the commercial lease shall be mandatory before a waiver of sovereign immunity under this Act is effective. If a commercial lease executed by the Chief fails to contain such language, any purported waiver of immunity in said lease shall be null and void even if there is only a slight difference in wording.  The requirements of this Section shall be construed strictly as to preclude any waiver of sovereign immunity that does not contain the exact language, written exactly as required by this Act.</text>
+    </section>
+  </codify:insert>
+  <section>
+    <num>3</num>
+    <text>The inclusion of the exact language set forth in Section 2, parts 4 and 5 above, in the commercial lease shall be mandatory before a waiver of sovereign immunity under this Act is effective. If a commercial lease executed by the Chief fails to contain such language, any purported waiver of immunity in said lease shall be null and void even if there is only a slight difference in wording.  The requirements of this Section shall be construed strictly as to preclude any waiver of sovereign immunity that does not contain the exact language, written exactly as required by this Act.</text>
+  </section>
+  <section codify:expire="2028-10-01">
+    <codify:insert codify:path="42|5" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§504"/>
+    <num codify:value="504">4</num>
+    <text>If a waiver of sovereign immunity is held to be ineffective or unenforceable for any reason, including because it was not repeated exactly verbatim from this law, the remaining provisions of the lease shall nonetheless survive, and the lease shall be effective even if the waiver of sovereign immunity is not effective.</text>
+  </section>
+  <section codify:expire="2028-10-01">
+    <codify:insert codify:path="42|5" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="42|§505"/>
+    <num codify:value="505">5</num>
+    <text>This law shall expire and be of no force or effect on October 1, 2028, unless renewed on or before that date by law. Any waiver of sovereign immunity properly granted under this law before the law expires shall survive the expiration of this law, should such expiration occur.</text>
+  </section>
+  <procedural-data proof="needed">
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 25<sup>th</sup> day of April 2026, at a General Meeting with a vote of  7 in favor and 0 opposed, 0 abstaining, and 0 absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+</document>

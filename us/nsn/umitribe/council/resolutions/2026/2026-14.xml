@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2026-14">
+  <num>2026-14</num>
+  <heading>Limited Waiver of Sovereign Immunity to [Redacted]</heading>
+  <meta>
+    <effective>2026-04-27</effective>
+    <history>
+      <adopted>2026-04-25</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-14.pdf">Res. No. 2026-14</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to authorize financing with [Redacted] and provide a limited<br/>waiver of sovereign immunity for purposes of such financing.</text>
+  <preamble>At a duly called General Meeting of the Upper Mattaponi Tribe Council held this 25<sup>th</sup> day of April 2026, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe (the "Tribe") is an Indian Tribe that has existed from time immemorial and is federally recognized on a government-to-government basis by the United States of America; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite> (the "Constitution") was adopted to ensure the Tribe's well-being by fostering self-sufficiency, promoting sustainable development, and securing the economic future of the Tribe and its citizens; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a) of the Constitution</cite> vests legislative power in the Council of the Upper Mattaponi Tribe (the "Council") to enact laws and budget resolutions that support these interests; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe is planning for certain construction projects and has appropriated funds and is in the process of negotiating a loan with [Redacted] as lender for that purpose, Budget Resolution No. 2026-01; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as a condition of the aforesaid loan, [Redacted] is seeking a limited waiver of the Tribe's sovereign immunity from suit; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Constitution of the Upper Mattaponi Tribe" path="XIII|1">Article XIII, Section 1 of the Constitution</cite> provides that "[o]nly the Council and Chief may authorize a waiver of Sovereign Immunity by law enacted in accordance with the Legislative Process. Any authorization by the Council to waive Sovereign Immunity shall be specific, for a limited scope and duration, and in writing."</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Chief of the Upper Mattaponi Tribe, or their designee, is hereby authorized to negotiate, execute and deliver any and all agreements, instruments, certifications, and documents necessary or convenient to obtain financing from [Redacted].</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Tribe hereby waives the sovereign immunity of the Tribe, solely with respect to: (i) the proposed non-revolving cash-secured line of credit in an amount not to exceed [Redacted] from [Redacted] to the Tribe and all documents and transactions in connection therewith (the "Secured Line of Credit"); and (ii) the proposed non-revolving unsecured line of credit in an amount not to exceed [Redacted] from [Redacted] to the Tribe and all documents and transactions in connection therewith (the "Unsecured Line of Credit"; the Secured Line of Credit and the Unsecured Line of Credit are, collectively, the "Loan") including, but not limited to, the Tribe's promissory note in the amount of the Secured Line of Credit, the Tribe's promissory note in the amount of the Unsecured Line of Credit and the Tribe's pledge of a [Redacted] to secure the Secured Line of Credit (collectively, the "Loan Transactions").</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Tribe agrees that all documents evidencing the Loan Transactions shall be governed by the laws of the Commonwealth of Virginia, and consents to the jurisdiction of the courts of any city or county in the Commonwealth of Virginia and the federal courts of the Eastern District of Virginia.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Tribe authorizes the Chief of the Tribe, to act as the authorized representative of the Tribal Government and the Tribe relating to the Loan Transactions, including granting authority to sign any and all documents relating to the Loan Transactions and the waiver of sovereign immunity for the Tribe on behalf of the Tribe. This authority is granted to the Chief or their designee solely for the Loan Transactions and all documents executed or to be executed in connection therewith.</text>
+    </recital>
+  </recitals>
+  <procedural-data proof="needed">
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 25<sup>th</sup>  day of April 2026, at a General Meeting with a vote of  7 in favor and 0 opposed, 0 abstaining, and 0 absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+</document>
