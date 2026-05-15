@@ -54,8 +54,12 @@
   </procedural-data>
   <attachment id="law">
     <codified:at path="44|1"/>
-    <section><codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§100"/>&gt;
-      <num codify:value="100">1.1</num><heading>Short Title</heading><text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">This enactment</code-cite> shall be known as the Fiscal Procedures Act of 2023.</text></section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§100"/>
+      <num codify:value="100">1.1</num>
+      <heading>Short Title</heading>
+      <text><code-cite path="|attachments|law" doc="Upper Mattaponi Tribe Res. No. 2023-08">This enactment</code-cite> shall be known as the Fiscal Procedures Act of 2023.</text>
+    </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="44|§101"/>
       <num codify:value="101">1.2</num>
