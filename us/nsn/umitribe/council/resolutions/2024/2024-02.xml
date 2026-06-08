@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2024-02">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2024-02" codify:doc="Upper Mattaponi Tribal Code of Law">
   <num>2024-02</num>
   <heading>Authority to Enter Into Exclusivity Agreements for Economic Development</heading>
   <meta>
@@ -45,18 +45,28 @@
     <text>The foregoing resolution was duly voted upon by the Council on <u>March 13</u>, 2024, at a Regular Meeting with a vote of <u>5</u> in favor and <u>1</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Tribe</cite>.</text>
   </procedural-data>
   <attachment id="law">
+    <codify:insert codify:path="1" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|3">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>3</num>
+        <heading>Authority to Enter Into Exclusivity Agreements for Economic Development</heading>
+      </container>
+    </codify:insert>
     <section>
-      <num>1.1</num>
+      <codify:insert codify:path="1|3" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|§301"/>
+      <num codify:value="301">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "AUTHORITY TO ENTER INTO EXCLUSIVITY AGREEMENTS FOR ECONOMIC DEVELOPMENT" ("Act").</text>
     </section>
     <section>
-      <num>1.2</num>
+      <codify:insert codify:path="1|3" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|§302"/>
+      <num codify:value="302">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to authorize the Chief to enter into exclusivity agreements for economic development purposes, and to authorize limited waivers of sovereign immunity for the sole purpose of enforcing such agreements.</text>
     </section>
     <section>
-      <num>1.3</num>
+      <codify:insert codify:path="1|3" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|§303"/>
+      <num codify:value="303">1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds that:</text>
       <para>
@@ -69,7 +79,8 @@
       </para>
     </section>
     <section>
-      <num>1.4</num>
+      <codify:insert codify:path="1|3" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|§304"/>
+      <num codify:value="304">1.4</num>
       <heading>Authorizations</heading>
       <para>
         <num>(a)</num>

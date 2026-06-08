@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Bill No. 2026-01" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2026-01</num>
+  <heading>Grant Authorization Amendment Act of 2026</heading>
+  <meta>
+    <effective>2026-05-22</effective>
+    <history>
+      <adopted>2026-05-21</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-01.pdf">Res. No. 2026-01</citation>
+    </citations>
+  </meta>
+  <text>An Act related to the authority of the Chief or their designee to apply for and receive grant funding; amending Title 1, Section 203 of the Upper Mattaponi Tribal Code of Law, which relates to the Chief's or their designee's authority to negotiate and enter into Self-Determination 638-Contracts; expanding authority for the Chief or their designee to clarify that the Executive Branch may apply for, and receive, grant funding on behalf of the Tribe; and providing an effective date.</text>
+  <preamble>At a duly called General Meeting of the Upper Mattaponi Tribe Council held this 21<sup>st</sup> day of May, 2026, the following Law was adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribal Council ("Council") is vested with the legislative power of the Upper Mattaponi Tribe ("Tribe") and has the authority to enact laws pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a) of the Constitution of the Upper Mattaponi Tribe</cite> ("Constitution"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 2023 the Council adopted the Self-Determination 638-Contracts Act of 2023, which authorized the Chief of the Tribe to negotiate and execute Self-Determination 638-Contracts on behalf of the Tribe. The Act has been codified as Chapter 2 of Title 1 of the Upper Mattaponi Tribal Code of Law ("UMTC"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Title 1, Section 203 of the UMTC authorizes the Chief of the Tribe to negotiate and execute Self-Determination 638-Contracts with the federal government and the BIA on behalf of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in order to provide clarity regarding the Executive Branch's authority to apply for and enter into grant funding opportunities, the Council believes Title 1, Section 203 of the UMTC should be amended.</text>
+      <text>
+        <strong>BE IT ENACTED BY THE PEOPLE OF THE UPPER MATTAPONI TRIBE:</strong>
+      </text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>AMENDATORY	Title 1, Section 203 of the Upper Mattaponi Tribal Code of Law is amended to read as follows:</text>
+    <text>203 Authorization to Enter Into 638-Contracts</text>
+    <text>The Council hereby authorizes and directs the Chief <u>or their designee</u> to negotiate and execute 638-Contracts<u>, and apply for and receive grant funds,</u> with the federal government and the BIA on behalf of the Tribe. The <s>Chairman</s> Chief <u>or their designee</u> shall be authorized to execute all necessary documents<u> or contracts</u> necessary to effectuate the intent of this chapter.</text>
+    <codify:replace codify:path="|1|2|203" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="1|§203">
+      <section>
+        <num>203</num>
+        <heading>Authorization to Enter Into 638-Contracts</heading>
+        <text>The Council hereby authorizes and directs the Chief or their designee to negotiate and execute 638-Contracts, and apply for and receive grant funds, with the federal government and the BIA on behalf of the Tribe. The Chief or their designee shall be authorized to execute all necessary documents or contracts necessary to effectuate the intent of this chapter.</text>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>2</num>
+    <text>This act shall be effective immediately upon its passage and approval according to the process defined in the Constitution.</text>
+  </section>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Act was duly voted upon by the Upper Mattaponi Tribal Council on the 21<sup>st</sup> day of May, 2026, at a General Meeting with a vote of <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+</document>

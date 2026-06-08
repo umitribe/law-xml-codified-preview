@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2026-16" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2026-16</num>
+  <heading>Authorization and Approval of UMT Holdings, Inc. Section 17 Charter</heading>
+  <meta>
+    <effective>2026-05-22</effective>
+    <history>
+      <adopted>2026-05-21</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-16.pdf">Res. No. 2026-16</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to authorize the formation of UMT Holdings, Inc. as a wholly owned entity of the Upper Mattaponi Tribe pursuant to Section 17 of the Indian Reorganization Act, approving the proposed Charter for said entity, and authorizing the Chief or their designee of the Upper Mattaponi Tribe to execute and deliver any necessary documents for the formation of UMT Holdings, Inc. to the Secretary of the Interior.</text>
+  <preamble>At a duly called General Meeting the Upper Mattaponi Tribal Council held this 21<sup>st</sup> day of May, 2026, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe ("Tribe") is an Indian Tribe that has existed from time immemorial and is federally recognized on a government-to-government basis by the United States of America; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="XVI">Article XVI of the Constitution</cite>, "[t]he Tribe shall conduct business and economic development activities through a business entity or entities created by the Council by law;"</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Congress of the United States has enacted the Indian Reorganization Act (the "Act"), 48 Stat. 984, which, in Section 17 thereof, authorizes the Secretary of the Interior to issue a federal corporate charter to an Indian Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe finds that the formation of UMT Holdings (the "Corporation") pursuant to a Section 17 Charter will serve the best interests of the Tribe, its citizens, and its enterprises, and will protect the political integrity, economic security and health and welfare of the Tribe and its citizens.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Upper Mattaponi Tribal Council hereby approves and authorizes the attached Charter forming the entity "UMT Holdings, Inc." pursuant to Section 17 of the Indian Reorganization Act;</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the Chief of the Upper Mattaponi Tribe, or their designee, is hereby authorized to execute and deliver any documents necessary for the formation of "UMT Holdings, Inc." pursuant to the attached Charter and Section 17 of the Indian Reorganization Act, including petitioning the Secretary of the Interior for issuance of the attached Charter.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Resolution was duly voted upon by the Upper Mattaponi Tribal Council on the 21<sup>st</sup> day of May, 2026, at a General Meeting with a vote of <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+</document>

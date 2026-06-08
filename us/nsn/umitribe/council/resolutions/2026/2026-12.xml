@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Res. No. 2026-12" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2026-12</num>
+  <heading>The Upper Mattaponi Minimum Commission Standards Act</heading>
+  <meta>
+    <effective>2026-05-22</effective>
+    <history>
+      <adopted>2026-05-21</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-12.pdf">Res. No. 2026-12</citation>
+    </citations>
+  </meta>
+  <text class="center">A Resolution to establish and adopt the Minimum Commission Standards Act to ensure consistent governance, accountability, and operational standards for commissions, including provisions related to organization, meetings, and financial management.</text>
+  <preamble>At a duly called General Meeting of the Upper Mattaponi Tribal Council held this 21<sup>st</sup>  day of May, 2026, the following Resolution and Law were adopted.</preamble>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribe (the "Tribe") is organized under a tribal constitution, dated July 22, 2023 (the "Constitution"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)|(h)">Article VII, Section 4(d)(h) of the Constitution</cite>, the Council is the governing body of the Tribe with the authority to establish regulatory commissions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this Code shall be known as the "Minimum Commission Standards Act"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council has determined that it is in the best interests of the Tribe to adopt a Minimum Commission Standards Act to provide general gap-fill provisions governing Commissions created pursuant to Upper Mattaponi Law. Nothing herein shall restrict the Council's authority to enact procedures and provisions unique to specific Commissions.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>that the Council hereby adopts the Minimum Commission Standards Act to be codified as Chapter 20 of Title 4 of the Upper Mattaponi Tribal Code of Law and authorizes the implementation and enforcement of its provisions, together with any powers, duties, rights, and functions as described therein or as may hereafter be provided by law.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Resolution was duly voted upon by the Council on the 21<sup>st</sup> day of May, 2026, at a General Meeting with a vote of <u>7</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>0</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+  <attachment id="law">
+    <container>
+      <codify:insert path="4" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§2001|annos"/>
+      <prefix codify:value="Chapter">CHAPTER</prefix>
+      <num>20</num>
+      <heading>MINIMUM COMMISSION STANDARDS ACT</heading>
+      <subheading>SUBCHAPTER A: GENERAL PROVISIONS</subheading>
+      <section>
+        <num>2001</num>
+        <heading>Title.</heading>
+        <text>This law shall be known as the "Minimum Commission Standards Act."</text>
+      </section>
+      <section>
+        <num>2002</num>
+        <heading>Authority.</heading>
+        <text>This Act is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which empowers the Council to "create departments, boards, and commissions located in the Executive branch of government by law," Art. VII, Sec. 4(d).</text>
+      </section>
+      <section>
+        <num>2003</num>
+        <heading>Purpose.</heading>
+        <text>This Act is enacted to provide general gap-fill provisions governing Commissions created pursuant to Upper Mattaponi Law.  Nothing herein shall restrict the Council's authority to enact procedures and provisions unique to specific Commissions.</text>
+      </section>
+      <section>
+        <num>2004</num>
+        <heading>Effective Date.</heading>
+        <text>The provisions of this Act shall be effective after ratification by the Council, and upon the date signed by the Chief of the Upper Mattaponi Tribe.</text>
+      </section>
+      <section>
+        <num>2005</num>
+        <heading>Interpretation.</heading>
+        <text>The provisions of this Act shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of this Act, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court shall construe it consistently with applicable textual tribal law. In the absence of applicable tribal customary law or textual tribal law, the Court may consult applicable federal law and state law if it may be helpful in establishing Upper Mattaponi law.</text>
+      </section>
+      <section>
+        <num>2006</num>
+        <heading>Applicability.</heading>
+        <text>The provisions of this Act apply only to the extent that they do not conflict with any other provision of law.  To the extent that a provision of this Act conflicts with a Commission's Organic Act, the Organic Act takes precedence on that subject matter.</text>
+      </section>
+      <section>
+        <num>2007</num>
+        <text>Severability and Non-Liability.</text>
+        <text>If any section, provision, or portion of this Act is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Act shall not be affected thereby.</text>
+      </section>
+      <section>
+        <num>2008</num>
+        <heading>General Definitions.</heading>
+        <text>Any term not defined in this Section shall be given its ordinary meaning. The following terms, wherever used in this Act, shall be construed to apply as follows, except where the context indicates otherwise:</text>
+        <para>
+          <num>(a)</num>
+          <text><strong>"Commission"</strong> means any governmental entity created by Upper Mattaponi law to conduct regulatory matters on behalf of the Upper Mattaponi Tribe, regardless of whether the entity is identified as a department, commission, agency, board, etc.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><strong>"Organic Act"</strong> means the Act of the Council that created the subject Commission.</text>
+        </para>
+      </section>
+      <subheading>SUBCHAPTER B: ORGANIZATION OF COMMISSIONS</subheading>
+      <section>
+        <num>2011</num>
+        <heading>Size of Commissions.</heading>
+        <text>Unless otherwise provided by law, each Commission shall be comprised of a minimum of three (3) and no more than five (5) Commissioners with a majority of Commissioners being a citizen of the Upper Mattaponi Tribe.</text>
+      </section>
+      <section>
+        <num>2012</num>
+        <heading>Qualifications of Commissioners.</heading>
+        <text>To be eligible to serve as a Commissioner, an individual:</text>
+        <para>
+          <num>(a)</num>
+          <text>must be eighteen (18) years of age;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>shall not have an interest in any company or business that would be subject to regulation by the Commission; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>shall not be a member of the Council or a Constitutional Officer of the Upper Mattaponi Tribe.</text>
+        </para>
+      </section>
+      <section>
+        <num>2013</num>
+        <heading>Appointment of Commissioners.</heading>
+        <text>Commissioners shall be appointed by the Chief of the Upper Mattaponi Tribe to serve in two (2) year terms.  A Commissioner's term shall not begin until their appointment is confirmed by a majority vote of the Council.</text>
+      </section>
+      <section>
+        <num>2014</num>
+        <heading>Removal of Commissioners by Chief.</heading>
+        <text>Unless otherwise provided by law, or any contractual agreements between a Commissioner and the Chief, any Commissioner may be removed by the Chief at their discretion.</text>
+      </section>
+      <section>
+        <num>2015</num>
+        <heading>Removal of Commissioners by Council.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Grounds for Removal.</heading>
+          <text>Unless otherwise provided by law, the Council may remove a Commissioner from their position of Commissioner on the following grounds:</text>
+          <para>
+            <num>(1)</num>
+            <text>Malfeasance, misfeasance, or nonfeasance of office;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>conviction by any court of any crime involving moral turpitude; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>any other grounds as established by Upper Mattaponi Law.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Process.</heading>
+          <text>Unless a different law provides otherwise, the process for the removal of a Commissioner by the Council shall be as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>the Council may recommend removal of a Commissioner from their position as Commissioner through passage of an official resolution setting forth the grounds for removal;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the Council, after passage of the resolution outlined in subsection (a) of this Section, shall set a hearing date to consider the removal of the Commissioner and notify the alleged Commissioner in writing by certified mail, return receipt requested.  The hearing shall occur no more than ninety (90) days after passage of the resolution outlined in subsection (a) of this Section, and the hearing notice shall occur no less than thirty (30) days before the hearing date;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>at the hearing, the alleged Commissioner shall have the right to protest the removal and defend the allegations against them, including the right to cross-examine any witnesses who testify against them, and shall have the right to be represented by an attorney or other advocate licensed to practice law before the Upper Mattaponi Tribe's courts; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>after the presentation of evidence at the hearing, the Council may remove the Commissioner from their position as Commissioner upon a majority vote.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>2016</num>
+        <heading>Officers of Commissions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>General.</heading>
+          <para>
+            <num>(1)</num>
+            <text>Each Commission shall elect officers by majority vote: a Chairman, Vice-Chairman, and Secretary, to serve as Officers of the Commission.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Nothing in this section limits the ability of a Commission to establish additional Officers for the Commission.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>No Commissioner may hold more than one Office in a Commission.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Each Officer's term shall expire on the first day of January of the year following their election.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Any Officer may resign at any time without resigning from their position as a Commissioner.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>A Commissioner may be removed from their role as an Officer pursuant to a majority vote of the Commissioners.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Any Officer vacancy shall be replaced by majority vote of the Commission.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Duties of Officers.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>Annual Report.</heading>
+            <text>The Officers of the Commission shall be responsible for providing an Annual Report of the Commission's activities to the Chief and the Council by the first day of January of each year covering the activities of the prior year.  The report should explain the finances of the Commission, identify any current or future liabilities, and any other material required by Upper Mattaponi Law.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Chairman shall:</text>
+            <para>
+              <num>(A)</num>
+              <text>preside over all meetings of the Commission;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>decide the agenda of meetings of the Commission; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>prudently preserve and faithfully execute the powers and duties of the Commission.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Vice-Chairman shall, in the absence of the Chairman, faithfully perform the powers and duties of the Chairman.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Secretary shall:</text>
+            <para>
+              <num>(A)</num>
+              <text>serve as custodian and historian of the Commission's records, including the keeping of appropriate meeting minutes for meetings of the Commission;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>keep the seal of the Commission and ensure that use of the seal is authorized by the Commission and affixed to all documents, advertisements, promotions, and signage on behalf of the Commission; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>keep a current register of the mailing address, phone number, and electronic mail address of each Commissioner.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+      <section>
+        <num>2017</num>
+        <heading>Employees of Commissions.</heading>
+        <text>Commissions shall have the power and authority to employ such persons as may be necessary and proper for carrying out the purposes of the Commissions, subject to all applicable tribal employment laws and policies, and in accordance with the funds allocated to the Commission by the Council.</text>
+      </section>
+      <subheading>SUBCHAPTER C: MEETINGS OF COMMISSIONS</subheading>
+      <section>
+        <num>2021</num>
+        <heading>Quorum.</heading>
+        <text>At any meeting of the Commission, a majority of Commissioners shall constitute a quorum for the transaction of official business, and the act of a majority of Commissioners present at any meeting at which there is a quorum shall be an official act of the Commission.</text>
+      </section>
+      <section>
+        <num>2022</num>
+        <heading>Regular Commission Meetings.</heading>
+        <text>Regular meetings of the Commission shall be held, at a minimum, quarterly to conduct official business of the Commission.  Notice and agenda for a regular meeting shall be given at least forty-eight (48) hours in advance by posting on the Commission's webpage and providing a copy to the Chief and the Council.</text>
+      </section>
+      <section>
+        <num>2023</num>
+        <heading>Emergency Meetings.</heading>
+        <text>Emergency meetings of a Commission may be called by the Chairman or at the request of a majority of the Commissioners.  Emergency meetings may only be called to address time-sensitive matters, to prevent injuries to persons, or to prevent injuries to personal or real property, where time requirements for public notice would make such procedure impractical and increase the likelihood of injury or damage or immediate financial loss.  Notice and agenda for an emergency meeting shall be given at least twenty-four (24) hours in advance by posting on the Commission's webpage and by electronic mail to Commissioners at the addresses on file with the Secretary and providing a copy to the Chief and the Council.</text>
+      </section>
+      <section>
+        <num>2024</num>
+        <heading>Meetings Open to Citizens.</heading>
+        <para>
+          <num>(a)</num>
+          <text>All meetings of a Commission, regular and emergency, shall be held at specified times and places which are convenient to the citizens of the Upper Mattaponi Tribe, and shall be open to said citizens, except as hereinafter specified.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In all meetings of a Commission, the vote of each Commissioner shall be publicly cast and recorded.</text>
+        </para>
+      </section>
+      <section>
+        <num>2025</num>
+        <heading>Executive Sessions.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A Commission may only enter into Executive Session for the following purposes:</text>
+          <para>
+            <num>(1)</num>
+            <text>discussing the employment, hiring, appointment, promotion, demotion, disciplining or resignation of any officer or employee of the Commission;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>discussing negotiations concerning employees and representatives of employee groups;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>discussing the purchase or appraisal of real property;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>confidential communications between a Commission and its attorney concerning a pending investigation, claim, or action if the Commission, with the advice of the attorney, determines that disclosure will seriously impair the ability of the Commission to process the claim or conduct a pending investigation, litigation, or proceeding in the public interest;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>discussing any matter where disclosure of information would violate confidentiality requirements of tribal or federal law; or</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>discussing matters of public safety or the security of Commission records.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An executive session for the purpose of discussing the purchase or appraisal of real property shall be limited to Commissioners, the attorney for the Commission, and the immediate staff of the Commission.  No landowner, real estate spokesperson, broker, developer, or any other person who may profit directly or indirectly by a proposed transaction concerning real property which is under consideration may be present or participate in the executive session.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To enter executive session, the Commission must strictly comply with the following procedures:</text>
+          <para>
+            <num>(1)</num>
+            <text>The proposed executive session is noted on the meeting agenda;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The executive session is authorized by a majority vote of a quorum of Commissioners present and the vote is a recorded vote; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any vote or action on any item of business considered in executive session shall be taken after the closing of executive session in the public meeting with the vote of each member publicly cast and recorded.</text>
+          </para>
+        </para>
+      </section>
+      <subheading>SUBCHAPTER D: FINANCES OF COMMISSIONS</subheading>
+      <section>
+        <num>2031</num>
+        <heading>Salaries of Commissioners.</heading>
+        <text>The salaries and compensation of Commissioners, if any, shall be fixed by the Council in the annual budget and shall be paid out in like manner as other salaries and compensation.</text>
+      </section>
+      <section>
+        <num>2032</num>
+        <heading>Employees of Commissions.</heading>
+        <text>The salaries and compensation of Commission employees shall be fixed by the Council in the annual budget and shall be paid out in like manner as other salaries and compensation.</text>
+      </section>
+      <section>
+        <num>2033</num>
+        <heading>Authority to Contract.</heading>
+        <text>Commissions shall have the authority to enter into contracts and make guarantees in accordance with the funds allocated to the Commission by the Council.</text>
+      </section>
+      <section>
+        <num>2034</num>
+        <heading>Sovereign Immunity.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Upper Mattaponi Tribe is a sovereign Indian Nation that is immune from suit.  Nothing in this Act waives or impairs the Upper Mattaponi Tribe's immunity from suit.  As an instrumentality of the Upper Mattaponi Tribe, Commissions also enjoy immunity from suit except as expressly provided in Upper Mattaponi Law.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Commissions shall not have the authority to waive or otherwise impair the sovereign immunity of the Upper Mattaponi Tribe.  The sovereign immunity of the Upper Mattaponi Tribe may only be waived, or otherwise impaired, pursuant to the provisions of <cite doc="Constitution of the Upper Mattaponi Tribe" path="XIII">Article XIII of the Constitution</cite>.</text>
+        </para>
+      </section>
+    </container>
+  </attachment>
+</document>
