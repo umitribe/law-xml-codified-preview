@@ -20,7 +20,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)|(h)">Article VII, Section 4(d)(h) of the Constitution</cite>, the Council is the governing body of the Tribe with the authority to establish regulatory commissions; and</text>
+      <text>pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII, Section 4(d)(h) of the Constitution</cite>, the Council is the governing body of the Tribe with the authority to establish regulatory commissions; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -32,7 +32,7 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
-      <text>that the Council hereby adopts the Minimum Commission Standards Act to be codified as Chapter 20 of Title 4 of the Upper Mattaponi Tribal Code of Law and authorizes the implementation and enforcement of its provisions, together with any powers, duties, rights, and functions as described therein or as may hereafter be provided by law.</text>
+      <text>that the Council hereby adopts the Minimum Commission Standards Act to be codified as <cite doc="Upper Mattaponi Tribal Code of Law" path="4|20">Chapter 20 of Title 4</cite> of the Upper Mattaponi Tribal Code of Law and authorizes the implementation and enforcement of its provisions, together with any powers, duties, rights, and functions as described therein or as may hereafter be provided by law.</text>
     </recital>
   </recitals>
   <procedural-data>
@@ -41,11 +41,11 @@
   </procedural-data>
   <attachment id="law">
     <container>
-      <codify:insert path="4" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§2001|annos"/>
+      <codify:insert path="4" before="21" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§2001|annos"/>
       <prefix codify:value="Chapter">CHAPTER</prefix>
       <num>20</num>
-      <heading>MINIMUM COMMISSION STANDARDS ACT</heading>
-      <subheading>SUBCHAPTER A: GENERAL PROVISIONS</subheading>
+      <heading codify:value="Minimum Commission Standards Act">MINIMUM COMMISSION STANDARDS ACT</heading>
+      <subheading codify:value="Subchapter A: General Provisions">SUBCHAPTER A: GENERAL PROVISIONS</subheading>
       <section>
         <num>2001</num>
         <heading>Title.</heading>
@@ -94,7 +94,7 @@
           <text><strong>"Organic Act"</strong> means the Act of the Council that created the subject Commission.</text>
         </para>
       </section>
-      <subheading>SUBCHAPTER B: ORGANIZATION OF COMMISSIONS</subheading>
+      <subheading codify:value="Subchapter B: Organization Of Commissions">SUBCHAPTER B: ORGANIZATION OF COMMISSIONS</subheading>
       <section>
         <num>2011</num>
         <heading>Size of Commissions.</heading>
@@ -255,7 +255,7 @@
         <heading>Employees of Commissions.</heading>
         <text>Commissions shall have the power and authority to employ such persons as may be necessary and proper for carrying out the purposes of the Commissions, subject to all applicable tribal employment laws and policies, and in accordance with the funds allocated to the Commission by the Council.</text>
       </section>
-      <subheading>SUBCHAPTER C: MEETINGS OF COMMISSIONS</subheading>
+      <subheading codify:value="Subchapter C: Meetings Of Commissions">SUBCHAPTER C: MEETINGS OF COMMISSIONS</subheading>
       <section>
         <num>2021</num>
         <heading>Quorum.</heading>
@@ -335,7 +335,7 @@
           </para>
         </para>
       </section>
-      <subheading>SUBCHAPTER D: FINANCES OF COMMISSIONS</subheading>
+      <subheading codify:value="Subchapter D: Finances Of Commissions">SUBCHAPTER D: FINANCES OF COMMISSIONS</subheading>
       <section>
         <num>2031</num>
         <heading>Salaries of Commissioners.</heading>

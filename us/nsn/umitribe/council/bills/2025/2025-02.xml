@@ -39,7 +39,7 @@
   </procedural-data>
   <attachment id="law">
     <heading>THE UPPER MATTAPONI ETHICS LAW</heading>
-    <codify:insert codify:path="4" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|14">
+    <codify:insert path="4" after="12" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|14">
       <container>
         <prefix>Chapter</prefix>
         <num>14</num>
@@ -47,7 +47,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert codify:path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1401"/>
+      <codify:insert path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1401"/>
       <num codify:value="1401">1</num>
       <heading>COMMISSION CREATED</heading>
       <para>
@@ -72,13 +72,13 @@
       </para>
     </section>
     <section>
-      <codify:insert codify:path="4|14" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1402"/>
+      <codify:insert path="4|14" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1402"/>
       <num codify:value="1402">2</num>
       <heading>PURPOSE</heading>
       <text>This law is established to require adherence to standards of conduct such that all persons to whom this law applies shall abstain from using any function of their office or duties in a manner which could place, or appear to place, their personal economic or special interests before the interests of the Upper Mattaponi Tribe.</text>
     </section>
     <section>
-      <codify:insert codify:path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1403"/>
+      <codify:insert path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1403"/>
       <num codify:value="1403">3</num>
       <heading>DEFINITIONS</heading>
       <text>As used in this Chapter:</text>
@@ -192,7 +192,7 @@
       </para>
     </section>
     <section>
-      <codify:insert codify:path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1404"/>
+      <codify:insert path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1404"/>
       <num codify:value="1404">4</num>
       <heading>APPROPRIATION, COMPENSATION, STAFF</heading>
       <para>
@@ -213,7 +213,7 @@
       </para>
     </section>
     <section>
-      <codify:insert codify:path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1405"/>
+      <codify:insert path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1405"/>
       <num codify:value="1405">5</num>
       <heading>DUTIES AND RESPONSIBILITIES</heading>
       <text>In accordance with all powers and authority as provided in this Ordinance, the Commission shall have the specific duties, responsibilities and authority to:</text>
@@ -239,7 +239,7 @@
       </para>
     </section>
     <section>
-      <codify:insert codify:path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1406"/>
+      <codify:insert path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1406"/>
       <num codify:value="1406">6</num>
       <heading>GENERAL RULES OF PROCEDURE</heading>
       <para>
@@ -264,19 +264,19 @@
       </para>
     </section>
     <section>
-      <codify:insert codify:path="4|14" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1407"/>
+      <codify:insert path="4|14" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1407"/>
       <num codify:value="1407">7</num>
       <heading>ENFORCEMENT</heading>
       <text>If the recommendation of the Commission regarding any decision it has issued is not followed within 60 days, the Commission may within 120 days elect to request a formal written explanation of why the decision is not followed, and no sooner than 30 days thereafter conduct a hearing to determine whether further action is needed.  If further action is deemed needed by a majority vote of the Commission, then the Commission may seek enforcement by filing a civil petition or complaint before the Upper Mattaponi Trial Court.   The decisions of the Upper Mattaponi Trial Court shall be binding and final upon the Upper Mattaponi Tribe and all parties to any decision of the Commission the Upper Mattaponi Trial Court may hear as enforcement.  Appeal to the Upper Mattaponi High Court is permitted of any enforcement decision of the Trial Court. The enforcement decisions of the Commission shall be given substantial deference and shall only be overturned if not rationally related to the facts and circumstances or not warranted in any case by law.</text>
     </section>
     <section>
-      <codify:insert codify:path="4|14" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1408"/>
+      <codify:insert path="4|14" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1408"/>
       <num codify:value="1408">8</num>
       <heading>APPEALS</heading>
       <text>The Upper Mattaponi Trial Court and no other entity shall have jurisdiction to hear all initial appeals from decisions of the Commission.  The Commission itself may not seek an appeal.  Any person with a legitimate and significant interest impacted by a decision of the Commission may file an appeal with the Upper Mattaponi Trial Court.  Any appeal must be filed within thirty (30) days of the issuance of a decision by the Commission or such appeal will be forever barred.  The decisions of the Upper Mattaponi Trial Court shall be binding and final upon the Upper Mattaponi Tribe and all parties to any decision of the Commission the Upper Mattaponi Trial Court may hear as an appeal.  Appeal to the Upper Mattaponi High Court is permitted of any decision of the Trial Court under this section.</text>
     </section>
     <section>
-      <codify:insert codify:path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1409"/>
+      <codify:insert path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1409"/>
       <num codify:value="1409">9</num>
       <heading>STANDARDS OF CONDUCT</heading>
       <para>
@@ -479,7 +479,7 @@
       </para>
     </section>
     <section>
-      <codify:insert codify:path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1410"/>
+      <codify:insert path="4|14" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1410"/>
       <num codify:value="1410">10</num>
       <heading>SANCTIONS; PENALTIES; LEGAL LIABILITIES</heading>
       <para>
@@ -509,13 +509,13 @@
       </para>
     </section>
     <section>
-      <codify:insert codify:path="4|14" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1411"/>
+      <codify:insert path="4|14" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1411"/>
       <num codify:value="1411">11</num>
       <heading>SEVERABILITY</heading>
       <text>If any provision of this Ordinance or the application of such provision to any person, firm, association, corporation or circumstances shall be held invalid, the remainder of this Act, and the application of such other provisions than those held to be invalid, shall not be affected thereby.</text>
     </section>
     <section>
-      <codify:insert codify:path="4|12" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1412"/>
+      <codify:insert path="4|12" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1412"/>
       <num codify:value="1412">12</num>
       <heading>EFFECTIVE DATE</heading>
       <text>This Ordinance shall be in force and of effect immediately from and after its passage and approval according to law.</text>

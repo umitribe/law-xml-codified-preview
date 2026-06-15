@@ -32,7 +32,7 @@
       <text>that the Council hereby enacts the Law entitled, "Emergency Assistance Fund Authorization Act of 2024", as outlined below:</text>
     </recital>
   </recitals>
-  <codify:insert codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§101|annos">
+  <codify:insert after="4" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§101|annos">
     <container>
       <prefix>Title</prefix>
       <num>5</num>
@@ -45,19 +45,19 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert codify:path="5|1" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§101"/>
+    <codify:insert path="5|1" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§101"/>
     <num codify:value="101">1.1</num>
     <heading>Short Title</heading>
     <text>This enactment shall be known as the "EMERGENCY ASSISTANCE FUND AUTHORIZATION ACT OF 2024" ("Act").</text>
   </section>
   <section>
-    <codify:insert codify:path="5|1" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§102"/>
+    <codify:insert path="5|1" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§102"/>
     <num codify:value="102">1.2</num>
     <heading>Purpose</heading>
     <text>The purpose of this Act is to provide emergency funds to Citizens of the Tribe upon request for family, medical, and other personal needs; however, no written standards exist for determining reasons why, and in what amount, emergency funds should be issued.</text>
   </section>
   <section>
-    <codify:insert codify:path="5|1" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§103"/>
+    <codify:insert path="5|1" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§103"/>
     <num codify:value="103">1.3</num>
     <heading>Findings</heading>
     <text>The Council hereby finds and declares that:</text>
@@ -75,7 +75,7 @@
     </para>
   </section>
   <section>
-    <codify:insert codify:path="5|1" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§104"/>
+    <codify:insert path="5|1" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§104"/>
     <num codify:value="104">1.4</num>
     <heading>Minimum Criteria</heading>
     <text>The Council hereby authorizes and directs the Chief, or his designee, to develop and implement written rules and procedures to administer the Emergency Assistance Fund for distribution of funds to Citizens of the Tribe or on behalf of Citizens of the Tribe, which shall include the following minimum criteria:</text>
@@ -97,7 +97,7 @@
     </para>
   </section>
   <section>
-    <codify:insert codify:path="5|1" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§105"/>
+    <codify:insert path="5|1" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="5|§105"/>
     <num codify:value="105">1.5</num>
     <heading>Authorization of Appropriation of Funds</heading>
     <text>The Council hereby authorizes an appropriation of funds to be included in the Annual Budget or Budget Modification for expenditure to implement this Act.</text>

@@ -51,7 +51,7 @@
     <text class="center">
       <strong>THE DUE DILIGENCE ACT OF 2025</strong>
     </text>
-    <codify:insert codify:path="4" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|13">
+    <codify:insert path="4" after="12" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|13">
       <container>
         <prefix>Chapter</prefix>
         <num>13</num>
@@ -59,19 +59,19 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert codify:path="4|13" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1301"/>
+      <codify:insert path="4|13" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1301"/>
       <num codify:value="1301">1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as, the "The Due Diligence Act of 2025" (the "Act").</text>
     </section>
     <section>
-      <codify:insert codify:path="4|13" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1302"/>
+      <codify:insert path="4|13" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1302"/>
       <num codify:value="1302">1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this Act is to establish a formal process for the Tribe to evaluate proposed economic development projects to determine their viability and to reduce risks.</text>
     </section>
     <section>
-      <codify:insert codify:path="4|13" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1303"/>
+      <codify:insert path="4|13" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1303"/>
       <num codify:value="1303">1.3</num>
       <heading>Findings</heading>
       <text>The Council finds that:</text>
@@ -85,7 +85,7 @@
       </para>
     </section>
     <section>
-      <codify:insert codify:path="4|13" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1304"/>
+      <codify:insert path="4|13" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1304"/>
       <num codify:value="1304">1.4</num>
       <heading>Definitions</heading>
       <text>For the purposes of this Act, the following terms shall have the following meanings:</text>
@@ -95,7 +95,7 @@
       </para>
     </section>
     <section>
-      <codify:insert codify:path="4|13" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1305"/>
+      <codify:insert path="4|13" renumber-paras="true" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="4|§1305"/>
       <num codify:value="1305">1.5</num>
       <heading>Due Diligence</heading>
       <para>
