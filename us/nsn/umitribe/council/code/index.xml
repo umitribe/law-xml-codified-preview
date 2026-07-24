@@ -3,8 +3,8 @@
   <heading>Upper Mattaponi Tribal Code of Law</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2026-05-22">
-      <doc id="Upper Mattaponi Tribe Res. No. 2026-12" type="resolution"/>
+    <recency through="2026-07-14">
+      <doc id="Upper Mattaponi Tribe Bill No. 2026-02" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
@@ -22,8 +22,8 @@
         <heading>Short Title</heading>
         <text>This enactment shall be known as the "EMERGENCY ASSISTANCE FUND AUTHORIZATION ACT OF 2024" ("Act").</text>
         <annotations>
-          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" type="History"/>
-          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="§1.1" type="History"/>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" target-path="" type="History"/>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="§1.1" target-path="5|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -31,8 +31,8 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to provide emergency funds to Citizens of the Tribe upon request for family, medical, and other personal needs; however, no written standards exist for determining reasons why, and in what amount, emergency funds should be issued.</text>
         <annotations>
-          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" type="History"/>
-          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="§1.2" type="History"/>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" target-path="" type="History"/>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="§1.2" target-path="5|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -52,8 +52,8 @@
           <text>The Bill of Rights in the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite> requires that the Tribe to provide equal treatment to all Citizens of the Tribe when it administers programs and services.</text>
         </para>
         <annotations>
-          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" type="History"/>
-          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="§1.3" type="History"/>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" target-path="" type="History"/>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="§1.3" target-path="5|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -77,8 +77,8 @@
           <text>The Chief or his designee shall be required to maintain a written record of all funds issued from the Emergency Assistance Fund, the age of the Citizen to whom the funds were issued, and the reason offered in support of the request for funds, and to provide a copy of the report to the Council no later than sixty days after the end of each fiscal year.</text>
         </para>
         <annotations>
-          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" type="History"/>
-          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="§1.4" type="History"/>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" target-path="" type="History"/>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="§1.4" target-path="5|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -86,33 +86,35 @@
         <heading>Authorization of Appropriation of Funds</heading>
         <text>The Council hereby authorizes an appropriation of funds to be included in the Annual Budget or Budget Modification for expenditure to implement this Act.</text>
         <annotations>
-          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" type="History"/>
-          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="§1.5" type="History"/>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" target-path="" type="History"/>
+          <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="§1.5" target-path="5|1" type="History"/>
         </annotations>
       </section>
     </container>
-    <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" type="History"/>
+    <annotation app="2024-09-13" doc="Upper Mattaponi Tribe Res. No. 2024-11" eff="2024-09-13" path="" target-path="" type="History"/>
   </container>
   <xi:include href="./13.xml"/>
   <xi:include href="./18.xml"/>
+  <xi:include href="./23.xml"/>
   <xi:include href="./28.xml"/>
   <container>
     <prefix>Title</prefix>
     <num>38</num>
     <heading>Property</heading>
-    <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
+    <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" target-path="" type="History"/>
     <container>
       <prefix>Chapter</prefix>
       <num>1</num>
       <heading>The Land Office Establishment and Land Acquisition Act of 2025</heading>
-      <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
+      <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" target-path="38" type="History"/>
       <section>
         <num>100</num>
         <heading>Short Title</heading>
         <text>This enactment shall be known as, "The Land Office Establishment and Land Acquisition Act of 2025" ("Act").</text>
         <annotations>
-          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
-          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.1" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" target-path="" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" target-path="38" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.1" target-path="38|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -120,8 +122,9 @@
         <heading>Purpose</heading>
         <text>The purpose of this Act is to establish a Land Office to reacquire and restore lands to the Tribe, and to address other land-related matters for the Tribe as authorized by the Chief.</text>
         <annotations>
-          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
-          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.2" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" target-path="" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" target-path="38" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.2" target-path="38|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -140,8 +143,9 @@
           <text>The Council hereby finds and declares that it is in the best interest of the Tribe to establish a Land Office to acquire additional lands to expand the Tribe's territory for the best interests of the Tribe and its citizens.</text>
         </para>
         <annotations>
-          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
-          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.3" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" target-path="" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" target-path="38" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.3" target-path="38|1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -172,8 +176,9 @@
           <text>The Council hereby authorizes the establishment of the Land Office, subject to an appropriation of funds in an Annual Budget or Budget Modification for such purpose.</text>
         </para>
         <annotations>
-          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" type="History"/>
-          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.4" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" target-path="" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="" target-path="38" type="History"/>
+          <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-07" eff="2025-05-05" path="attachments|law|1.4" target-path="38|1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -181,5 +186,4 @@
   <xi:include href="./42.xml"/>
   <xi:include href="./44.xml"/>
   <xi:include href="./45.xml"/>
-  <xi:include href="./47.xml"/>
 </document>

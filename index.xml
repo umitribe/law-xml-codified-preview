@@ -18,9 +18,9 @@
       <repositories>
         <repository name="umitribe/law-xml" commit="1a50a8cebf765b6f8137a58e9c2e768ad5e81677"/>
       </repositories>
-      <platform version="2.20.15" reproducible="false"/>
-      <build-date>2026-06-15</build-date>
-      <codified-date>2026-05-22</codified-date>
+      <platform version="2.20.18.dev588" reproducible="false"/>
+      <build-date>2026-07-24</build-date>
+      <codified-date>2026-07-14</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/umitribe/council/constitution.xml"/>

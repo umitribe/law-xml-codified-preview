@@ -1,0 +1,623 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Upper Mattaponi Tribe Bill No. 2026-02" codify:doc="Upper Mattaponi Tribal Code of Law">
+  <num>2026-02</num>
+  <heading>Upper Mattaponi Cannabis Regulatory Amendment Act of 2026</heading>
+  <meta>
+    <effective>2026-07-14</effective>
+    <history>
+      <adopted>2026-06-27</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/2026-02.pdf">Bill No. 2026-02</citation>
+    </citations>
+  </meta>
+  <text>An Act related to the regulation of Cannabis; amending Title 28 of the Upper Mattaponi Tribal Code of Laws; renaming the Cannabis Control Commission to the Cannabis Control Authority; clarifying the scope of sovereign immunity of Commissioners; amending financial provisions; various minor amendments;  and providing an effective date.</text>
+  <text>At a duly called General Meeting of the Upper Mattaponi Tribe Council held this 27<sup>th</sup> day of June, 2026, the following Law was adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Upper Mattaponi Tribal Council ("Council") is vested with the legislative power of the Upper Mattaponi Tribe ("Tribe") and has the authority to enact laws pursuant to <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(a)">Article VII, Section 4(a) of the Constitution of the Upper Mattaponi Tribe</cite> ("Constitution"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in March 2026 the Council adopted the Upper Mattaponi Cannabis Regulatory Act (Resolution 2026-11), which regulated the growth and sale of cannabis within the Upper Mattaponi Tribe. The Act has been codified in Title 28 of the Upper Mattaponi Tribal Code of Laws ("UMTC"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>following adoption of the Upper Mattaponi Cannabis Regulatory Act the Tribe requested consideration of amendments regarding the name of regulatory agency, clarifying the scope of sovereign immunity for Commissioners, amending financial provisions, and other minor amendments.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT ENACTED BY THE COUNCIL OF THE UPPER MATTAPONI TRIBE:</conjunction>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|1|100">Title 28, Section 100</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended to read as follows:</text>
+    <text>
+      <strong>100 Short Title</strong>
+    </text>
+    <text>This <s>enactment</s> <u>Act</u> shall be known as "The Upper Mattaponi Cannabis Regulatory Act."</text>
+    <codify:replace path="28|1|100" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§100">
+      <section>
+        <num>100</num>
+        <heading>Short Title</heading>
+        <text>This <cite doc="Upper Mattaponi Tribal Code of Law" path="28">Act</cite> shall be known as "The Upper Mattaponi Cannabis Regulatory Act."</text>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>2</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|1|102|(A)|(2)">Title 28, Section 102(2)</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended to read as follows:</text>
+    <text>
+      <strong>102 Purpose</strong>
+    </text>
+    <para>
+      <num>(2)</num>
+      <text>Provide that citizens of the Upper Mattaponi Tribe, members of other federally recognized tribes, Virginia residents, and other persons have the ability to lawfully obtain, purchase, receive, possess, and use of all Cannabis products in accordance with this Act and any regulations adopted by the Upper Mattaponi Cannabis Control <u>Authority</u><s>Commission</s>;</text>
+    </para>
+    <codify:replace path="28|1|102|(A)|(2)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§102|(A)|(2)">
+      <para>
+        <num>(2)</num>
+        <text>Provide that citizens of the Upper Mattaponi Tribe, members of other federally recognized tribes, Virginia residents, and other persons have the ability to lawfully obtain, purchase, receive, possess, and use of all Cannabis products in accordance with this <cite doc="Upper Mattaponi Tribal Code of Law" path="28">Act</cite> and any regulations adopted by the Upper Mattaponi Cannabis Control Authority;</text>
+      </para>
+    </codify:replace>
+  </section>
+  <section>
+    <num>3</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|1|103">Title 28, Section 103</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended to read as follows:</text>
+    <text>
+      <strong>103	Authority and Sovereign Immunity</strong>
+    </text>
+    <para>
+      <num>(A)</num>
+      <text>This <s>title</s> <u>Act</u> is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all Legislative power to the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe, and expressly empowers the Council "to create departments, boards, and commissions located in the Executive branch of government by law" (Article VII § 4(d)).</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Nothing in this Act shall be construed to limit or waive any aspect of the Upper Mattaponi Tribe's sovereign authority to regulate activities conducted in whole or in part within the boundaries of the Upper Mattaponi Tribe.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The Upper Mattaponi Cannabis Control <u>Authority</u><s>Commission</s> established by this Act <u>as well as any Commissioner, duly nominated by the Chief and confirmed by a majority vote of the Council,</u> shall be deemed to be an arm of the Upper Mattaponi Tribe and is protected by the same immunity from suit as Tribe pursuant its own sovereign immunity.</text>
+    </para>
+    <codify:replace path="28|1|103" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§103">
+      <section>
+        <num>103</num>
+        <heading>Authority and Sovereign Immunity</heading>
+        <para>
+          <num>(A)</num>
+          <text>This <cite doc="Upper Mattaponi Tribal Code of Law" path="28">Act</cite> is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all Legislative power to the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe, and expressly empowers the Council "to create departments, boards, and commissions located in the Executive branch of government by law" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII § 4(d)</cite>).</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Nothing in this Act shall be construed to limit or waive any aspect of the Upper Mattaponi Tribe's sovereign authority to regulate activities conducted in whole or in part within the boundaries of the Upper Mattaponi Tribe.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Upper Mattaponi Cannabis Control Authority established by this Act as well as any Commissioner, duly nominated by the Chief and confirmed by a majority vote of the Council, shall be deemed to be an arm of the Upper Mattaponi Tribe and is protected by the same immunity from suit as Tribe pursuant its own sovereign immunity.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>4</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|1|106">Title 28, Section 106</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended, in part, to read as follows:</text>
+    <text>
+      <strong>106	Definitions</strong>
+    </text>
+    <text>For the purposes of this <s>title</s> <u>Act</u>, the following terms shall have the following meanings:</text>
+    <codify:replace path="28|1|106" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§106">
+      <section>
+        <num>106</num>
+        <heading>Definitions</heading>
+        <text>For the purposes of this <cite doc="Upper Mattaponi Tribal Code of Law" path="28">Act</cite>, the following terms shall have the following meanings:</text>
+        <para>
+          <num>(A)</num>
+          <text>"Cannabis" means all parts of the plants in the genus Cannabis, whether growing or not; its seeds, its resin, or any extract containing one or more cannabinoids. Cannabis does not include:</text>
+          <para>
+            <num>(1)</num>
+            <text>the mature stalks of such plant, fiber produced from such stalk, or oil or cake made from the seed of such plant, unless such stalks, fiber, oil, or cake is combined with other parts of plants of the genus Cannabis;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Industrial Hemp that is possessed by a person who registered with, or holds a hemp producer license issued by, another governmental entity, such as the Commonwealth of Virginia or United States Department of Agriculture;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a Hemp Product;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>an Industrial Hemp Extract; or</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>any substance containing a tetrahydrocannabinol isomer, ester, ether, salt, or salts of such isomer, ester, or ether that has been placed into a drug schedule by the Commonwealth of Virginia's Board of Pharmacy.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>"Cannabis agent" or "agent" means a person approved by the Commission to be an owner, officer, board member, employee, or volunteer of a Cannabis facility, an independent contractor who provides labor relating to the cultivation, processing, or sale of Cannabis or Cannabis products for a Cannabis facility, or an employee or sub-contractor of such an independent contractor.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>"Cannabis agent license" or "agent license" means an identification that is issued by the Commission to authorize a person:</text>
+          <para>
+            <num>(1)</num>
+            <text>To be an owner, officer, or board member of a Cannabis facility; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>To be employed by, volunteer for, work at, or contract to provide labor or services to a Cannabis facility.</text>
+          </para>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>"Cannabis facility" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>A Cannabis laboratory;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A Cannabis cultivation facility;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A Cannabis manufacturing facility; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>A Cannabis retail facility.</text>
+          </para>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>"Cannabis cultivation facility" means a business that is licensed by the Commission to cultivate, label, and package retail Cannabis; to purchase or take possession of Cannabis plants and seeds from other Cannabis cultivation facilities; to transfer possession of and sell retail Cannabis, immature Cannabis plants, and Cannabis seeds to Cannabis wholesalers and retail Cannabis stores, foreign and domestic; to transfer possession of and sell retail Cannabis, Cannabis plants, and Cannabis seeds to other Cannabis cultivation facilities; to transfer possession of and sell retail Cannabis to Cannabis manufacturing facilities; and to sell immature Cannabis plants and Cannabis seeds to consumers for the purpose of cultivating Cannabis at home for personal use.</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>"Cannabis facility license" means a license issued by the Commission to authorize the operation of a Cannabis facility.</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>"Cannabis laboratory" means a business that is licensed by the Commission to test the plants in the genus Cannabis and products associated and derived therefrom intended for human consumption.</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>"Cannabis manufacturing facility" means a business that is licensed by the Commission to manufacture, label, and package retail Cannabis and retail Cannabis products; to purchase or take possession of retail Cannabis from a Cannabis cultivation facility or another Cannabis manufacturing facility; and to transfer possession of and sell retail Cannabis and retail Cannabis products to Cannabis wholesalers, retail Cannabis stores, or other Cannabis manufacturing facilities.</text>
+        </para>
+        <para>
+          <num>(I)</num>
+          <text>"Cannabis product" means a product which contains Cannabis or the extract thereof, including, without limitation, edible Cannabis products intended for human consumption by oral ingestion and presented in the form of a foodstuff, extract, or similar product, or Cannabis-infused products intended for use or consumption by humans through means other than inhalation or oral ingestion, like topical products, ointments, oils, or tinctures.</text>
+        </para>
+        <para>
+          <num>(J)</num>
+          <text>"Cannabis retail facility" means a business licensed by the Commission to purchase or take possession of retail Cannabis, retail Cannabis products, immature Cannabis plants, or Cannabis seeds from a Cannabis cultivation facility, Cannabis manufacturing facility, or Cannabis wholesaler and to sell retail Cannabis, retail Cannabis products, immature Cannabis plants, or Cannabis seeds to consumers.</text>
+        </para>
+        <para>
+          <num>(K)</num>
+          <text>"Cannabis Wholesaler" means a business that operates outside the jurisdiction of the Tribe, but sells Cannabis products to a Cannabis retail facility located within the Tribe in a wholesale manner.</text>
+        </para>
+        <para>
+          <num>(L)</num>
+          <text>"Childcare Facility" means any commercial or residential structure that is used to provide regular care, protection and guidance to children while they are separated from their parent, guardian or legal custodian in a structure that is not the residence of the child.</text>
+        </para>
+        <para>
+          <num>(M)</num>
+          <text>"Childhood Program" means structured programs designed to support the positive development of children by providing opportunities for skill-building, social engagement, and personal growth.</text>
+        </para>
+        <para>
+          <num>(N)</num>
+          <text>"Child-resistant" means, with respect to packaging or a container:</text>
+          <para>
+            <num>(1)</num>
+            <text>specially designed or constructed to be significantly difficult for a typical child under five years of age to open and not to be significantly difficult for a typical adult to open and reseal; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>for any product intended for more than a single use or that contains multiple servings, resealable.</text>
+          </para>
+        </para>
+        <para>
+          <num>(O)</num>
+          <text>"Act" means the Upper Mattaponi Cannabis Regulatory Act.</text>
+        </para>
+        <para>
+          <num>(P)</num>
+          <text>"Commission" means the Upper Mattaponi Cannabis Control Authority.</text>
+        </para>
+        <para>
+          <num>(Q)</num>
+          <text>"Community facility" means a Childcare Facility, a facility hosting a Childhood Program, a public park, a playground, a public swimming pool, a community club building, or a church or other building or place used for religious worship or a religious purpose.</text>
+        </para>
+        <para>
+          <num>(R)</num>
+          <text>"Concentrated Cannabis" means the extracted or separated resin, whether crude or purified, containing tetrahydrocannabinol (THC) or cannabidiol (CBD) from Cannabis.</text>
+        </para>
+        <para>
+          <num>(S)</num>
+          <text>"Council" means the Legislative Branch of the Upper Mattaponi Tribe as established in <cite doc="Constitution of the Upper Mattaponi Tribe" path="VII">Article VII of the Constitution of the Upper Mattaponi Tribe</cite>.</text>
+        </para>
+        <para>
+          <num>(T)</num>
+          <text>"Criminal Enterprise" means any individual, partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact, although not a legal entity, who are engaged in ongoing criminal activities.</text>
+        </para>
+        <para>
+          <num>(U)</num>
+          <text>"Day" means a calendar day not including weekends, Tribal government holidays, or any other day where the government of the Tribe is closed.</text>
+        </para>
+        <para>
+          <num>(V)</num>
+          <text>"Deliver" or "delivery" means the actual, constructive, or attempted transfer from one person to another of a controlled substance, whether or not there is an agency relationship.</text>
+        </para>
+        <para>
+          <num>(W)</num>
+          <text>"Electronic verification system" means an electronic database that:</text>
+          <para>
+            <num>(1)</num>
+            <text>Keeps track of data in real time; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Is accessible by the Commission and by the Cannabis retail facility.</text>
+          </para>
+        </para>
+        <para>
+          <num>(X)</num>
+          <text>"Enclosed, locked area" means a closet, display case, room, greenhouse, or other enclosed area that is equipped with locks or other security devices which allow access only by a Cannabis agent.</text>
+        </para>
+        <para>
+          <num>(Y)</num>
+          <text>"Excluded offense" means a conviction of an offense pursuant to the Upper Mattaponi Tribal Code of Law or an offense that would constitute a felony in the Commonwealth of Virginia, under federal law, or the law of another jurisdiction.  This term does not include a criminal offense for which the sentence, including any term of probation, incarceration, or supervised release, or an offense involving conduct that would be immune from arrest, prosecution, or penalty pursuant to <cite path="28" doc="Upper Mattaponi Tribe Bill No. 2026-02">this title</cite> except that the conduct occurred before the effective date of <cite path="28" doc="Upper Mattaponi Tribe Bill No. 2026-02">this title</cite> or in a jurisdiction other than the Upper Mattaponi Tribe.</text>
+        </para>
+        <para>
+          <num>(Z)</num>
+          <text>"Executive Director" means the Executive Director of the Commission appointed pursuant to this Act.</text>
+        </para>
+        <para>
+          <num>(AA)</num>
+          <text>"Hemp Product" means a product, including any raw materials from industrial hemp that are used for or added to a food or beverage, that:</text>
+          <para>
+            <num>(1)</num>
+            <text>contains industrial hemp and has completed all stages of processing needed for the product; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>when offered for retail sale:</text>
+            <para>
+              <num>(a)</num>
+              <text>contains a total tetrahydrocannabinol concentration of no greater than 0.3 percent; and</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>contains either no more than two milligrams of total tetrahydrocannabinol per package or an amount of cannabidiol that is no less than 25 times greater than the amount of total tetrahydrocannabinol per package.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(BB)</num>
+          <text>"Industrial Hemp" means a product, including any raw materials from industrial hemp that are used for or added to a food or beverage, that:</text>
+          <para>
+            <num>(1)</num>
+            <text>contains industrial hemp and has completed all stages of processing needed for the product; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>when offered for retail sale:</text>
+            <para>
+              <num>(a)</num>
+              <text>contains a total tetrahydrocannabinol concentration of no greater than 0.3 percent; and</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>contains either no more than two milligrams of total tetrahydrocannabinol per package or an amount of cannabidiol that is no less than 25 times greater than the amount of total tetrahydrocannabinol per package.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(CC)</num>
+          <text>"Industrial Hemp Extract" means an extract</text>
+          <para>
+            <num>(1)</num>
+            <text>of industrial hemp;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>that is intended for human consumption, and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>when offered for retail sale, that:</text>
+            <para>
+              <num>(a)</num>
+              <text>contains a total tetrahydrocannabinol concentration that is no greater than 0.3 percent; and</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>contains either no more than two milligrams of total tetrahydrocannabinol per package or an amount of cannabidiol that is no less than 25 times greater than the amount of total tetrahydrocannabinol per package.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>"Industrial hemp extract" is not a hemp seed-derived ingredient that is approved by the U.S. Food and Drug Administration or is the subject of a generally recognized as safe notice for which the U.S. Food and Drug Administration had no questions.</text>
+          </para>
+        </para>
+        <para>
+          <num>(DD)</num>
+          <text>"Licensee" means the holder of a Cannabis facility license.</text>
+        </para>
+        <para>
+          <num>(EE)</num>
+          <text>"Use of Cannabis" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>The possession, delivery, production, or use of Cannabis or Cannabis products;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The possession, delivery or use of paraphernalia used to administer Cannabis or Cannabis products; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any combination of the acts described in paragraphs (Z)(1) and (Z)(2) of this section.</text>
+          </para>
+        </para>
+        <para>
+          <num>(FF)</num>
+          <text>"Paraphernalia" means accessories, devices and other equipment that is necessary or useful, for a person to engage in the use of, including the consumption of, Cannabis.</text>
+        </para>
+        <para>
+          <num>(GG)</num>
+          <text>"Person" means a natural person, corporation, limited liability company, or other such or similar entity.</text>
+        </para>
+        <para>
+          <num>(HH)</num>
+          <text>"School" means any institution that provides primary or secondary education services to children.</text>
+        </para>
+        <para>
+          <num>(II)</num>
+          <text>"School Zone" means areas within the vicinity of a school or highway where the presence of children on School property or going to or from School reasonably requires special warning to motorists and that are designated as such by a governmental entity.</text>
+        </para>
+        <para>
+          <num>(JJ)</num>
+          <text>"THC" or "Tetrahydrocannabinol" means any naturally occurring or synthetic tetrahydrocannabinol, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation and any preparation, mixture, or substance containing, or mixed or infused with, any detectable amount of tetrahydrocannabinol. For the purposes of this definition, "isomer" means the optical, position, and geometric isomers.</text>
+        </para>
+        <para>
+          <num>(KK)</num>
+          <text>"Tribe" or "Tribal" means the Upper Mattaponi Tribe.</text>
+        </para>
+        <para>
+          <num>(LL)</num>
+          <text>"Tribal Lands" or "Lands of the Upper Mattaponi Tribe" means all land, air, and water held in fee simple and in trust by the United States for the benefit of the Upper Mattaponi Tribe.</text>
+        </para>
+        <para>
+          <num>(MM)</num>
+          <text>"Wholesale" means the selling of goods in large quantities to be retailed or processed by others;</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>5</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|1|106|(P)">Title 28, Section 106(P)</cite> &amp; <cite doc="Upper Mattaponi Tribal Code of Law" path="28|1|106|(Z)">Title 28, Section 106(Z)</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended, in part, to read as follows:</text>
+    <text>
+      <strong>106	Definitions</strong>
+    </text>
+    <para>
+      <num>(P)</num>
+      <text>"Commission" means the Upper Mattaponi Cannabis Control <u>Authority</u><s>Commission</s>.</text>
+    </para>
+    <para>
+      <num>(Z)</num>
+      <text>"Executive Director" means the Executive Director of the <s>Upper Mattaponi Tribal Cannabis Control</s> Commission appointed pursuant to this Act.</text>
+    </para>
+  </section>
+  <section>
+    <num>6</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|2">Title 28, Chapter 2</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended to be "Upper Mattaponi Cannabis Control Authority."</text>
+    <codify:replace path="28|2|heading" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|2">
+      <heading>Upper Mattaponi Cannabis Control Authority</heading>
+    </codify:replace>
+  </section>
+  <section>
+    <num>7</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|2|200">Title 28, Section 200</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended to read as follows:</text>
+    <text>
+      <strong>200	Establishment</strong>
+    </text>
+    <para>
+      <num>(A)</num>
+      <text>The Upper Mattaponi Tribe hereby establishes the Upper Mattaponi Cannabis Control <s>Commission</s> <u>Authority, hereinafter referred to as the "Commission."</u><s>.</s></text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The Council of the Upper Mattaponi Tribe hereby assigns oversight and regulatory powers to the Upper Mattaponi Cannabis Control <s>Commission</s> <u>Authority</u> to implement the provisions of this Act.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The Upper Mattaponi Cannabis Control <s>Commission</s> <u>Authority</u> shall be independent of, and act independently and autonomously from, the Council of the Upper Mattaponi Tribe in all matters within its purview. No prior or subsequent review by the Council of the Upper Mattaponi Tribe of any action of the Commission is required or permitted except as otherwise provided in this Act or the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>The Upper Mattaponi Cannabis Control <s>Commission</s> <u>Authority</u> shall be governed by the provisions of this Act and any other relevant laws of the Upper Mattaponi Tribe.</text>
+    </para>
+    <codify:replace path="28|2|200" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§200">
+      <section>
+        <num>200</num>
+        <heading>Establishment</heading>
+        <para>
+          <num>(A)</num>
+          <text>The Upper Mattaponi Tribe hereby establishes the Upper Mattaponi Cannabis Control Authority, hereinafter referred to as the "Commission."</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Council of the Upper Mattaponi Tribe hereby assigns oversight and regulatory powers to the Upper Mattaponi Cannabis Control Authority to implement the provisions of this Act.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Upper Mattaponi Cannabis Control Authority shall be independent of, and act independently and autonomously from, the Council of the Upper Mattaponi Tribe in all matters within its purview. No prior or subsequent review by the Council of the Upper Mattaponi Tribe of any action of the Commission is required or permitted except as otherwise provided in this Act or the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The Upper Mattaponi Cannabis Control Authority shall be governed by the provisions of this Act and any other relevant laws of the Upper Mattaponi Tribe.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>8</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|2|205|(A)">Title 28, Section 205(A)</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended to read as follows:</text>
+    <text>
+      <strong>205	Executive Director</strong>
+    </text>
+    <para>
+      <num>(A)</num>
+      <text>The position of Executive Director of the <u>Upper Mattaponi</u> Cannabis Control <s>Commission</s> <u>Authority</u> is hereby created.</text>
+    </para>
+    <codify:replace path="28|2|205|(A)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§205|(A)">
+      <para>
+        <num>(A)</num>
+        <text>The position of Executive Director of the Upper Mattaponi Cannabis Control Authority is hereby created.</text>
+      </para>
+    </codify:replace>
+  </section>
+  <section>
+    <num>9</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|2|206">Title 28, Section 206</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended to read as follows:</text>
+    <text>
+      <strong>206	Organization, Expenses, Employees</strong>
+    </text>
+    <para>
+      <num>(A)</num>
+      <text>The Executive Director may, subject to the approval of the Commission:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish, and from time to time alter, such a plan of organization as they may deem expedient;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Acquire such furnishings, equipment, supplies, stationery, books, motor vehicles and other things as they may deem necessary in carrying out the functions of the Commission; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Incur such other expenses, within the budget available to the Commission, as they may deem necessary.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Except as otherwise provided in this Act, all costs of administration incurred by the Commission must be paid out of the Tribe's operating budget in the same manner as other governmental expenses are paid.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The Executive Director shall organize the work of the Commission in such a way to secure maximum efficiency in the conduct of the Commission and make recommendations to the Commission for the establishment of Commission departments, staff organization or committees to ensure efficient and defined roles and responsibilities.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>The Executive Director may employ such clerical or expert assistance as may be required.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Persons employed by the Commission may be assigned to stations, offices, or locations selected by the Executive Director both within and outside the jurisdiction of the Tribe where, in the judgment of the Executive Director, it is necessary to maintain personnel to protect, investigate, and ensure the safe and lawful conduct of the Cannabis industry on Tribal lands.</text>
+      <text>
+        <s>(F)	Any person assigned to a station, office or location as provided in paragraph (E) of this section shall be eligible to receive a per diem allowance when the business of the Commission takes the person away from the particular station, office, or location to which they are assigned in accordance with the Tribe's travel policies.</s>
+      </text>
+    </para>
+    <codify:replace path="28|2|206" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§206">
+      <section>
+        <num>206</num>
+        <heading>Organization, Expenses, Employees</heading>
+        <para>
+          <num>(A)</num>
+          <text>The Executive Director may, subject to the approval of the Commission:</text>
+          <para>
+            <num>(1)</num>
+            <text>Establish, and from time to time alter, such a plan of organization as they may deem expedient;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Acquire such furnishings, equipment, supplies, stationery, books, motor vehicles and other things as they may deem necessary in carrying out the functions of the Commission; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Incur such other expenses, within the budget available to the Commission, as they may deem necessary.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Except as otherwise provided in this Act, all costs of administration incurred by the Commission must be paid out of the Tribe's operating budget in the same manner as other governmental expenses are paid.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Executive Director shall organize the work of the Commission in such a way to secure maximum efficiency in the conduct of the Commission and make recommendations to the Commission for the establishment of Commission departments, staff organization or committees to ensure efficient and defined roles and responsibilities.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The Executive Director may employ such clerical or expert assistance as may be required.</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Persons employed by the Commission may be assigned to stations, offices, or locations selected by the Executive Director both within and outside the jurisdiction of the Tribe where, in the judgment of the Executive Director, it is necessary to maintain personnel to protect, investigate, and ensure the safe and lawful conduct of the Cannabis industry on Tribal lands.</text>
+        </para>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>10</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|4|410|(D)">Title 28, Section 410(D)</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended to read as follows:</text>
+    <text>
+      <strong>410	Fees</strong>
+    </text>
+    <para>
+      <num>(D)</num>
+      <text>Any revenue generated from the fees imposed pursuant to this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>Must be expended first to pay the costs of the Commission in carrying out the provisions of this Act; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If any excess revenue remains after paying the costs described in paragraph (D)(1) of this section, such excess revenue must be paid as instructed by the Department of Finance <s>so as not to comingle such revenue with the Tribe's other monies</s>.</text>
+      </para>
+    </para>
+    <codify:replace path="28|4|410|(D)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§410|(D)">
+      <para>
+        <num>(D)</num>
+        <text>Any revenue generated from the fees imposed pursuant to this section:</text>
+        <para>
+          <num>(1)</num>
+          <text>Must be expended first to pay the costs of the Commission in carrying out the provisions of this Act; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If any excess revenue remains after paying the costs described in paragraph (D)(1) of this section, such excess revenue must be paid as instructed by the Department of Finance.</text>
+        </para>
+      </para>
+    </codify:replace>
+  </section>
+  <section>
+    <num>11</num>
+    <text>AMENDATORY	<cite doc="Upper Mattaponi Tribal Code of Law" path="28|6|601|(B)">Title 28, Section 601(B)</cite> of the <cite doc="Upper Mattaponi Tribal Code of Law">Upper Mattaponi Tribal Code of Laws</cite> is amended to read as follows:</text>
+    <text>
+      <strong>601	Enforcement of Contracts</strong>
+    </text>
+    <para>
+      <num>(B)</num>
+      <text>The Courts of the Upper Mattaponi Tribe shall have jurisdiction over any party to a contract related to the operation of Cannabis facilities under this Act for the purposes of enforcement of such contract <u>unless otherwise agreed to in writing by the parties and properly approved pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite></u>.</text>
+    </para>
+    <codify:replace path="28|6|601|(B)" codified:doc="Upper Mattaponi Tribal Code of Law" codified:path="28|§601|(B)">
+      <para>
+        <num>(B)</num>
+        <text>The Courts of the Upper Mattaponi Tribe shall have jurisdiction over any party to a contract related to the operation of Cannabis facilities under this Act for the purposes of enforcement of such contract unless otherwise agreed to in writing by the parties and properly approved pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+      </para>
+    </codify:replace>
+  </section>
+  <section>
+    <num>12</num>
+    <text>This act shall be effective immediately upon its passage and approval according to process defined in the Constitution.</text>
+  </section>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>The foregoing Act was duly voted upon by the Council on the 27<sup>th</sup> day of June, 2026, at a General Meeting with a vote of  <u>6</u> in favor and <u>0</u> opposed, <u>0</u> abstaining, and <u>1</u> absent, pursuant to the authority vested in the Council by the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
+  </procedural-data>
+</document>

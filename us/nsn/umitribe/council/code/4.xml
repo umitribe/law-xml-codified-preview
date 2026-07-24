@@ -12,7 +12,7 @@
       <heading>Title</heading>
       <text><cite path="4">This title</cite> shall be known as the "Departmental Organization Act."</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-1" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-1" target-path="4|1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -20,7 +20,7 @@
       <heading>Authority</heading>
       <text><cite path="4">This title</cite> is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe (also referred to herein as "Tribe") and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which confers all  Legislative power of the Upper Mattaponi Tribe in the Council of the Upper Mattaponi Tribe, and expressly empowers the Council to "to create departments, boards, and commissions located in the Executive branch of government by law" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(d)">Article VII, §4(d)</cite>); and with "authority to confirm a nominee presented to the Council by the Chief, subject to final installation of the nominee into office by the Chief" (<cite doc="Constitution of the Upper Mattaponi Tribe" path="VII|4|(i)">Article VII, § 4(i)</cite>).</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-2" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-2" target-path="4|1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -28,7 +28,7 @@
       <heading>Purpose</heading>
       <text><cite path="4">This title</cite> is enacted to establish various departments in the Executive Branch of the Upper Mattaponi Tribe, in order to appropriately administer Tribal programs and laws.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-3" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-3" target-path="4|1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -36,7 +36,7 @@
       <heading>Effective Date</heading>
       <text>The provisions of <cite path="4">this title</cite> shall be effective upon the date signed by the Chief of the Upper Mattaponi Tribe, or upon the date of a veto override by the Council.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-4" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-4" target-path="4|1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -44,7 +44,7 @@
       <heading>Interpretation</heading>
       <text>The provisions of <cite path="4">this title</cite> shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of <cite path="4">this title</cite>, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court shall construe it consistently with applicable textual tribal law. In the absence of applicable tribal customary law or textual tribal law, the Court shall construe it consistently with applicable law of other jurisdictions.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-5" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-5" target-path="4|1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -52,7 +52,7 @@
       <heading>Severability and Non-Liability</heading>
       <text>If any section, provision, or portion of <cite path="4">this title</cite> is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of <cite path="4">this title</cite> shall not be affected thereby.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-7" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|I|1-7" target-path="4|1" type="History"/>
       </annotations>
     </section>
   </container>
@@ -111,7 +111,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-1" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-1" target-path="4|2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -119,7 +119,7 @@
       <heading>Reporting</heading>
       <text>Secretaries, as officers of the Executive Branch of the Upper Mattaponi Tribe, shall report to the Chief, except as otherwise provided in Upper Mattaponi Law.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-2" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-2" target-path="4|2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -127,7 +127,7 @@
       <heading>Records</heading>
       <text>Departments shall comply with all record retention requirements under Upper Mattaponi Law.  Additionally, Departments shall maintain their records on-site for a period of three (3) years before transferring the documents to the Tribe's long-term records storage facility.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-3" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-3" target-path="4|2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -135,7 +135,7 @@
       <heading>Annual Report</heading>
       <text>Secretaries established by <cite path="4">this title</cite> shall be responsible for providing an Annual Report of the Department's activities to the Council and the Chief by the first day of January of each year covering the activities of the prior year.  The report should explain the finances of the Department, identify any current or future liabilities, and any other material items required by Upper Mattaponi Law.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-4" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-4" target-path="4|2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -143,7 +143,7 @@
       <heading>Departmental Decisions</heading>
       <text>Departmental Decisions that affect the rights or liabilities of any person or entity must have a rational basis in fact and be supported by substantial evidence. Such Departmental Decisions must be mailed to said affected individuals within ten (10) days of the date of said decision by Certified United States Mail, Return Receipt Requested with Restricted Delivery.  If a Departmental Decision is not timely mailed to the person or persons affected, it shall have no effect.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-5" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-5" target-path="4|2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -151,7 +151,7 @@
       <heading>Appeals of Departmental Decisions</heading>
       <text>Except as otherwise provided by Upper Mattaponi Law, any individual adversely affected by a Departmental Decision shall have the right to appeal said decision to the Trial Court of the Upper Mattaponi Tribe within thirty (30) days of notice of the decision.  In no event shall the Trial Court hear any appeal that is filed more than one-hundred eighty (180) days after the date of the Departmental Decision.  The Trial Court may establish procedures for consideration of appeals of Departmental Decisions, so long as such procedures provide affected individuals with due process of law.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-6" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-6" target-path="4|2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -166,7 +166,7 @@
         <text>Departments shall not have the authority to waive or otherwise impair the sovereign immunity of the Upper Mattaponi Tribe.  The sovereign immunity of the Upper Mattaponi Tribe may only be waived, or otherwise impaired, pursuant to the provisions of Article XIII of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-7" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|II|2-7" target-path="4|2" type="History"/>
       </annotations>
     </section>
   </container>
@@ -178,7 +178,7 @@
       <num>300</num>
       <text>The Environmental Department of the Upper Mattaponi Tribe is hereby created.  The Environmental Department will be responsible for administering and enforcing the environmental laws of the Upper Mattaponi Tribe along with any other responsibilities under Upper Mattaponi Law.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|III|3-1" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|III|3-1" target-path="4|3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -186,7 +186,7 @@
       <heading>Mission</heading>
       <text>The mission of the Environmental Department shall be to protect human health and the environment by working to ensure citizens have access to clean air, land and water.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|III|3-2" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|III|3-2" target-path="4|3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -194,7 +194,7 @@
       <heading>Organization</heading>
       <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Environmental Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Environmental Department from time to time.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|III|3-3" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|III|3-3" target-path="4|3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -218,7 +218,7 @@
         <text>Knowledge of applicable laws and regulations.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|III|3-4" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|III|3-4" target-path="4|3" type="History"/>
       </annotations>
     </section>
   </container>
@@ -230,7 +230,7 @@
       <num>400</num>
       <text>The Cultural Protection Department of the Upper Mattaponi Tribe is hereby created.  The Cultural Protection Department will be responsible for the preservation of the Tribe’s cultural heritage along with any other responsibilities under Upper Mattaponi Law.  The Department may accomplish this through lectures, discussions, workshops, classes, demonstrations, or working to repatriate lost artifacts of the Tribe.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IV|4-1" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IV|4-1" target-path="4|4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -238,7 +238,7 @@
       <heading>Mission</heading>
       <text>The mission of the Cultural Protection Department shall be to preserve and showcase the Tribe's natural and cultural heritage, including language, traditions, and artwork, to strengthen the Tribe's identity.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IV|4-2" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IV|4-2" target-path="4|4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -246,7 +246,7 @@
       <heading>Organization</heading>
       <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Cultural Protection Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Cultural Protection Department from time to time.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IV|4-3" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IV|4-3" target-path="4|4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -270,7 +270,7 @@
         <text>Knowledge of applicable laws and regulations.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IV|4-4" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IV|4-4" target-path="4|4" type="History"/>
       </annotations>
     </section>
   </container>
@@ -282,7 +282,7 @@
       <num>500</num>
       <text>The Housing Department of the Upper Mattaponi Tribe is hereby created.  The Housing Department will be responsible for administering and applying the Tribe's housing laws and programs along with any other responsibilities under Upper Mattaponi Law.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|V|5-1" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|V|5-1" target-path="4|5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -290,7 +290,7 @@
       <heading>Mission</heading>
       <text>The mission of the Housing Department shall be to provide the Tribe’s citizens with safe, quality housing.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|V|5-2" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|V|5-2" target-path="4|5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -298,7 +298,7 @@
       <heading>Organization</heading>
       <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Housing Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Housing Department from time to time.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|V|5-3" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|V|5-3" target-path="4|5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -322,7 +322,7 @@
         <text>Knowledge of applicable laws and regulations.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|V|5-4" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|V|5-4" target-path="4|5" type="History"/>
       </annotations>
     </section>
   </container>
@@ -334,7 +334,7 @@
       <num>600</num>
       <text>The Community Services Department of the Upper Mattaponi Tribe is hereby created.  The Community Services Department will be responsible for administering and applying laws and programs of the Tribe designed to protect against abuse of elders or children, assist with the care of children and elders, nutrition, and food distribution, along with any other responsibilities under Upper Mattaponi Law.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VI|6-1" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VI|6-1" target-path="4|6" type="History"/>
       </annotations>
     </section>
     <section>
@@ -342,7 +342,7 @@
       <heading>Mission</heading>
       <text>The mission of the Community Services Department shall be to provide assistance and resources to Tribal children, families, elders, and people with disabilities.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VI|6-2" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VI|6-2" target-path="4|6" type="History"/>
       </annotations>
     </section>
     <section>
@@ -350,7 +350,7 @@
       <heading>Organization</heading>
       <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Community Services Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Community Services Department from time to time.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VI|6-3" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VI|6-3" target-path="4|6" type="History"/>
       </annotations>
     </section>
     <section>
@@ -374,7 +374,7 @@
         <text>Knowledge of applicable laws and regulations.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VI|6-4" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VI|6-4" target-path="4|6" type="History"/>
       </annotations>
     </section>
   </container>
@@ -386,7 +386,7 @@
       <num>700</num>
       <text>The Enrollment Department of the Upper Mattaponi Tribe is hereby created.  The Enrollment Department will be responsible for maintaining the citizenship rolls of the Tribe, including enrolling new citizens and maintain accurate voter lists in collaboration with the Tribe's Election Commission, along with any other responsibilities under Upper Mattaponi Law.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VII|7-1" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VII|7-1" target-path="4|7" type="History"/>
       </annotations>
     </section>
     <section>
@@ -394,7 +394,7 @@
       <heading>Mission</heading>
       <text>The mission of the Enrollment Department shall be to quickly and accurately enroll new tribal citizens and maintain accurate tribal citizenship records.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VII|7-2" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VII|7-2" target-path="4|7" type="History"/>
       </annotations>
     </section>
     <section>
@@ -402,7 +402,7 @@
       <heading>Organization</heading>
       <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Enrollment Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Enrollment Department from time to time.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VII|7-3" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VII|7-3" target-path="4|7" type="History"/>
       </annotations>
     </section>
     <section>
@@ -426,7 +426,7 @@
         <text>Knowledge of applicable laws and regulations.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VII|7-4" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VII|7-4" target-path="4|7" type="History"/>
       </annotations>
     </section>
   </container>
@@ -438,7 +438,7 @@
       <num>800</num>
       <text>The Education Department of the Upper Mattaponi Tribe is hereby created.  The Education Department will be responsible for administering programs to provide educational assistance, support, and encouragement, along with any other responsibilities under Upper Mattaponi Law.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VIII|8-1" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VIII|8-1" target-path="4|8" type="History"/>
       </annotations>
     </section>
     <section>
@@ -446,7 +446,7 @@
       <heading>Mission</heading>
       <text>The mission of the Education Department shall be to address the education and cultural needs of tribal citizens of all ages.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VIII|8-2" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VIII|8-2" target-path="4|8" type="History"/>
       </annotations>
     </section>
     <section>
@@ -454,7 +454,7 @@
       <heading>Organization</heading>
       <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Education Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Education Department from time to time.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VIII|8-3" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VIII|8-3" target-path="4|8" type="History"/>
       </annotations>
     </section>
     <section>
@@ -478,7 +478,7 @@
         <text>Knowledge of applicable laws and regulations.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VIII|8-4" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|VIII|8-4" target-path="4|8" type="History"/>
       </annotations>
     </section>
   </container>
@@ -490,7 +490,7 @@
       <num>900</num>
       <text>The Facilities &amp; Infrastructure Department of the Upper Mattaponi Tribe is hereby created.  The Facilities &amp; Infrastructure Department will be responsible for administering programs to maintain the Tribe's buildings, roads, bridges, and other infrastructure, along with any other responsibilities under Upper Mattaponi Law.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IX|9-1" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IX|9-1" target-path="4|9" type="History"/>
       </annotations>
     </section>
     <section>
@@ -498,7 +498,7 @@
       <heading>Mission</heading>
       <text>The mission of the Facilities &amp; Infrastructure Department shall be to ensure a safe and healthy environment for employees, visitors, and residents of the Tribe.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IX|9-2" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IX|9-2" target-path="4|9" type="History"/>
       </annotations>
     </section>
     <section>
@@ -506,7 +506,7 @@
       <heading>Organization</heading>
       <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Facilities &amp; Infrastructure Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Facilities &amp; Infrastructure Department from time to time.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IX|9-3" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IX|9-3" target-path="4|9" type="History"/>
       </annotations>
     </section>
     <section>
@@ -530,7 +530,7 @@
         <text>Knowledge of applicable laws and regulations.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IX|9-4" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|IX|9-4" target-path="4|9" type="History"/>
       </annotations>
     </section>
   </container>
@@ -542,7 +542,7 @@
       <num>1000</num>
       <text>The Human Resources Department of the Upper Mattaponi Tribe is hereby created.  The Human Resources Department will be responsible for the hiring and training of all Tribal employees, including managing transfers of employees between departments, along with any other responsibilities under Upper Mattaponi Law.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|X|10-1" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|X|10-1" target-path="4|10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -550,7 +550,7 @@
       <heading>Mission</heading>
       <text>The mission of the Human Resources Department shall be to support the Tribe and its employees through all phases of employee to ensure a healthy employment relationship.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|X|10-2" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|X|10-2" target-path="4|10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -558,7 +558,7 @@
       <heading>Organization</heading>
       <text>Except as otherwise provided under Upper Mattaponi Law, the Chief shall have the authority to organize and operate the Human Resources Department in an efficient and fiscally sound manner in accordance with the size, scope, and funding of the various programs, services, and other activities that are assigned to the Human Resources Department from time to time.</text>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|X|10-3" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|X|10-3" target-path="4|10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -582,7 +582,7 @@
         <text>Knowledge of applicable laws and regulations.</text>
       </para>
       <annotations>
-        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|X|10-4" type="History"/>
+        <annotation app="2024-01-02" doc="Upper Mattaponi Tribe Res. No. 2023-11" eff="2024-01-02" path="attachments|law|X|10-4" target-path="4|10" type="History"/>
       </annotations>
     </section>
   </container>
@@ -595,7 +595,7 @@
       <heading>Short Title</heading>
       <text><cite path="4|11">This chapter</cite> shall be known as the Department of Health Enabling Act ("Act").</text>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|101" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|101" target-path="4|11" type="History"/>
       </annotations>
     </section>
     <section>
@@ -603,7 +603,7 @@
       <heading>Purpose</heading>
       <text>The purpose of <cite path="4|11">this chapter</cite> is to establish the Department of Health.</text>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|102" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|102" target-path="4|11" type="History"/>
       </annotations>
     </section>
     <section>
@@ -619,7 +619,7 @@
         <text>establishing a Department of Health within the executive branch of government will assist the Tribe in managing, administering, and evaluating various health care programs for the benefit of citizens of the Tribe.</text>
       </para>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|103" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|103" target-path="4|11" type="History"/>
       </annotations>
     </section>
     <section>
@@ -670,7 +670,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|104" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|104" target-path="4|11" type="History"/>
       </annotations>
     </section>
     <section>
@@ -678,7 +678,7 @@
       <heading>Department of Health Goals and Objectives</heading>
       <text>The mission of the Department of Health is to assess and implement various health care programs of the Tribe in a well-coordinated and collaborative manner that will enhance educational awareness, disease prevention, and healthy behavioral changes. The primary goal of the Department of Health is to provide comprehensive health care awareness that will target multiple dimensions of health such as physical, mental, emotional, and social needs of citizens of the Tribe of all ages.</text>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|105" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|105" target-path="4|11" type="History"/>
       </annotations>
     </section>
     <section>
@@ -812,7 +812,7 @@
         <text>Patient Registration</text>
       </para>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|106" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-03" eff="2023-09-21" path="attachments|law|106" target-path="4|11" type="History"/>
       </annotations>
     </section>
     <section>
@@ -847,7 +847,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-04" eff="2023-09-21" path="attachments|law|104" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-04" eff="2023-09-21" path="attachments|law|104" target-path="4|11" type="History"/>
       </annotations>
     </section>
   </container>
@@ -855,14 +855,14 @@
     <prefix>Chapter</prefix>
     <num>12</num>
     <heading>The Planning Office Establishment Act of 2025</heading>
-    <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
+    <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" target-path="4" type="History"/>
     <section>
       <num>1200</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as, "The Planning Office Establishment Act of 2025" ("Act").</text>
       <annotations>
-        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
-        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.1" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" target-path="4" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.1" target-path="4|12" type="History"/>
       </annotations>
     </section>
     <section>
@@ -870,8 +870,8 @@
       <heading>Purpose</heading>
       <text>The purpose of this Act is to establish a Planning Office to assist the Tribe in preparing and implementing long-range and strategic plans, managing land uses, and developing and submitting grant applications.</text>
       <annotations>
-        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
-        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.2" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" target-path="4" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.2" target-path="4|12" type="History"/>
       </annotations>
     </section>
     <section>
@@ -886,8 +886,8 @@
         <text>A Planning Office is needed to address not only land use and development issues, but also assist the Tribe in preparing and submitting various grant applications for all the Departments and programs within the Tribe.</text>
       </para>
       <annotations>
-        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
-        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.3" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" target-path="4" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.3" target-path="4|12" type="History"/>
       </annotations>
     </section>
     <section>
@@ -910,8 +910,8 @@
         <text>The Council hereby authorizes the establishment of the Planning Office, subject to an appropriation of funds in an Annual Budget or Budget Modification for such purpose.</text>
       </para>
       <annotations>
-        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
-        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.4" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" target-path="4" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="attachments|law|1.4" target-path="4|12" type="History"/>
       </annotations>
     </section>
     <section>
@@ -919,8 +919,8 @@
       <heading>EFFECTIVE DATE</heading>
       <text>This Ordinance shall be in force and of effect immediately from and after its passage and approval according to law.</text>
       <annotations>
-        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|12" type="History"/>
+        <annotation app="2025-05-05" doc="Upper Mattaponi Tribe Res. No. 2025-08" eff="2025-05-05" path="" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|12" target-path="4|12" type="History"/>
       </annotations>
     </section>
   </container>
@@ -928,14 +928,14 @@
     <prefix>Chapter</prefix>
     <num>13</num>
     <heading>The Due Diligence Act of 2025</heading>
-    <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" type="History"/>
+    <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" target-path="4" type="History"/>
     <section>
       <num>1301</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as, the "The Due Diligence Act of 2025" (the "Act").</text>
       <annotations>
-        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" type="History"/>
-        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law|1.1" type="History"/>
+        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law|1.1" target-path="4|13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -943,8 +943,8 @@
       <heading>Purpose</heading>
       <text>The purpose of this Act is to establish a formal process for the Tribe to evaluate proposed economic development projects to determine their viability and to reduce risks.</text>
       <annotations>
-        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" type="History"/>
-        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law|1.2" type="History"/>
+        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law|1.2" target-path="4|13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -960,8 +960,8 @@
         <text>The Tribe has identified the need to establish a process to evaluate potential economic development projects to determine their viability, and their investment and revenue potential in order to minimize risk and the loss of investment funds.</text>
       </para>
       <annotations>
-        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" type="History"/>
-        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law|1.3" type="History"/>
+        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law|1.3" target-path="4|13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -973,8 +973,8 @@
         <text>"Economic Development Project" shall mean a new or expanded business venture of the Tribe, or a tribally-owned business, including the acquisition of real property for use by the business, construction, installation, and rehabilitation of fixtures for the improvement of real estate owned, used, or occupied by the tribal business, provided that the expected cost of the project exceeds fifty-thousand dollars ($50,000.00).</text>
       </para>
       <annotations>
-        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" type="History"/>
-        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law|1.4" type="History"/>
+        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law|1.4" target-path="4|13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1081,8 +1081,8 @@
         <text>No tribal funds may be used in furtherance of an economic development project until the Due Diligence Report for the project has been provided to the Council.  This shall not apply to any funds expended in preparation of the Due Diligence Report, such as funds expended in market or feasibility studies.</text>
       </para>
       <annotations>
-        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" type="History"/>
-        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law|1.5" type="History"/>
+        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-11-20" doc="Upper Mattaponi Tribe Res. No. 2025-15" eff="2025-11-20" path="attachments|law|1.5" target-path="4|13" type="History"/>
       </annotations>
     </section>
   </container>
@@ -1090,7 +1090,7 @@
     <prefix>Chapter</prefix>
     <num>14</num>
     <heading>The Upper Mattaponi Ethics Law</heading>
-    <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
+    <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
     <section>
       <num>1401</num>
       <heading>COMMISSION CREATED</heading>
@@ -1115,8 +1115,8 @@
         <text>No person who is a public official or employee of the Tribe shall serve on the Commission.  No Commissioner shall be eligible for elected office for one (1) year after completing his term.</text>
       </para>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|1" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|1" target-path="4|14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1124,8 +1124,8 @@
       <heading>PURPOSE</heading>
       <text>This law is established to require adherence to standards of conduct such that all persons to whom this law applies shall abstain from using any function of their office or duties in a manner which could place, or appear to place, their personal economic or special interests before the interests of the Upper Mattaponi Tribe.</text>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|2" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|2" target-path="4|14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1241,8 +1241,8 @@
         <text>"Upper Mattaponi Trial Court" or "Trial Court" means the court of original jurisdiction within the Tribal Judicial Branch that hears all cases and controversies, both criminal and civil, arising under the Constitution, laws, and common law of the Upper Mattaponi Tribe. It is comprised of a Chief Judge and other Associate Judges as determined necessary by the Council. The Trial Court has the authority to interpret the Constitution and laws of the Tribe, make findings of fact and conclusions of law, issue all remedies in law and equity, and serve as a court of record. It includes specialized courts such as the Peacemaker Court to resolve civil disputes by agreement of the parties.</text>
       </para>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|3" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|3" target-path="4|14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1265,8 +1265,8 @@
         <text>The Commission may employ an office manager and maintain an office in a location provided by the Council.</text>
       </para>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|4" target-path="4|14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1294,8 +1294,8 @@
         <text>Issue a written opinion or decision detailing the finding of facts and reasoning, or lack thereof, of any issue heard by the Commission to the complainant and other interested parties including the Council.</text>
       </para>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|5" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|5" target-path="4|14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1322,8 +1322,8 @@
         <text>Two (2) Commissioners shall constitute a quorum; except where a unanimous decision is required, decisions shall be made by majority of a quorum.  In the event only two (2) Commissioners are present, decisions shall be made by unanimous vote.</text>
       </para>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|6" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|6" target-path="4|14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1331,8 +1331,8 @@
       <heading>ENFORCEMENT</heading>
       <text>If the recommendation of the Commission regarding any decision it has issued is not followed within 60 days, the Commission may within 120 days elect to request a formal written explanation of why the decision is not followed, and no sooner than 30 days thereafter conduct a hearing to determine whether further action is needed.  If further action is deemed needed by a majority vote of the Commission, then the Commission may seek enforcement by filing a civil petition or complaint before the Upper Mattaponi Trial Court.   The decisions of the Upper Mattaponi Trial Court shall be binding and final upon the Upper Mattaponi Tribe and all parties to any decision of the Commission the Upper Mattaponi Trial Court may hear as enforcement.  Appeal to the Upper Mattaponi High Court is permitted of any enforcement decision of the Trial Court. The enforcement decisions of the Commission shall be given substantial deference and shall only be overturned if not rationally related to the facts and circumstances or not warranted in any case by law.</text>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|7" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|7" target-path="4|14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1340,8 +1340,8 @@
       <heading>APPEALS</heading>
       <text>The Upper Mattaponi Trial Court and no other entity shall have jurisdiction to hear all initial appeals from decisions of the Commission.  The Commission itself may not seek an appeal.  Any person with a legitimate and significant interest impacted by a decision of the Commission may file an appeal with the Upper Mattaponi Trial Court.  Any appeal must be filed within thirty (30) days of the issuance of a decision by the Commission or such appeal will be forever barred.  The decisions of the Upper Mattaponi Trial Court shall be binding and final upon the Upper Mattaponi Tribe and all parties to any decision of the Commission the Upper Mattaponi Trial Court may hear as an appeal.  Appeal to the Upper Mattaponi High Court is permitted of any decision of the Trial Court under this section.</text>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|8" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|8" target-path="4|14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1546,8 +1546,8 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|9" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|9" target-path="4|14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1579,8 +1579,8 @@
         <text>Any person knowingly and willfully filing any complaint authorized under this Act or by any other applicable law, without just cause or good faith belief and with malice or other improper purpose, including personal, political or other harassment or embarrassment, shall be guilty of a civil offense. For such offense, the Commission may recommend to the Judicial branch the imposition of a fine per occurrence, and shall be responsible for the attorney fees and costs of person wrongfully accused, as well as any attorney fees and costs incurred by the Upper Mattaponi Tribe or the Commission.</text>
       </para>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|10" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|10" target-path="4|14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1588,8 +1588,8 @@
       <heading>SEVERABILITY</heading>
       <text>If any provision of this Ordinance or the application of such provision to any person, firm, association, corporation or circumstances shall be held invalid, the remainder of this Act, and the application of such other provisions than those held to be invalid, shall not be affected thereby.</text>
       <annotations>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" type="History"/>
-        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|11" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law" target-path="4" type="History"/>
+        <annotation app="2025-08-25" doc="Upper Mattaponi Tribe Bill No. 2025-02" eff="2025-08-25" path="attachments|law|11" target-path="4|14" type="History"/>
       </annotations>
     </section>
   </container>
@@ -1603,7 +1603,7 @@
       <heading>Title.</heading>
       <text>This law shall be known as the "Minimum Commission Standards Act."</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1611,7 +1611,7 @@
       <heading>Authority.</heading>
       <text>This Act is enacted pursuant to the inherent sovereign authority of the Upper Mattaponi Tribe and pursuant to the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution of the Upper Mattaponi Tribe</cite>, which empowers the Council to "create departments, boards, and commissions located in the Executive branch of government by law," Art. VII, Sec. 4(d).</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1619,7 +1619,7 @@
       <heading>Purpose.</heading>
       <text>This Act is enacted to provide general gap-fill provisions governing Commissions created pursuant to Upper Mattaponi Law.  Nothing herein shall restrict the Council's authority to enact procedures and provisions unique to specific Commissions.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1627,7 +1627,7 @@
       <heading>Effective Date.</heading>
       <text>The provisions of this Act shall be effective after ratification by the Council, and upon the date signed by the Chief of the Upper Mattaponi Tribe.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1635,7 +1635,7 @@
       <heading>Interpretation.</heading>
       <text>The provisions of this Act shall be interpreted to be in accordance with tribal customary law. Whenever there is uncertainty or a question as to the interpretation of certain provisions of this Act, tribal law and custom shall be controlling, and where appropriate, may be based on the written or oral testimony of a qualified tribal elder, tribal historian, or tribal representative. If the traditions and customs of the Tribe are inconclusive in any matter, the Court shall construe it consistently with applicable textual tribal law. In the absence of applicable tribal customary law or textual tribal law, the Court may consult applicable federal law and state law if it may be helpful in establishing Upper Mattaponi law.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1643,7 +1643,7 @@
       <heading>Applicability.</heading>
       <text>The provisions of this Act apply only to the extent that they do not conflict with any other provision of law.  To the extent that a provision of this Act conflicts with a Commission's Organic Act, the Organic Act takes precedence on that subject matter.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1651,7 +1651,7 @@
       <text>Severability and Non-Liability.</text>
       <text>If any section, provision, or portion of this Act is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Act shall not be affected thereby.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1667,7 +1667,7 @@
         <text><strong>"Organic Act"</strong> means the Act of the Council that created the subject Commission.</text>
       </para>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <subheading>Subchapter B: Organization Of Commissions</subheading>
@@ -1676,7 +1676,7 @@
       <heading>Size of Commissions.</heading>
       <text>Unless otherwise provided by law, each Commission shall be comprised of a minimum of three (3) and no more than five (5) Commissioners with a majority of Commissioners being a citizen of the Upper Mattaponi Tribe.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1696,7 +1696,7 @@
         <text>shall not be a member of the Council or a Constitutional Officer of the Upper Mattaponi Tribe.</text>
       </para>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1704,7 +1704,7 @@
       <heading>Appointment of Commissioners.</heading>
       <text>Commissioners shall be appointed by the Chief of the Upper Mattaponi Tribe to serve in two (2) year terms.  A Commissioner's term shall not begin until their appointment is confirmed by a majority vote of the Council.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1712,7 +1712,7 @@
       <heading>Removal of Commissioners by Chief.</heading>
       <text>Unless otherwise provided by law, or any contractual agreements between a Commissioner and the Chief, any Commissioner may be removed by the Chief at their discretion.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1757,7 +1757,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1841,7 +1841,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1849,7 +1849,7 @@
       <heading>Employees of Commissions.</heading>
       <text>Commissions shall have the power and authority to employ such persons as may be necessary and proper for carrying out the purposes of the Commissions, subject to all applicable tribal employment laws and policies, and in accordance with the funds allocated to the Commission by the Council.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <subheading>Subchapter C: Meetings Of Commissions</subheading>
@@ -1858,7 +1858,7 @@
       <heading>Quorum.</heading>
       <text>At any meeting of the Commission, a majority of Commissioners shall constitute a quorum for the transaction of official business, and the act of a majority of Commissioners present at any meeting at which there is a quorum shall be an official act of the Commission.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1866,7 +1866,7 @@
       <heading>Regular Commission Meetings.</heading>
       <text>Regular meetings of the Commission shall be held, at a minimum, quarterly to conduct official business of the Commission.  Notice and agenda for a regular meeting shall be given at least forty-eight (48) hours in advance by posting on the Commission's webpage and providing a copy to the Chief and the Council.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1874,7 +1874,7 @@
       <heading>Emergency Meetings.</heading>
       <text>Emergency meetings of a Commission may be called by the Chairman or at the request of a majority of the Commissioners.  Emergency meetings may only be called to address time-sensitive matters, to prevent injuries to persons, or to prevent injuries to personal or real property, where time requirements for public notice would make such procedure impractical and increase the likelihood of injury or damage or immediate financial loss.  Notice and agenda for an emergency meeting shall be given at least twenty-four (24) hours in advance by posting on the Commission's webpage and by electronic mail to Commissioners at the addresses on file with the Secretary and providing a copy to the Chief and the Council.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1889,7 +1889,7 @@
         <text>In all meetings of a Commission, the vote of each Commissioner shall be publicly cast and recorded.</text>
       </para>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1944,7 +1944,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <subheading>Subchapter D: Finances Of Commissions</subheading>
@@ -1953,7 +1953,7 @@
       <heading>Salaries of Commissioners.</heading>
       <text>The salaries and compensation of Commissioners, if any, shall be fixed by the Council in the annual budget and shall be paid out in like manner as other salaries and compensation.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1961,7 +1961,7 @@
       <heading>Employees of Commissions.</heading>
       <text>The salaries and compensation of Commission employees shall be fixed by the Council in the annual budget and shall be paid out in like manner as other salaries and compensation.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1969,7 +1969,7 @@
       <heading>Authority to Contract.</heading>
       <text>Commissions shall have the authority to enter into contracts and make guarantees in accordance with the funds allocated to the Commission by the Council.</text>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1984,10 +1984,10 @@
         <text>Commissions shall not have the authority to waive or otherwise impair the sovereign immunity of the Upper Mattaponi Tribe.  The sovereign immunity of the Upper Mattaponi Tribe may only be waived, or otherwise impaired, pursuant to the provisions of <cite doc="Constitution of the Upper Mattaponi Tribe" path="XIII">Article XIII of the Constitution</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+        <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
       </annotations>
     </section>
-    <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" type="History"/>
+    <annotation app="2026-05-22" doc="Upper Mattaponi Tribe Res. No. 2026-12" eff="2026-05-22" path="attachments|law|20" target-path="4" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1998,7 +1998,7 @@
       <heading>Short Title</heading>
       <text><cite path="4|21">This chapter</cite> shall be known as, the "THE EXECUTIVE, LEGISLATIVE, AND JUDICIAL BRANCHES CONTRACTING AUTHORITY ACT OF 2023 ("Act").</text>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.1" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.1" target-path="4|21" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2006,7 +2006,7 @@
       <heading>Purpose</heading>
       <text>The purpose of <cite path="4|21">this chapter</cite> is to authorize each branch of government to contract for services and supplies in accordance with funds appropriated for such purposes in an approved budget.</text>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.2" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.2" target-path="4|21" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2029,7 +2029,7 @@
         <text>The Legislature finds the need to authorize officials from each branch of government to enter into contracts that are authorized by law in accordance with funds appropriated for such purposes within an approved budget.</text>
       </para>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.3" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.3" target-path="4|21" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2056,8 +2056,8 @@
         <text>Any expenditure of funds by the executive branch of government shall be done in accordance with the available funds appropriated in an approved budget in accordance with the requirements of the <cite doc="Constitution of the Upper Mattaponi Tribe">Constitution</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.4" type="History"/>
-        <annotation app="2025-07-28" doc="Upper Mattaponi Tribe Bill No. 2025-01" eff="2025-07-28" path="" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.4" target-path="4|21" type="History"/>
+        <annotation app="2025-07-28" doc="Upper Mattaponi Tribe Bill No. 2025-01" eff="2025-07-28" path="" target-path="|4|§2103|(D)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2080,7 +2080,7 @@
         <text>Any contract entered into on behalf of the Council shall include a provision stating that such contract may be canceled at any time and for any reason by the Council.</text>
       </para>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.5" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.5" target-path="4|21" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2103,7 +2103,7 @@
         <text>Any contract entered into on behalf of the Judicial branch shall include a provision stating that such contract may be canceled at any time and for any reason by the Chief Justice.</text>
       </para>
       <annotations>
-        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.6" type="History"/>
+        <annotation app="2023-09-21" doc="Upper Mattaponi Tribe Res. No. 2023-05" eff="2023-09-21" path="attachments|law|1.6" target-path="4|21" type="History"/>
       </annotations>
     </section>
   </container>
